@@ -1,0 +1,36 @@
+.ssl-outer {border:1px solid #e5e5e5;border-radius:4px;margin-bottom:2px}
+.ssl-title {color:#667998;padding:8px 15px;cursor:pointer}
+.ssl-title:hover {background-color:#eee;color:#1f496e;text-decoration:none}
+.ssl-title-open {background-color:#f8f8f8}
+.ssl-content {display:none;padding:8px 15px;border-top:1px solid #e5e5e5}
+.ssl-content-open {display:block}
+
+.ssl-outer.blue {border-top:5px solid #74b4e8}
+.ssl-outer.blue:hover {border-top-color:#2384d3}
+.ssl-outer.blue.solid .ssl-title {background-color:#74b4e8;color:white}
+.ssl-outer.blue.solid .ssl-title:hover {background-color:#2384d3}
+.ssl-outer.blue.solid.color_content .ssl-content {background-color:#edf7ff}
+
+.ssl-outer.green {border-top:5px solid #62bc62}
+.ssl-outer.green:hover {border-top-color:#378137}
+.ssl-outer.green.solid .ssl-title {background-color:#62bc62;color:white}
+.ssl-outer.green.solid .ssl-title:hover {background-color:#378137}
+.ssl-outer.green.solid.color_content .ssl-content {background-color:#cdeacd}
+
+.ssl-outer.orange {border-top:5px solid #faa937}
+.ssl-outer.orange:hover {border-top-color:#c67605}
+.ssl-outer.orange.solid .ssl-title {background-color:#faa937;color:white}
+.ssl-outer.orange.solid .ssl-title:hover {background-color:#c67605}
+.ssl-outer.orange.solid.color_content .ssl-content {background-color:#fdecd5}
+
+.ssl-outer.red {border-top:5px solid #d3534c}
+.ssl-outer.red:hover {border-top-color:#942a25}
+.ssl-outer.red.solid .ssl-title {background-color:#d3534c;color:white}
+.ssl-outer.red.solid .ssl-title:hover {background-color:#942a25}
+.ssl-outer.red.solid.color_content .ssl-content {background-color:#ffe9e8}
+
+.ssl-outer.grey {border-top:5px solid #b3b3b3}
+.ssl-outer.grey:hover {border-top-color:grey}
+.ssl-outer.grey.solid .ssl-title {background-color:#b3b3b3;color:white}
+.ssl-outer.grey.solid .ssl-title:hover {background-color:grey}
+.ssl-outer.grey.solid.color_content .ssl-content {background-color:#f7f7f7}

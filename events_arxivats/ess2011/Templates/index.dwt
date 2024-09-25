@@ -1,0 +1,134 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<!--
+Design by Free CSS Templates
+http://www.freecsstemplates.org
+Released for free under a Creative Commons Attribution 2.5 License
+
+Name       : OffRecord 
+Description: A two-column, fixed-width design for 1024x768 screen resolutions.
+Version    : 1.0
+Released   : 20100705
+
+-->
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>EULASUR SUMMER SCHOOL 2011</title>
+<!-- TemplateEndEditable -->
+<meta name="keywords" content="" />
+<meta name="description" content="" />
+<link href="../style.css" rel="stylesheet" type="text/css" media="screen" />
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+<body>
+<!-- end #header-wrapper -->
+<div id="header">
+	<div id="logo"><a href="../index.html"><img src="../logos/logo.jpg" alt="" width="250" height="133" /></a><br />
+</div>
+	<!-- TemplateBeginEditable name="EditRegion8" -->
+	<div id="menu">
+	  <ul>
+	    <li  class="current_page_item"><a href="index.html" class="first">Home</a></li>
+	    <li><a href="organizers.html">Organizers</a></li>
+	    <li><a href="program.html">Program</a></li>
+	    <li><a href="../registration.html">Registration</a></li>
+	    <li><a href="venue.html">Venue</a></li>
+	    <li><a href="contact.html">Contact</a></li>
+      </ul>
+    </div>
+	<!-- TemplateEndEditable --><!-- end #menu -->
+</div>
+<!-- end #header -->
+<hr />
+<div id="page">
+	<div id="page-bgtop">
+		<div id="content">
+			<div class="post">
+				
+				<h2 class="title"><!-- TemplateBeginEditable name="EditRegion5" --><a href="#">Welcome </a><!-- TemplateEndEditable --></h2>
+				<div class="entry">
+			    <p><!-- TemplateBeginEditable name="EditRegion4" --><!-- TemplateEndEditable --></p>
+			  <!-- TemplateBeginEditable name="EditRegion3" --> EditRegion3<!-- TemplateEndEditable --></div>
+      </div>
+		</div>
+        <h2>&nbsp;</h2>
+        <div id="sidebar">
+          <ul>
+<li>2nd EULASUR Summer School <br />
+4 – 9 September 2011, La Plata, Argentina</li>
+<li></li>
+<li>
+  <table width="66%" align="center" cellspacing="7">
+    <tr>
+      <td width="58%">Poster</td>
+      <td width="42%" style="text-align: center">Leaflet</td>
+      </tr>
+    <tr>
+      <td><a href="../pdf/posteress2011.pdf" target="_blank"><img src="../images/25-07-2011 14-00-46.jpg" alt="" width="171" height="242" align="absmiddle" /></a></td>
+      <td><span style="text-align: center"><a href="../pdf/leaflet.pdf" target="_blank"><img src="../images/10-05-2011 11-45-35.jpg" alt="" width="114" height="240" /></a></span></td>
+      </tr>
+    <tr>
+      <td colspan="2"><strong><a href="../pdf/2nd EULASUR SUMMER SCHOOL  PROG August 26.pdf" target="_blank">PROGRAMA EN PDF</a></strong></td>
+      </tr>
+    <tr>
+      <td colspan="2"><img src="../images/eulasurss2011.jpg" alt="" width="286" height="84" /><strong><a href="../pdf/2nd EULASUR SUMMER SCHOOL  PROG August 26.pdf" target="_blank"></a></strong></td>
+    </tr>
+    <tr>
+      <td colspan="2" bgcolor="#FFFFFF"><table width="249" border="0">
+        <tr>
+          <th width="99" scope="row"><a href="../pdf/WeatherLaPlata.pdf" target="_blank"><img src="../images/weather_icon.gif" alt="" width="110" height="110" /></a></th>
+          <td width="91"><h2><strong><a href="../pdf/WeatherLaPlata.pdf" target="_blank">LA PLATA </a></strong>              <a href="../pdf/WeatherLaPlata.pdf"><strong>WEATHER</strong></a></h2></td>
+          </tr>
+        </table></td>
+    </tr>
+  </table>
+</li>
+<li>  </li>
+<li></li>
+		  </ul>
+	  </div>
+      <div id="sidebar">
+<ul>
+            		  <li><!-- TemplateBeginEditable name="EditRegion7" -->
+            		    <table width="100" align="center" cellspacing="0">
+            		      <tr>
+            		        <td>&nbsp;</td>
+          		        </tr>
+           		      </table>
+<!-- TemplateEndEditable --></li>
+			  <li>
+			    <table width="100%" cellspacing="5">
+			      <tr>
+			        <td colspan="2">Organizers</td>
+		          </tr>
+			      <tr>
+			        <td width="159"><img src="../logos/ciop.jpg" alt="" width="124" height="69" /></td>
+			        <td width="140"><img src="../logos/icmb.jpg" alt="" width="120" height="63" /></td>
+		          </tr>
+		        </table>
+	    </li>
+			  <li>
+			    <table width="100%" cellspacing="5">
+			      <tr>
+			        <td colspan="2">Activity coordinated by</td>
+		          </tr>
+			      <tr>
+			        <td width="51%"><img src="../logos/logo_icmab_azul-negro_horizontal.jpg" alt="" width="134" height="39" /></td>
+			        <td width="49%"><img src="../images/logo_csic_peq.png" alt="" width="124" height="31" /></td>
+		          </tr>
+		        </table>
+              </li>
+			</ul>
+</div>
+		<div style="clear: both;"></div>
+	</div>
+	<!-- end #page -->
+</div>
+<div id="footer">
+	<p>Copyright (c) 2011 ICMAB.ES All rights reserved. .</p>
+</div>
+<!-- end #footer -->
+</body>
+</html>

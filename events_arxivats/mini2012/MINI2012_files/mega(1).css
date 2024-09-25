@@ -1,0 +1,77 @@
+.ja-megamenu a.over, .ja-megamenu a.active { color: #fff !important; }
+
+/* lv - 1 and below
+-----------------------------------*/
+/* Styling ---*/
+.ja-megamenu ul.level0 li.mega a.mega {
+	background: url(../../images/mainnav-sep.gif) no-repeat right center;
+	color: #666;
+	font-family: 'BebasNeueRegular';
+	font-size: 20px;
+	font-weight: normal;
+	height: 50px;
+	line-height: 50px;
+	margin: 0;
+	padding: 0 14px;
+	text-shadow: 1px 1px 1px #000;
+	text-transform: uppercase;
+}
+
+.ja-megamenu ul.level0 li.last a.mega {
+	background: none !important;
+}
+
+.ja-megamenu ul.level0 li.mega a.mega:hover,
+.ja-megamenu ul.level0 li.mega a.mega:focus,
+.ja-megamenu ul.level0 li.mega a.mega:active {
+	color: #fff;
+}
+
+.ja-megamenu ul.level1 li.mega { border-top: 1px dashed #333; }
+
+.ja-megamenu ul.level1 li.first { border-top: 0; }
+
+.ja-megamenu ul.level1 li.mega a.mega {
+	background: none;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 100%;
+	height: 30px;
+	line-height: 30px;
+	text-shadow: none;
+	text-transform: none;
+	padding: 0;
+}
+
+ /* CHILD CONTENT
+-----------------------------------*/
+.ja-megamenu .childcontent-inner {
+	background: url(../../images/noise-d.gif);
+	border: 1px solid #333;
+	border-top: 0;
+	color: #ccc;
+}
+
+.ja-megamenu .level1 .childcontent-inner { border-top: 1px solid #333; }
+
+.ja-megamenu .childcontent .ja-moduletable { color: #333; }
+
+.ja-megamenu .childcontent .ja-moduletable h3 {
+	background: none;
+	border-bottom: 1px dashed #333;
+	text-transform: uppercase;
+}
+
+/* Grouped --- */
+.ja-megamenu .group-title { border-bottom: 1px solid #333; }
+
+.ja-megamenu .group-title .menu-title {
+	color: #333;
+	text-transform: uppercase;
+	font-weight: bold;
+	font-size: 115%;
+}
+
+.ja-megamenu .group-title .menu-desc {
+	color: #999;
+	padding-left: 0 !important;
+}

@@ -1,0 +1,96 @@
+ul.form-list li {
+	background: none;
+	padding: 5px 10px;
+	clear: both;
+	position: relative;
+}
+
+ul.form-list li label {
+	background: url(../images/label-bg.png) no-repeat right center;
+	color: #fff;
+	font-weight: bold;
+	float: left;
+	font-size: 92%;
+	height: 30px;
+	line-height: 30px;
+	margin-bottom: 0px;
+	padding: 0 20px 0 10px;
+	text-transform: uppercase;
+	width: 150px;
+}
+
+ul.form-list li input-text { float: none; }
+
+ul.form-list li div.input-box {
+	border: 0;
+	float: left;
+	padding: 0 0 0 10px;
+}
+
+ul.form-list li div.input-box input,
+ul.form-list li div.input-box textarea {
+	background: #f8f8f8;
+	border: 1px solid #ABADB3;
+	border-right: 1px solid #D5D5D5;
+	border-bottom: 1px solid #D5D5D5;
+	font-family: BitstreamVeraSansRoman;
+	padding: 7px 10px;
+	width: 300px;
+	min-width: 300px;
+}
+
+ul.form-list li:hover .input-box {
+	background: none;
+	border: 0;
+}
+
+
+ul.form-list li:hover li .input-box {
+	background: none;
+	border: 1px solid #fffbcc;
+}
+
+ul.form-list li.error .input-box {
+	background: #fff0f0 !important;
+	display: block !important;
+	border: 1px dotted #cc0000; 
+}
+
+ul.form-list li div.input-box .small {
+	color: #666;
+}
+
+ul.form-list li .button {
+	background: url(../images/btnsubmit.png) no-repeat right bottom;
+	border: 0;
+	color: #fff;
+	font-family: BitstreamVeraSansRoman;
+	font-size: 110%;
+	height: 30px;
+	line-height: 30px;
+	padding: 0 10px;
+	text-transform: uppercase;
+	text-shadow: 1px 1px 1px #A23A23;
+}
+
+ul.form-list li .button:hover {
+	background-position: right top;
+	cursor: pointer;
+}
+
+.captcha-container {
+	padding-top: 5px;
+}
+
+.captcha-container br {
+	display: none;
+	vertical-align: middle;
+}
+
+.captcha-container label {
+	margin-top: -5px;
+	margin-right: 10px;
+	vertical-align: middle;
+}
+
+.mathguard-answer { width: 50px !important; }
