@@ -1,0 +1,444 @@
+<!DOCTYPE html>
+<html lang="en-gb" dir="ltr">
+
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="icon" href="images/favicon.svg" sizes="any">
+    <link rel="apple-touch-icon" href="images/touch.svg">
+    <meta charset="utf-8">
+    <meta name="description" content="Active 2022">
+    <meta name="generator" content="MYOB">
+    <title>Active 2022 - Venue</title>
+    <link href="https://active2022.icmab.es/index.php/component/finder/search?format=opensearch&amp;Itemid=101"
+        rel="search" title="OpenSearch Active 2022" type="application/opensearchdescription+xml">
+    <link href="/templates/yootheme/packages/builder/elements/map/assets/leaflet.css?ver=4.4.8" rel="preload" as="style"
+        onload="this.onload=null;this.rel='stylesheet'">
+    <link href="/media/system/css/joomla-fontawesome.min.css?ver=4.4.8" rel="preload" as="style"
+        onload="this.onload=null;this.rel='stylesheet'">
+    <link href="css/awesomplete.css" rel="stylesheet">
+    <link href="css/joomla-alert.min.css" rel="stylesheet">
+    <link href="css/theme.12.css" rel="stylesheet">
+    <script src="js/awesomplete.min.js" defer></script>
+    <script type="application/json"
+        class="joomla-script-options new">{"joomla.jtext":{"JLIB_JS_AJAX_ERROR_OTHER":"An error has occurred while fetching the JSON data: HTTP %s status code.","JLIB_JS_AJAX_ERROR_PARSE":"A parse error has occurred while processing the following JSON data:<br><code style=\"color:inherit;white-space:pre-wrap;padding:0;margin:0;border:0;background:inherit;\">%s<\/code>","ERROR":"Error","MESSAGE":"Message","NOTICE":"Notice","WARNING":"Warning","JCLOSE":"Close","JOK":"OK","JOPEN":"Open"},"finder-search":{"url":"\/index.php\/component\/finder\/?task=suggestions.suggest&amp;format=json&amp;tmpl=component&amp;Itemid=101"},"system.paths":{"root":"","rootFull":"https:\/\/active2022.icmab.es\/","base":"","baseFull":"https:\/\/active2022.icmab.es\/"},"csrf.token":"4ad337bcf6108a43c5fc4d9da1b42356"}</script>
+    <script src="js/core.min.js"></script>
+    <script src="js/finder-es5.min.js" nomodule defer></script>
+    <script src="js/messages-es5.min.js" nomodule defer></script>
+    <script src="js/finder.min.js" type="module"></script>
+    <script src="js/messages.min.js" type="module"></script>
+    <script src="js/leaflet.js" defer></script>
+    <script src="js/map-leaflet.min.js" defer></script>
+    <script src="js/uikit.min.js"></script>
+    <script src="js/uikit-icons-creative-hub.min.js"></script>
+    <script src="js/theme.js"></script>
+    <script>document.addEventListener('DOMContentLoaded', function () {
+            Array.prototype.slice.call(document.querySelectorAll('a span[id^="cloak"]')).forEach(function (span) {
+                span.innerText = span.textContent;
+            });
+        });</script>
+    <script>window.yootheme ||= {}; var $theme = yootheme.theme = { "i18n": { "close": { "label": "Close" }, "totop": { "label": "Back to top" }, "marker": { "label": "Open" }, "navbarToggleIcon": { "label": "Open menu" }, "paginationPrevious": { "label": "Previous page" }, "paginationNext": { "label": "Next page" }, "searchIcon": { "toggle": "Open Search", "submit": "Submit Search" }, "slider": { "next": "Next slide", "previous": "Previous slide", "slideX": "Slide %s", "slideLabel": "%s of %s" }, "slideshow": { "next": "Next slide", "previous": "Previous slide", "slideX": "Slide %s", "slideLabel": "%s of %s" }, "lightboxPanel": { "next": "Next slide", "previous": "Previous slide", "slideLabel": "%s of %s", "close": "Close" } } };</script>
+
+</head>
+
+<body class="">
+
+    <div class="uk-hidden-visually uk-notification uk-notification-top-left uk-width-auto">
+        <div class="uk-notification-message">
+            <a href="#tm-main">Skip to main content</a>
+        </div>
+    </div>
+
+
+
+    <div class="tm-page">
+
+
+
+
+        <header class="tm-header-mobile uk-hidden@m">
+
+
+
+            <div class="uk-navbar-container">
+
+                <div class="uk-container uk-container-expand">
+                    <nav class="uk-navbar"
+                        uk-navbar='{"align":"left","container":".tm-header-mobile","boundary":".tm-header-mobile .uk-navbar-container"}'>
+
+                        <div class="uk-navbar-left">
+
+
+                            <a uk-toggle href="#tm-dialog-mobile" class="uk-navbar-toggle">
+
+
+                                <div uk-navbar-toggle-icon></div>
+
+
+                            </a>
+
+                        </div>
+
+                        <div class="uk-navbar-center">
+
+                            <a href="." aria-label="Back to home" class="uk-logo uk-navbar-item">
+                                <img alt loading="eager" width="200" height="50" src="images/logo.svg"><img
+                                    class="uk-logo-inverse" alt loading="eager" width="200" height="50"
+                                    src="images/logo-w.svg"></a>
+
+
+                        </div>
+
+
+                    </nav>
+                </div>
+
+            </div>
+
+
+
+
+
+            <div id="tm-dialog-mobile" uk-offcanvas="container: true; overlay: true" mode="slide">
+                <div class="uk-offcanvas-bar uk-flex uk-flex-column">
+
+                    <button class="uk-offcanvas-close uk-close-large" type="button" uk-close
+                        uk-toggle="cls: uk-close-large; mode: media; media: @s"></button>
+
+                    <div class="uk-margin-auto-bottom">
+
+                        <div class="uk-grid uk-child-width-1-1" uk-grid>
+                            <div>
+                                <div class="uk-panel" id="module-menu-dialog-mobile">
+
+
+
+                                    <ul class="uk-nav uk-nav-default">
+
+                                        <li class="item-101"><a href="index.html"> Home</a></li>
+                                        <li class="item-120"><a href="organizers.html"> Organizers</a></li>
+                                        <li class="item-142"><a href="topics.html"> Topics</a></li>
+                                        <li class="item-112"><a href="speakers.html"> Speakers</a></li>
+                                        <li class="item-144"><a href="program.html"> Program</a></li>
+                                        <li class="item-113 uk-active"><a href="venue.html"> Venue</a></li>
+                                    </ul>
+
+                                </div>
+                            </div>
+                            <div>
+                                <div class="uk-panel" id="module-tm-4">
+
+
+
+
+                                    <form id="search-tm-4" action="/index.php/component/finder/search?Itemid=101"
+                                        method="get" role="search"
+                                        class="uk-search js-finder-searchform uk-search-default uk-width-1-1"><span
+                                            uk-search-icon class="uk-position-z-index"></span><input name="q"
+                                            class="js-finder-search-query uk-search-input" placeholder="Search" required
+                                            aria-label="Search" type="search"><input type="hidden" name="Itemid"
+                                            value="101"></form>
+
+
+
+
+
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+
+                </div>
+            </div>
+
+
+
+
+        </header>
+
+
+        <div class="tm-toolbar tm-toolbar-default uk-visible@m">
+            <div class="uk-container uk-flex uk-flex-middle">
+
+
+                <div class="uk-margin-auto-left">
+                    <div class="uk-grid-medium uk-child-width-auto uk-flex-middle"
+                        uk-grid="margin: uk-margin-small-top">
+
+                    </div>
+                </div>
+
+            </div>
+        </div>
+
+        <header class="tm-header uk-visible@m">
+
+
+
+
+            <div class="uk-navbar-container">
+
+                <div class="uk-container uk-container-xlarge">
+                    <nav class="uk-navbar"
+                        uk-navbar='{"align":"left","container":".tm-header","boundary":".tm-header .uk-navbar-container"}'>
+
+                        <div class="uk-navbar-left">
+
+                            <a href="." aria-label="Back to home" class="uk-logo uk-navbar-item">
+                                <img alt loading="eager" width="200" height="50" src="images/logo.svg"><img
+                                    class="uk-logo-inverse" alt loading="eager" width="200" height="50"
+                                    src="images/logo-w.svg"></a>
+
+
+                            <ul class="uk-navbar-nav">
+
+                                <li class="item-101"><a href="index.html"> Home</a></li>
+                                <li class="item-120"><a href="organizers.html"> Organizers</a></li>
+                                <li class="item-142"><a href="topics.html"> Topics</a></li>
+                                <li class="item-112"><a href="speakers.html"> Speakers</a></li>
+                                <li class="item-144"><a href="program.html"> Program</a></li>
+                                <li class="item-113 uk-active"><a href="venue.html"> Venue</a></li>
+                            </ul>
+
+
+                            <a class="uk-navbar-toggle" id="module-tm-3" href="#search-tm-3-modal" uk-search-icon
+                                uk-toggle></a>
+
+                            <div id="search-tm-3-modal" class="uk-modal-full" uk-modal="container: true">
+                                <div class="uk-modal-dialog uk-flex uk-flex-center uk-flex-middle" uk-height-viewport>
+                                    <button class="uk-modal-close-full uk-close-large" type="button" uk-close
+                                        uk-toggle="cls: uk-modal-close-full uk-close-large uk-modal-close-default; mode: media; media: @s"></button>
+                                    <div class="uk-search uk-search-large">
+                                        <form id="search-tm-3" action="/index.php/component/finder/search?Itemid=101"
+                                            method="get" role="search"
+                                            class="uk-search js-finder-searchform uk-search-large"><input name="q"
+                                                class="js-finder-search-query uk-search-input uk-text-center"
+                                                placeholder="Search" required aria-label="Search" type="search"
+                                                autofocus><input type="hidden" name="Itemid" value="101"></form>
+                                    </div>
+                                </div>
+                            </div>
+
+
+
+
+
+
+
+
+
+                        </div>
+
+
+
+                    </nav>
+                </div>
+
+            </div>
+
+
+
+
+
+
+
+
+
+        </header>
+
+
+
+
+        <main id="tm-main">
+
+
+            <div id="system-message-container" aria-live="polite"></div>
+
+            <!-- Builder #page -->
+            <div class="uk-section-default uk-section uk-padding-remove-top">
+
+
+
+
+
+                <div class="uk-container uk-container-xlarge">
+                    <div class="uk-grid tm-grid-expand uk-grid-collapse uk-child-width-1-1 uk-margin-remove-vertical">
+                        <div class="uk-width-1-1@s">
+
+
+
+
+
+
+
+                            <div class="uk-panel uk-text-left@s uk-text-center">
+
+                                <div class="uk-flex-middle" uk-grid>
+                                    <div class="uk-width-1-2@m uk-flex-left">
+
+
+
+                                        <img src="images\1573_Photo 07-06-2019 12 11 01_4032x3024.jpg"
+                                            sizes="(min-width: 960px) 960px" width="960" height="720" alt loading="lazy"
+                                            class="el-image">
+
+
+
+                                    </div>
+                                    <div class="uk-width-expand">
+
+                                        <div class="uk-padding-large uk-margin-remove-first-child">
+
+
+
+                                            <h1 class="el-title uk-heading-large uk-margin-top uk-margin-remove-bottom">
+                                                Venue </h1>
+                                            <div class="el-meta uk-h3 uk-margin-small-top uk-margin-remove-bottom">
+                                                INSTITUT DE CI&Egrave;NCIA DE <br>MATERIALS DE BARCELONA<br>ICMAB-CSIC
+                                            </div>
+
+
+
+                                            <div class="el-content uk-panel uk-margin-small-top">
+                                                <p>Carrer dels Til&middot;lers s/n<br>Campus UAB<br>08193
+                                                    Bellaterra<br>Barcelona<br>CATALUNYA, SPAIN</p>
+                                                <div class="a2a_kit a2a_kit_size_32 a2a_default_style a2a_follow"><a
+                                                        class="a2a_button_twitter" data-a2a-follow="icmabcsic"></a> <a
+                                                        class="a2a_button_facebook" data-a2a-follow="icmab"></a> <a
+                                                        class="a2a_button_instagram" data-a2a-follow="icmab"></a> <a
+                                                        class="a2a_button_linkedin_company"
+                                                        data-a2a-follow="1398550"></a> <a
+                                                        class="a2a_button_youtube_channel"
+                                                        data-a2a-follow="ICMABCSIC/videos"></a></div>
+                                                <script async=""
+                                                    src="https://static.addtoany.com/menu/page.js"></script>
+                                            </div>
+
+                                            <div class="uk-margin-medium-top"><a href="https://icmab.es/how-to-arrive"
+                                                    target="_blank" class="el-link uk-button uk-button-primary">HOW TO
+                                                    ARRIVE</a></div>
+
+                                        </div>
+
+                                    </div>
+                                </div>
+
+                            </div>
+
+
+
+
+                        </div>
+                    </div>
+
+                </div>
+
+
+
+            </div>
+
+
+        </main>
+
+
+
+        <footer>
+            <!-- Builder #footer -->
+            <div class="uk-section-secondary uk-section">
+
+
+
+
+
+
+                <div class="uk-grid-margin-small uk-container uk-container-xlarge">
+                    <div class="uk-grid tm-grid-expand uk-grid-column-large uk-grid-row-small" uk-grid>
+                        <div class="uk-grid-item-match uk-flex-middle uk-width-1-3@m">
+
+
+
+
+                            <div class="uk-panel uk-width-1-1">
+
+
+                                <div class="uk-margin uk-text-center">
+                                    <img src="images/logo-w.svg" width="250" class="el-image" alt loading="lazy">
+
+                                </div>
+
+                            </div>
+
+
+                        </div>
+                        <div class="uk-grid-item-match uk-flex-middle uk-width-1-3@m">
+
+
+
+
+                            <div class="uk-panel uk-width-1-1">
+
+
+                                <div class="uk-margin uk-text-center">
+                                    <img src="images/logo-ochoa-blanco-7239bce3.png" sizes="(min-width: 300px) 300px"
+                                        width="300" height="57" class="el-image" alt loading="lazy">
+
+                                </div>
+
+                            </div>
+
+
+                        </div>
+                        <div class="uk-grid-item-match uk-flex-middle uk-width-1-3@m">
+
+
+
+
+                            <div class="uk-panel uk-width-1-1">
+
+
+                                <div class="uk-margin uk-text-center">
+                                    <img src="images/logocsic_blanco-4b34a2b5.png" sizes="(min-width: 200px) 200px"
+                                        width="200" height="49" class="el-image" alt loading="lazy">
+
+                                </div>
+
+                            </div>
+
+
+                        </div>
+                    </div>
+                </div>
+                <div class="uk-grid tm-grid-expand uk-child-width-1-1 uk-grid-margin">
+                    <div class="uk-width-1-1">
+
+
+
+
+
+
+                        <div class="uk-panel uk-text-meta uk-text-center">
+                            <p>&copy; All rights reserved.</p>
+                            <p></p>
+                        </div>
+
+
+
+
+                    </div>
+                </div>
+
+
+
+
+            </div>
+        </footer>
+
+    </div>
+
+
+
+
+</body>
+
+</html>
