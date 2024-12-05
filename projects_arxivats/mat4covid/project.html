@@ -1,0 +1,395 @@
+<!DOCTYPE html>
+<html lang="en-gb" dir="ltr">
+
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="icon" href="images/favicon.svg" sizes="any">
+    <link rel="apple-touch-icon" href="images/favicon.svg">
+    <meta charset="utf-8">
+    <base href="">
+    <meta name="author" content="jags">
+    <title>Mat4Covid - Project</title>
+    <link href="http://mat4covid.icmab.es/component/search/?id=9&amp;Itemid=123&amp;format=opensearch" rel="search"
+        title="Search Mat4Covid" type="application/opensearchdescription+xml">
+    <script type="text/javascript" src="js/theme_project.js"></script>
+    <link rel="stylesheet" href="css/theme_project.css">
+</head>
+
+<body class="">
+    <div class="tm-page">
+        <div class="tm-header-mobile uk-hidden@m" uk-header>
+            <div class="uk-navbar-container">
+                <div class="uk-container uk-container-expand">
+                    <nav class="uk-navbar" uk-navbar='{"container":".tm-header-mobile"}'>
+                        <div class="uk-navbar-left">
+                            <a uk-toggle aria-label="Open Menu" href="#tm-dialog-mobile" class="uk-navbar-toggle">
+                                <div uk-navbar-toggle-icon></div>
+                            </a>
+                        </div>
+                        <div class="uk-navbar-center">
+                            <a href="." aria-label="Back to home" class="uk-logo uk-navbar-item">
+                                <img alt="MAGNEPIC" loading="eager" width="150" height="80" src="images/logo.svg"></a>
+                        </div>
+                    </nav>
+                </div>
+            </div>
+            <div id="tm-dialog-mobile" uk-offcanvas="container: true; overlay: true" mode="slide">
+                <div class="uk-offcanvas-bar uk-flex uk-flex-column">
+                    <button class="uk-offcanvas-close uk-close-large" type="button" uk-close
+                        uk-toggle="cls: uk-close-large; mode: media; media: @s"></button>
+                    <div class="uk-margin-auto-bottom">
+                        <div class="uk-grid uk-child-width-1-1" uk-grid>
+                            <div>
+                                <div class="uk-panel" id="module-menu-dialog-mobile">
+                                    <ul class="uk-nav uk-nav-default">
+                                        <li class="item-101"><a href="index.html"> Home</a></li>
+                                        <li class="item-123 uk-active"><a href="project.html"> Project</a></li>
+                                        <li class="item-102"><a href="people.html"> People</a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                            <div>
+                                <div class="uk-panel" id="module-tm-4">
+                                    <form id="search-tm-4" action="/project" method="post" role="search"
+                                        class="uk-search uk-search-default uk-width-1-1"><span
+                                            uk-search-icon></span><input name="searchword" placeholder="Search"
+                                            minlength="3" aria-label="Search" type="search"
+                                            class="uk-search-input"><input type="hidden" name="task"
+                                            value="search"><input type="hidden" name="option" value="com_search"><input
+                                            type="hidden" name="Itemid" value="123"></form>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="tm-toolbar tm-toolbar-default uk-visible@m">
+            <div class="uk-container uk-flex uk-flex-middle uk-container-expand">
+                <div class="uk-margin-auto-left">
+                    <div class="uk-grid-medium uk-child-width-auto uk-flex-middle"
+                        uk-grid="margin: uk-margin-small-top">
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="tm-header uk-visible@m" uk-header>
+            <div class="uk-navbar-container">
+                <div class="uk-container uk-container-large">
+                    <nav class="uk-navbar"
+                        uk-navbar='{"align":"left","container":".tm-header","boundary":".tm-header .uk-navbar-container"}'>
+                        <div class="uk-navbar-left">
+                            <a href="." aria-label="Back to home" class="uk-logo uk-navbar-item">
+                                <img alt="MAGNEPIC" loading="eager" width="200" height="60" src="images/logo.svg"><img
+                                    class="uk-logo-inverse" alt="MAGNEPIC" loading="eager" width="200" height="60"
+                                    src="images/LOGO-w.svg"></a>
+                            <ul class="uk-navbar-nav">
+                                <li class="item-101"><a href="index.html"> Home</a></li>
+                                <li class="item-123 uk-active"><a href="project.html"> Project</a></li>
+                                <li class="item-102"><a href="people.html"> People</a></li>
+                            </ul>
+                        </div>
+                        <div class="uk-navbar-right">
+                            <div class="uk-navbar-item" id="module-tm-3">
+                                <form id="search-tm-3" action="/project" method="post" role="search"
+                                    class="uk-search uk-search-default"><span uk-search-icon></span><input
+                                        name="searchword" placeholder="Search" minlength="3" aria-label="Search"
+                                        type="search" class="uk-search-input"><input type="hidden" name="task"
+                                        value="search"><input type="hidden" name="option" value="com_search"><input
+                                        type="hidden" name="Itemid" value="123"></form>
+                            </div>
+                        </div>
+                    </nav>
+                </div>
+            </div>
+        </div>
+        <div id="system-message-container" aria-live="polite"></div>
+        <!-- Builder #page -->
+        <div class="uk-section-primary uk-section" tm-header-transparent="light">
+            <div class="tm-header-placeholder uk-margin-remove-adjacent"></div>
+            <div class="uk-margin uk-container uk-container-small">
+                <div class="tm-grid-expand uk-grid-divider uk-child-width-1-1" uk-grid>
+                    <div class="uk-width-1-1">
+                        <h1 class="uk-heading-medium uk-width-large uk-margin-auto uk-text-center"
+                            uk-parallax="y: 0,-75; easing: 1; media: @m"> Project </h1>
+                        <hr class="uk-divider-small uk-text-center">
+                        <div class="uk-panel uk-text-meta uk-margin uk-width-2xlarge uk-margin-auto">
+                            <p><strong>MAT4COVID</strong>: Interaction of SARS-CoV-2 virus with materials: a multi
+                                computational simulation study.<br>Marie Sklodowska-Curie Actions Individual Fellowship
+                                (MSCA-IF Grant agreement ID: 101026158)<br><strong>Principal investigator:</strong> Dr.
+                                Jordi Faraudo; <joomla-hidden-mail is-link="1" is-email="0" first="amZhcmF1ZG8="
+                                    last="aWNtYWIuZXM=" text="amZhcmF1ZG9AaWNtYWIuZXMg" base="" target="_blank"
+                                    rel="noopener noreferrer">This email address is being protected from spambots. You
+                                    need JavaScript enabled to view it.</joomla-hidden-mail><br><strong>Experienced
+                                    researcher:</strong> Dr. Mehdi Sahihi; <joomla-hidden-mail is-link="1" is-email="1"
+                                    first="bXNhaGloaQ==" last="aWNtYWIuZXM=" text="bXNhaGloaUBpY21hYi5lcw=="
+                                    base="">This email address is being protected from spambots. You need JavaScript
+                                    enabled to view it.</joomla-hidden-mail></p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="uk-section-default uk-section">
+            <div class="uk-container uk-container-large">
+                <div class="tm-grid-expand uk-child-width-1-1 uk-margin" uk-grid>
+                    <div class="uk-width-1-1@m">
+                        <h2 class="uk-heading-small uk-margin uk-width-2xlarge uk-text-left"> <span
+                                class="uk-text-background">Abstract</span>
+                        </h2>
+                        <div class="uk-panel uk-column-1-2@s uk-column-1-1 uk-margin uk-text-left">This project proposes
+                            an atomistic modelling approach to the fundamental question of the interaction of enveloped
+                            viruses (in particular the SARS-CoV-2 virus responsible for the Covid-19 disease), with
+                            surfaces of materials. These interactions play a key role in indirect disease transmission
+                            through surfaces of materials contaminated with virus. This is particularly relevant in the
+                            case of the ongoing Covid-19 global pandemic; being the control of the disease transmission
+                            a priority everywhere. SARS-CoV-2 virus transmission mediated by contaminated surfaces has
+                            been identified in particular outbreaks, and the cleaning and disinfection of surfaces is
+                            known to be a major issue. Development of more efficient disinfestation strategies to break
+                            the transmission chain or the development of virucidal materials will be possible with a
+                            fundamental knowledge of the interaction of the virus with materials. The methodology to be
+                            employed will be atomistic simulations, based on the pre-existent deep understanding of the
+                            molecular structure of the virus. It should be noted that there is a substantial activity
+                            worldwide on atomistic simulations of the interactions between the virus components and
+                            possible antiviral drugs. However, the fundamental question of the interaction of the virus
+                            with materials remains largely unstudied. The main vision of this research project is to use
+                            state-of-the-art computational chemistry tools (MD simulation and QM/MM), to predict the
+                            interaction between the molecular elements of the SARS-CoV-2 virus envelope and surfaces of
+                            materials. We will consider various materials of interest and different thermodynamic
+                            conditions. The results of the present project not only will pave the way to identify the
+                            factors that influence the adhesion of SARS-CoV-2 virus to surfaces and to investigate the
+                            possible virucidal action of materials but also, will shed the lights to study the
+                            interaction of the other envelope viruses like Influenza virus with materials.
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="uk-section-default uk-section uk-padding-remove-top">
+            <div class="uk-container uk-container-large">
+                <div class="tm-grid-expand uk-child-width-1-1 uk-margin" uk-grid>
+                    <div class="uk-width-1-1">
+                        <h2 class="uk-heading-small uk-margin uk-width-2xlarge uk-text-left"> <span
+                                class="uk-text-background">Importance</span>
+                        </h2>
+                    </div>
+                </div>
+                <div class="tm-grid-expand uk-margin" uk-grid>
+                    <div class="uk-width-1-2@m">
+                        <div class="uk-panel uk-margin uk-text-left">
+                            <p>Epidemic outbreaks of respiratory viral diseases represent a serious issue to public
+                                health, as demonstrated historically by influenza pandemics<a href="#_ftn1"
+                                    name="_ftnref1"><sup>[1]</sup></a>
+                                and now by the ongoing COVID-19 pandemic. The SARS-CoV-2 virus (responsible for the
+                                COVID-19 disease) is the third documented spill over of an animal coronavirus to humans
+                                in only two decades<a href="#_ftn2" name="_ftnref2"><sup>[2]</sup></a>
+                                and it has the highest transmission rate among them<a href="#_ftn3"
+                                    name="_ftnref3"><sup>[3]</sup></a>. The outbreak originated in December 2019 in
+                                Wuhan, China and expanded so fast around the world that the World Health
+                                Organization&rsquo;s (WHO) declared a Public Health Emergency of International Concern
+                                (PHEIC) on 30 January 2020 followed by a declaration of global pandemic on 11 March
+                                2020,<a href="#_ftn4" name="_ftnref4"><sup>[4]</sup></a>,<a href="#_ftn5"
+                                    name="_ftnref5"><sup>[5]</sup></a>. As of February 20, 2022, over 424 million people
+                                were infected. Breaking the chain of transmission is now a top priority to control this
+                                disease<a href="#_ftn6" name="_ftnref6"><sup>[6]</sup></a>. Transmission is due to
+                                respiratory secretions or droplets expelled by infected individuals. These secretions
+                                may affect other persons (direct transmission) but also they are able to contaminate
+                                surfaces. Viable SARS-CoV-2 virus can remain viable on surfaces for periods ranging from
+                                hours to days, depending on the ambient environment (including temperature and humidity)
+                                and the type of surface<a href="#_ftn7" name="_ftnref7"><sup>[7]</sup></a>. Transmission
+                                also occur indirectly through touching surfaces, textiles or objects contaminated with
+                                virus followed by touching the mouth, nose, or eyes. For this reason, generic antiviral
+                                disinfection measures (appropriate for previously known enveloped viruses) are
+                                recommended for hands, surfaces and materials, e.g. the use of disinfectants containing
+                                alcohol or soaps with surfactants. Design of more focused recommendations, more
+                                efficient disinfestation strategies and development of virucidal surfaces or textiles
+                                will be possible with a fundamental knowledge of the physico-chemical aspects of the
+                                interaction of the virus with materials. Experimental evidence<a href="#_ftn8"
+                                    name="_ftnref8"><sup>[8]</sup></a> suggests that the interaction of the virus with
+                                surfaces of different materials is highly specific but at the present time, the
+                                fundamental aspects of the virus-material interactions are not known.</p>
+                            <p><em>The objective of this project is to study the fundamental physico-chemical aspects of
+                                    the virus-surface interaction in order to identify which factors (hydrophobic or
+                                    hydrophilic nature of the surface, surface charge, nanostructuration or others) make
+                                    a surface prone to virus adhesion or, on the contrary, make a surface
+                                    virucidal.</em></p>
+                        </div>
+                        <hr>
+                        <div class="uk-panel uk-text-meta uk-margin">
+                            <p><a href="#_ftnref1" name="_ftn1"><sup>[1]</sup></a> US Centers for disease control and
+                                prevention (Past Pandemics summary) <em><a
+                                        href="https://www.cdc.gov/flu/pandemic-resources/basics/past-pandemics.html">+info</a></em><br>
+                                <a href="#_ftnref2" name="_ftn2"><sup>[2]</sup></a> Zhou P, Yang XL, Wang XG, et al.,
+                                <em>Nature,</em> <strong>2020</strong>, (579), 270&ndash;273.<br> <a href="#_ftnref3"
+                                    name="_ftn3"><sup>[3]</sup></a> MacIntyre CR., <em>Global Biosecurity</em>,
+                                <strong>2020</strong>, (1), 1&ndash;3.<br> <a href="#_ftnref4"
+                                    name="_ftn4"><sup>[4]</sup></a> Chan JFW, Yuan S, Kok KH, et al., <em>Lancet,</em>
+                                <strong>2020</strong>, (395), 514&ndash;523.<br> <a href="#_ftnref5"
+                                    name="_ftn5"><sup>[5]</sup></a> Chen N, Zhou M, Dong X, et al. <em>Lancet,
+                                </em><strong>2020</strong><em>,</em> (395), 507&ndash;513.<br> <a href="#_ftnref6"
+                                    name="_ftn6"><sup>[6]</sup></a> Transmission of SARS-CoV-2 &ndash; implications for
+                                infection prevention precautions: Scientific brief, WHO, 09 July
+                                <strong>2020</strong>.<br> <a href="#_ftnref7" name="_ftn7"><sup>[7]</sup></a> Van
+                                Doremalen N, Bushmaker T, Morris DH, et al., <em>N Engl J Med</em>,
+                                <strong>2020</strong>, (382), 1564-1567.<br> <a href="#_ftnref8"
+                                    name="_ftn8"><sup>[8]</sup></a> Kampf G, Todt D, Pfaender S, Steinmann E, <em>J Hosp
+                                    Infect</em>, <strong>2020</strong>, (104), 246&ndash;251.
+                            </p>
+                        </div>
+                    </div>
+                    <div class="uk-width-1-2@m">
+                        <div class="uk-margin">
+                            <picture>
+                                <img src="images/image002-e73856b1.png" width="721" height="548" class="el-image" alt
+                                    loading="lazy">
+                                </source>
+                            </picture>
+                        </div>
+                        <div class="uk-panel uk-text-meta uk-margin">
+                            <p><strong>Figure 1:</strong> Key steps where the MAT4COVID project could counter the
+                                disease.</p>
+                        </div>
+                        <div class="uk-panel uk-margin uk-text-left">
+                            <p>As a multidisciplinary perspective encompassing diverse fields such as virology, biology,
+                                medicine, engineering, chemistry, materials science, and computational science, our
+                                project can support the fight against COVID-19, as well as infectious diseases in
+                                general, including future pandemics.</p>
+                            <p>Considering what we know so far about the life cycle of the virus, we envision key steps
+                                where the MAT4COVID project could counter the disease <strong>(Figure 1)</strong>:</p>
+                            <ul>
+                                <li>Virus inactivation</li>
+                                <li>To understand the mechanism of interactions</li>
+                                <li>Vaccine design</li>
+                                <li>To design a virus removal filter</li>
+                                <li>Virus detection</li>
+                            </ul>
+                            <p><a href="#_ftnref1" name="_ftn1"><span></span></a></p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="uk-section-default uk-section uk-padding-remove-top">
+            <div class="uk-margin uk-margin-remove-bottom uk-container uk-container-large">
+                <div class="uk-margin-remove-bottom tm-grid-expand uk-child-width-1-1" uk-grid>
+                    <div class="uk-width-1-1">
+                        <h2 class="uk-heading-small uk-margin uk-text-left"> <span class="uk-text-background">Structure
+                                of the SARS-CoV-2 virus</span>
+                        </h2>
+                        <div class="uk-panel uk-column-1-2@s uk-column-1-1 uk-margin uk-text-left">
+                            <p>The structure of the SARS-CoV-2 virus is well known: it has the typical structure of a
+                                coronavirus with an envelope containing lipids and proteins <strong>(Figure 2)</strong>,
+                                which protects the nucleocapsid that packages the viral RNA. The large protruding
+                                glycoprotein spikes (S) on the envelope, typical of the Coronaviridae family of viruses,
+                                are responsible for the interaction with host cell receptors and with the environment.
+                                The molecular structure with atomistic coordinates of the SARS-CoV-2 virus spike was
+                                published<a href="#_ftn9" name="_ftnref9"><sup>[9]</sup></a> as early as in March 2020.
+                            </p>
+                            <p></p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="uk-margin uk-margin-remove-bottom uk-container uk-container-large">
+                <div class="uk-margin-remove-bottom tm-grid-expand uk-child-width-1-1" uk-grid>
+                    <div class="uk-width-1-1">
+                        <div class="uk-margin uk-text-center">
+                            <picture>
+                                <img src="images/image003-e52afdcf.png" width="960" height="540" class="el-image" alt
+                                    loading="lazy">
+                                </source>
+                            </picture>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="uk-grid-margin uk-margin-remove-top uk-container uk-container-large">
+                <div class="uk-margin-remove-top tm-grid-expand uk-child-width-1-1" uk-grid>
+                    <div class="uk-width-1-1">
+                        <div class="uk-panel uk-text-meta uk-column-1-2@m uk-column-1-1@s uk-margin">
+                            <p><strong>Figure 2.</strong> (a) Electron microscopy image of a SARS-CoV-2 coronavirus
+                                particle, freely distributed by the NIAID&rsquo;s Rocky Mountain Laboratories
+                                (NIAID-RML), colored to emphasize the virus structure. The spikes protruding from the
+                                virus envelope (in yellow color) are clearly visible. Typical diameter ranges from 80 nm
+                                to 120 nm. (b) General scheme of a coronavirus indicating their main structural
+                                features. We show the nucleocapsid (purple) that packages the viral RNA and the viral
+                                envelope made by lipids (pink), envelope protein E (blue), membrane protein M (red) and
+                                the protruding spike glycoproteins (green). The scheme was made using CellPAINT software
+                                (c) Visualization of an atomistic model of the SARS-CoV-2 spike glycoprotein in the open
+                                state inserted into a fully hydrated lipid bilayer (water and ions not shown). The
+                                atomic coordinates (a total of 1.7&times;10<sup>6</sup> atoms) were downloaded from
+                                posted data at the COVID-19 repository<sup>12</sup> and represented using Visual
+                                Molecular Dynamics software. The glycans that cover the S protein are shown in orange in
+                                Van der Waals size. (d) S protein from (c) colored to indicate its main regions. The S
+                                protein is synthesized as a single 1273 amino acid polypeptide chain, which associates
+                                as a trimer. Each trimer can be divided into the head, stalk, and cytoplasmic domain
+                                (CP) or cytoplasmic tail (CT), indicated in the figure. As the S protein is activated
+                                for infection, it releases the fusion peptide (FP) indicated in the figure, which
+                                penetrates and primes the host cell membrane for fusion. The most external part contains
+                                an N-terminal domain (NTD) and the receptor binding domain (RBD), responsible for the
+                                interaction with the angiotensin-converting enzyme 2 (ACE2) receptor to gain entry into
+                                the host. The different parts are connected by the central helix (CH), and the
+                                connecting domain (CD). Domains that are not resolved via cryo-EM or X-ray experiments
+                                include the heptad repeat 2 (HR2) and the transmembrane (TM) domains forming the stalk,
+                                and the CT.</p>
+                        </div>
+                        <hr>
+                        <div class="uk-panel uk-text-meta uk-margin">
+                            <p><a href="#_ftnref9" name="_ftn9"><sup>[9]</sup></a> Wrapp D, Wang N, Corbett KS, et al.
+                                <em>Science, </em><strong>2020</strong>, (367), 1260-1263.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="uk-section-default uk-section uk-padding-remove-top">
+            <div class="uk-container uk-container-large">
+                <div class="tm-grid-expand uk-child-width-1-1 uk-margin" uk-grid>
+                    <div class="uk-width-1-1@m">
+                        <h2 class="uk-heading-small uk-margin uk-width-2xlarge uk-text-left"> <span
+                                class="uk-text-background">Issues Concerning Survival of Viruses on Surfaces</span>
+                        </h2>
+                    </div>
+                </div>
+                <div class="tm-grid-expand uk-child-width-1-1 uk-grid-margin" uk-grid>
+                    <div class="uk-width-1-1">
+                        <div class="uk-margin uk-text-center">
+                            <picture>
+                                <img src="images/image004-be6239b3.png" width="1191" height="601" class="el-image" alt
+                                    loading="lazy">
+                                </source>
+                            </picture>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Builder #footer -->
+        <div class="uk-section-secondary uk-section">
+            <div class="uk-container uk-container-large">
+                <div class="uk-grid uk-child-width-1-4@m uk-flex-center" uk-grid
+                    uk-scrollspy="target: [uk-scrollspy-class];">
+                    <div>
+                        <img src="images/LOGO-w.svg" width="240" height="70" class="el-image uk-text-emphasis" alt
+                            loading="lazy" uk-svg>
+                    </div>
+                    <div>
+                        <img src="images/ochoa-blanco.svg" width="539.99" height="95.09"
+                            class="el-image uk-text-emphasis" alt loading="lazy" uk-svg>
+                    </div>
+                    <div>
+                        <img src="images/logocsic_blanco.svg" width="206" height="50" class="el-image uk-text-emphasis"
+                            alt loading="lazy" uk-svg>
+                    </div>
+                    <div>
+                        <img src="images/marie-actions.svg" width="197" height="100" class="el-image uk-text-emphasis"
+                            alt loading="lazy" uk-svg>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+
+</html>
