@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="en-gb">
+	<title type="text">Raddel News</title>
+	<subtitle type="text">Nanocapsules for Targeted Delivery of Radioactivity</subtitle>
+	<link rel="alternate" type="text/html" href="https://projects.icmab.es"/>
+	<id>https://projects.icmab.es/raddel/news/news</id>
+	<updated>2020-10-23T12:25:18+00:00</updated>
+	<generator uri="http://joomla.org" version="2.5">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="https://projects.icmab.es/raddel/news/news?format=feed&amp;type=atom"/>
+	<entry>
+		<title>ESR fellow from UoI participates in the conference on radiological physics &quot;Dětenický experiment&quot; (Czech Republic, 25-27th March 2015)</title>
+		<link rel="alternate" type="text/html" href="https://projects.icmab.es/raddel/news/news/72-esr-fellow-from-uoi-participates-in-the-conference-on-radiological-physics-detenicky-experiment-czech-republic-25-27th-march-2015"/>
+		<published>2015-03-26T14:00:00+00:00</published>
+		<updated>2015-03-26T14:00:00+00:00</updated>
+		<id>https://projects.icmab.es/raddel/news/news/72-esr-fellow-from-uoi-participates-in-the-conference-on-radiological-physics-detenicky-experiment-czech-republic-25-27th-march-2015</id>
+		<author>
+			<name>Jorge Pérez</name>
+			<email>jperez@icmab.es</email>
+		</author>
+		<summary type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;img style=&quot;border: 1px solid #000000;&quot; src=&quot;images/news/ESR12%20-%20Dtenick%20experiment.jpg&quot; alt=&quot;ESR12   Dtenick experiment&quot; width=&quot;700&quot; height=&quot;218&quot; /&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 10pt; color: #000000;&quot;&gt;Martin Sefl, RADDEL ESR fellow from University Of Ioannina (Greece), is participating in the conference &lt;strong&gt;&quot;Dětenick&amp;yacute; experiment&quot;&lt;/strong&gt; on Radiological Physics that is taking place from the 25th until the 27th March 2015 in &lt;span style=&quot;font-size: 10pt; color: #000000;&quot;&gt;Dětenice (Czech Republic). &lt;/span&gt;Martin's oral presentation is entitled:&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 10pt; color: #000000;&quot;&gt;&lt;strong&gt;&quot;Cellular S values calculated using Geant4-DNA&quot;&lt;/strong&gt; &lt;br /&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: arial,helvetica,sans-serif; font-size: 10pt; color: #000000;&quot;&gt;He will present the results obtained during his RADDEL project so far, including cellular S-value dosimetry simulations for different cell-&amp;shy;phantom geometries (sphere, ellipsoids, and irregular shapes) using Geant4-&amp;shy;DNA (version 10.0.p02) Monte‐Carlo toolkit for the Auger‐emitting radionuclides: I-&amp;shy;125, In‐111 and Tc‐99m.&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 10pt; color: #000000;&quot;&gt; &lt;br /&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 10pt; color: #000000;&quot;&gt;The conference is organised by the Department of Dosimetry and Application of Ionizing Radiation of the Faculty of Nuclear Sciences and Physical Engineering, the Czech Technical University in Prague, and the Na Homolce Hospital in Prague.&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&amp;nbsp;&lt;img src=&quot;images/news/ESR12%20-%20Dtenick%20experiment_logos.jpg&quot; alt=&quot;ESR12   Dtenick experiment logos&quot; /&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 10pt; color: #000000;&quot;&gt;Congratulations Martin!&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;img style=&quot;border: 1px solid #000000;&quot; src=&quot;images/news/ESR12%20-%20Dtenick%20experiment.jpg&quot; alt=&quot;ESR12   Dtenick experiment&quot; width=&quot;700&quot; height=&quot;218&quot; /&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 10pt; color: #000000;&quot;&gt;Martin Sefl, RADDEL ESR fellow from University Of Ioannina (Greece), is participating in the conference &lt;strong&gt;&quot;Dětenick&amp;yacute; experiment&quot;&lt;/strong&gt; on Radiological Physics that is taking place from the 25th until the 27th March 2015 in &lt;span style=&quot;font-size: 10pt; color: #000000;&quot;&gt;Dětenice (Czech Republic). &lt;/span&gt;Martin's oral presentation is entitled:&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 10pt; color: #000000;&quot;&gt;&lt;strong&gt;&quot;Cellular S values calculated using Geant4-DNA&quot;&lt;/strong&gt; &lt;br /&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: arial,helvetica,sans-serif; font-size: 10pt; color: #000000;&quot;&gt;He will present the results obtained during his RADDEL project so far, including cellular S-value dosimetry simulations for different cell-&amp;shy;phantom geometries (sphere, ellipsoids, and irregular shapes) using Geant4-&amp;shy;DNA (version 10.0.p02) Monte‐Carlo toolkit for the Auger‐emitting radionuclides: I-&amp;shy;125, In‐111 and Tc‐99m.&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 10pt; color: #000000;&quot;&gt; &lt;br /&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 10pt; color: #000000;&quot;&gt;The conference is organised by the Department of Dosimetry and Application of Ionizing Radiation of the Faculty of Nuclear Sciences and Physical Engineering, the Czech Technical University in Prague, and the Na Homolce Hospital in Prague.&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&amp;nbsp;&lt;img src=&quot;images/news/ESR12%20-%20Dtenick%20experiment_logos.jpg&quot; alt=&quot;ESR12   Dtenick experiment logos&quot; /&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 10pt; color: #000000;&quot;&gt;Congratulations Martin!&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;</content>
+		<category term="Raddel News" />
+	</entry>
+	<entry>
+		<title>NANOBIOAPP2015: Latest Advances on Nanomaterials for Biomedical Applications (21-23 September 2015, Barcelona - Spain)</title>
+		<link rel="alternate" type="text/html" href="https://projects.icmab.es/raddel/news/news/70-nanobioapp2015-latest-advances-in-carbon-nanomaterials-for-biomedical-applications-21-23-september-2015-barcelona-spain"/>
+		<published>2015-03-19T13:59:41+00:00</published>
+		<updated>2015-03-19T13:59:41+00:00</updated>
+		<id>https://projects.icmab.es/raddel/news/news/70-nanobioapp2015-latest-advances-in-carbon-nanomaterials-for-biomedical-applications-21-23-september-2015-barcelona-spain</id>
+		<author>
+			<name>Jorge Pérez</name>
+			<email>jperez@icmab.es</email>
+		</author>
+		<summary type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p&gt;&lt;img style=&quot;border: 1px solid #000000;&quot; src=&quot;images/Raddel%20web.jpg&quot; alt=&quot;Raddel web&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p style=&quot;color: #000000; text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: georgia,palatino; font-size: 10pt;&quot;&gt;The conference on &quot;&lt;strong&gt;Latest Advances on Nanomaterials for Biomedical Applications&lt;/strong&gt;&quot; (NANOBIOAPP2015) will be held in Barcelona (Spain) on the 21st-23rd September 2015. The scope of the conference is to bring together experts in the field of&amp;nbsp;&lt;span style=&quot;font-family: georgia,palatino; font-size: 10pt;&quot;&gt;&lt;strong&gt;organic&lt;/strong&gt; (lipids, liposomes, vesicles, etc.) and &lt;strong&gt;inorganic&lt;/strong&gt; (carbon, nanoparticles, quantum dots) &lt;strong&gt;nanomaterial&lt;/strong&gt;&lt;/span&gt;&lt;strong&gt;s &lt;/strong&gt;to discuss the latest advances in their application to the biomedical field.&amp;nbsp; &amp;nbsp; &lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;color: #000000; text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: georgia,palatino; font-size: 10pt;&quot;&gt;Keynote and invited speakers for the conference are top worldwide leading scientists. Their expertise ranges from the synthesis and characterization of the nanomaterials up to their in-vivo application. We will count with the presence of the Work Package leaders of &amp;ldquo;Health and Environment&amp;rdquo; of the &lt;strong&gt;Graphene Flagship&lt;/strong&gt;, and a special lecture will be devoted to learn from recent advances, perspectives and opportunites in the biomedical field within the Graphene Flagship.&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;color: #000000; text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: georgia,palatino; font-size: 10pt;&quot;&gt;Finally, a satellite workshop will be devoted to the project RADDEL (&amp;ldquo;Nanocapsules for Targeted Delivery of Radioactivity&amp;rdquo;). Oral presentations will be delivered by the recruited fellows highlighting the research done throughout the training network. &lt;br /&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;color: #000000; text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: georgia,palatino; font-size: 10pt;&quot;&gt;For all the information of the conference, including invited speakers, abstract submission and registration please visit the conference's webpage (&lt;strong&gt;&lt;a href=&quot;http://congresses.icmab.es/nanobioapp2015/&quot;&gt;congresses.icmab.es/nanobioapp2015&lt;/a&gt;&lt;/strong&gt;)&lt;/span&gt;.&lt;/p&gt;
+&lt;p style=&quot;color: #000000; text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: georgia,palatino; font-size: 10pt;&quot;&gt;We look forward to seeing you in Barcelona for this special event!&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;color: #000000; text-align: justify;&quot;&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p style=&quot;color: #000000; text-align: justify;&quot;&gt;&lt;img style=&quot;border: 1px solid #000000;&quot; src=&quot;images/news/barcelona-spain.jpg&quot; alt=&quot;barcelona spain&quot; width=&quot;700&quot; height=&quot;438&quot; /&gt;&lt;/p&gt;&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p&gt;&lt;img style=&quot;border: 1px solid #000000;&quot; src=&quot;images/Raddel%20web.jpg&quot; alt=&quot;Raddel web&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p style=&quot;color: #000000; text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: georgia,palatino; font-size: 10pt;&quot;&gt;The conference on &quot;&lt;strong&gt;Latest Advances on Nanomaterials for Biomedical Applications&lt;/strong&gt;&quot; (NANOBIOAPP2015) will be held in Barcelona (Spain) on the 21st-23rd September 2015. The scope of the conference is to bring together experts in the field of&amp;nbsp;&lt;span style=&quot;font-family: georgia,palatino; font-size: 10pt;&quot;&gt;&lt;strong&gt;organic&lt;/strong&gt; (lipids, liposomes, vesicles, etc.) and &lt;strong&gt;inorganic&lt;/strong&gt; (carbon, nanoparticles, quantum dots) &lt;strong&gt;nanomaterial&lt;/strong&gt;&lt;/span&gt;&lt;strong&gt;s &lt;/strong&gt;to discuss the latest advances in their application to the biomedical field.&amp;nbsp; &amp;nbsp; &lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;color: #000000; text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: georgia,palatino; font-size: 10pt;&quot;&gt;Keynote and invited speakers for the conference are top worldwide leading scientists. Their expertise ranges from the synthesis and characterization of the nanomaterials up to their in-vivo application. We will count with the presence of the Work Package leaders of &amp;ldquo;Health and Environment&amp;rdquo; of the &lt;strong&gt;Graphene Flagship&lt;/strong&gt;, and a special lecture will be devoted to learn from recent advances, perspectives and opportunites in the biomedical field within the Graphene Flagship.&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;color: #000000; text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: georgia,palatino; font-size: 10pt;&quot;&gt;Finally, a satellite workshop will be devoted to the project RADDEL (&amp;ldquo;Nanocapsules for Targeted Delivery of Radioactivity&amp;rdquo;). Oral presentations will be delivered by the recruited fellows highlighting the research done throughout the training network. &lt;br /&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;color: #000000; text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: georgia,palatino; font-size: 10pt;&quot;&gt;For all the information of the conference, including invited speakers, abstract submission and registration please visit the conference's webpage (&lt;strong&gt;&lt;a href=&quot;http://congresses.icmab.es/nanobioapp2015/&quot;&gt;congresses.icmab.es/nanobioapp2015&lt;/a&gt;&lt;/strong&gt;)&lt;/span&gt;.&lt;/p&gt;
+&lt;p style=&quot;color: #000000; text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: georgia,palatino; font-size: 10pt;&quot;&gt;We look forward to seeing you in Barcelona for this special event!&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;color: #000000; text-align: justify;&quot;&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p style=&quot;color: #000000; text-align: justify;&quot;&gt;&lt;img style=&quot;border: 1px solid #000000;&quot; src=&quot;images/news/barcelona-spain.jpg&quot; alt=&quot;barcelona spain&quot; width=&quot;700&quot; height=&quot;438&quot; /&gt;&lt;/p&gt;&lt;/div&gt;</content>
+		<category term="Raddel News" />
+	</entry>
+	<entry>
+		<title>CSIC participates in the &quot;Teaching Guide for Education in Nanotechnology&quot; by nanoDYF network </title>
+		<link rel="alternate" type="text/html" href="https://projects.icmab.es/raddel/news/news/69-csic-participates-in-the-teaching-guide-for-education-in-nanotechnology-by-nanodyf-network"/>
+		<published>2015-02-17T11:00:00+00:00</published>
+		<updated>2015-02-17T11:00:00+00:00</updated>
+		<id>https://projects.icmab.es/raddel/news/news/69-csic-participates-in-the-teaching-guide-for-education-in-nanotechnology-by-nanodyf-network</id>
+		<author>
+			<name>Jorge Pérez</name>
+			<email>jperez@icmab.es</email>
+		</author>
+		<summary type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-size: 11pt; font-family: 'Times New Roman','serif'; color: black;&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: 'Times New Roman','serif'; color: black;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;color: #000000; font-size: 10pt;&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: 'Times New Roman','serif'; color: black;&quot;&gt;
+&lt;table style=&quot;width: 740px; height: 479px;&quot;&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;color: #000000; font-size: 10pt;&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: 'Times New Roman','serif'; color: black;&quot;&gt;The nanoDYF network for popularization of science (&lt;a href=&quot;http://www.nanodyf.org&quot;&gt;http://www.nanodyf.org&lt;/a&gt;) has just published the “&lt;b&gt;&lt;i&gt;Guía Didáctica de Educación en Nanotecnología&lt;/i&gt;&lt;/b&gt;” (&lt;em&gt;Teaching Guide for Education in Nanotechnology&lt;/em&gt;), made of introductory chapters and more than 25 Fiches divided in 5 major blocks, including complementary materials that will help the teachers at the school. Dr. Tobias, scientist-in-charge from CSIC and coordinator of RADDEL project, has participated in this Guide alongside 2 ESR fellows Markus Martincic and Magdalena Kierkowicz with a Fiche about&amp;nbsp;&lt;strong&gt;Carbon Nanomaterials&lt;/strong&gt;. The guide has been edited in CD format with ISBN-13 978-84-15413-33-2.&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;span style=&quot;color: #000000; font-size: 10pt;&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: 'Times New Roman','serif'; color: black;&quot;&gt;The Guide can be downloaded &lt;a href=&quot;http://icmab.es/articles/doc_download/292-libro-guia-didactica&quot;&gt;here&lt;/a&gt; (only in Spanish)&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/td&gt;
+&lt;td&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;color: #000000; font-size: 10pt;&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: 'Times New Roman','serif'; color: black;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;br data-mce-bogus=&quot;1&quot; /&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;color: #000000; font-size: 10pt;&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: 'Times New Roman','serif'; color: black;&quot;&gt;&lt;img style=&quot;border: 1px solid #000000;&quot; alt=&quot;Nanodyf Guia didactica&quot; src=&quot;images/news/Nanodyf_Guia_didactica.jpg&quot; width=&quot;334&quot; height=&quot;471&quot; /&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br style=&quot;color: #000000;&quot; /&gt;&lt;/p&gt;&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-size: 11pt; font-family: 'Times New Roman','serif'; color: black;&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: 'Times New Roman','serif'; color: black;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;color: #000000; font-size: 10pt;&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: 'Times New Roman','serif'; color: black;&quot;&gt;
+&lt;table style=&quot;width: 740px; height: 479px;&quot;&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;color: #000000; font-size: 10pt;&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: 'Times New Roman','serif'; color: black;&quot;&gt;The nanoDYF network for popularization of science (&lt;a href=&quot;http://www.nanodyf.org&quot;&gt;http://www.nanodyf.org&lt;/a&gt;) has just published the “&lt;b&gt;&lt;i&gt;Guía Didáctica de Educación en Nanotecnología&lt;/i&gt;&lt;/b&gt;” (&lt;em&gt;Teaching Guide for Education in Nanotechnology&lt;/em&gt;), made of introductory chapters and more than 25 Fiches divided in 5 major blocks, including complementary materials that will help the teachers at the school. Dr. Tobias, scientist-in-charge from CSIC and coordinator of RADDEL project, has participated in this Guide alongside 2 ESR fellows Markus Martincic and Magdalena Kierkowicz with a Fiche about&amp;nbsp;&lt;strong&gt;Carbon Nanomaterials&lt;/strong&gt;. The guide has been edited in CD format with ISBN-13 978-84-15413-33-2.&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;span style=&quot;color: #000000; font-size: 10pt;&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: 'Times New Roman','serif'; color: black;&quot;&gt;The Guide can be downloaded &lt;a href=&quot;http://icmab.es/articles/doc_download/292-libro-guia-didactica&quot;&gt;here&lt;/a&gt; (only in Spanish)&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/td&gt;
+&lt;td&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;color: #000000; font-size: 10pt;&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: 'Times New Roman','serif'; color: black;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;br data-mce-bogus=&quot;1&quot; /&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;color: #000000; font-size: 10pt;&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: 'Times New Roman','serif'; color: black;&quot;&gt;&lt;img style=&quot;border: 1px solid #000000;&quot; alt=&quot;Nanodyf Guia didactica&quot; src=&quot;images/news/Nanodyf_Guia_didactica.jpg&quot; width=&quot;334&quot; height=&quot;471&quot; /&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br style=&quot;color: #000000;&quot; /&gt;&lt;/p&gt;&lt;/div&gt;</content>
+		<category term="Raddel News" />
+	</entry>
+	<entry>
+		<title>RADDEL Newsletter 02 - February 2015</title>
+		<link rel="alternate" type="text/html" href="https://projects.icmab.es/raddel/news/news/76-raddel-newsletter-02-february-2015"/>
+		<published>2015-02-02T12:42:00+00:00</published>
+		<updated>2015-02-02T12:42:00+00:00</updated>
+		<id>https://projects.icmab.es/raddel/news/news/76-raddel-newsletter-02-february-2015</id>
+		<author>
+			<name>Jorge Pérez</name>
+			<email>jperez@icmab.es</email>
+		</author>
+		<summary type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: arial,helvetica,sans-serif; font-size: 10pt; color: #000000;&quot;&gt;The second RADDEL Newsletter is available for downloading (please click on the image for the .pdf version). In the first part, an introduction about the project is given along with a description of the different parters participating in the consortium. Then, the fellows recruited so far throughout the network are introduced, including the research project they will be working in. Finally, a summary of all the meetings and training events that took place during&amp;nbsp;years 2 and 3&amp;nbsp;of the project.&lt;br /&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: arial,helvetica,sans-serif; font-size: 10pt; color: #000000;&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;index.php?option=com_docman&amp;amp;task=doc_download&amp;amp;gid=71&amp;amp;Itemid=146&quot;&gt;&lt;img style=&quot;border: 1px solid #000000; margin-right: auto; margin-left: auto; display: block;&quot; src=&quot;images/Raddel_Newsletter_02_Feb2015.jpg&quot; alt=&quot;Raddel Newsletter 02 Feb2015&quot; width=&quot;481&quot; height=&quot;683&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;index.php?option=com_docman&amp;amp;task=doc_download&amp;amp;gid=46&amp;amp;Itemid=146&quot;&gt;&lt;span style=&quot;font-family: arial,helvetica,sans-serif; font-size: 10pt; color: #000000;&quot;&gt;&lt;br /&gt;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-family: arial,helvetica,sans-serif; font-size: 10pt; color: #000000;&quot;&gt;In the final issue an update of the training activities that the fellows are participating in will be included, along with information about recruitment, dissemination and outreach in relationship with the project. A summary of any scientific results obtained so far in the network will be also presented. &lt;br /&gt;&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: arial,helvetica,sans-serif; font-size: 10pt; color: #000000;&quot;&gt;The second RADDEL Newsletter is available for downloading (please click on the image for the .pdf version). In the first part, an introduction about the project is given along with a description of the different parters participating in the consortium. Then, the fellows recruited so far throughout the network are introduced, including the research project they will be working in. Finally, a summary of all the meetings and training events that took place during&amp;nbsp;years 2 and 3&amp;nbsp;of the project.&lt;br /&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: arial,helvetica,sans-serif; font-size: 10pt; color: #000000;&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;index.php?option=com_docman&amp;amp;task=doc_download&amp;amp;gid=71&amp;amp;Itemid=146&quot;&gt;&lt;img style=&quot;border: 1px solid #000000; margin-right: auto; margin-left: auto; display: block;&quot; src=&quot;images/Raddel_Newsletter_02_Feb2015.jpg&quot; alt=&quot;Raddel Newsletter 02 Feb2015&quot; width=&quot;481&quot; height=&quot;683&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;index.php?option=com_docman&amp;amp;task=doc_download&amp;amp;gid=46&amp;amp;Itemid=146&quot;&gt;&lt;span style=&quot;font-family: arial,helvetica,sans-serif; font-size: 10pt; color: #000000;&quot;&gt;&lt;br /&gt;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-family: arial,helvetica,sans-serif; font-size: 10pt; color: #000000;&quot;&gt;In the final issue an update of the training activities that the fellows are participating in will be included, along with information about recruitment, dissemination and outreach in relationship with the project. A summary of any scientific results obtained so far in the network will be also presented. &lt;br /&gt;&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;</content>
+		<category term="Raddel News" />
+	</entry>
+	<entry>
+		<title>5-month ESR position available at UNITS</title>
+		<link rel="alternate" type="text/html" href="https://projects.icmab.es/raddel/news/news/68-5-month-esr-position-available-at-units"/>
+		<published>2015-01-22T11:00:00+00:00</published>
+		<updated>2015-01-22T11:00:00+00:00</updated>
+		<id>https://projects.icmab.es/raddel/news/news/68-5-month-esr-position-available-at-units</id>
+		<author>
+			<name>Jorge Pérez</name>
+			<email>jperez@icmab.es</email>
+		</author>
+		<summary type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p&gt;&lt;span style=&quot;color: #000000; font-family: arial,helvetica,sans-serif; font-size: 10pt;&quot;&gt;A 5-month ESR position is available at the University of Trieste (UNITS) in the frame of RADDEL project. The fellow will work on the functionalisation of filled carbon nanotubes for biomedical applications. For more information please check the job description &lt;a href=&quot;index.php?option=com_docman&amp;amp;task=doc_download&amp;amp;gid=68&amp;amp;Itemid=146&quot;&gt;here&lt;/a&gt;.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;color: #000000; font-family: arial,helvetica,sans-serif; font-size: 10pt;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p&gt;&lt;span style=&quot;color: #000000; font-family: arial,helvetica,sans-serif; font-size: 10pt;&quot;&gt;A 5-month ESR position is available at the University of Trieste (UNITS) in the frame of RADDEL project. The fellow will work on the functionalisation of filled carbon nanotubes for biomedical applications. For more information please check the job description &lt;a href=&quot;index.php?option=com_docman&amp;amp;task=doc_download&amp;amp;gid=68&amp;amp;Itemid=146&quot;&gt;here&lt;/a&gt;.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;color: #000000; font-family: arial,helvetica,sans-serif; font-size: 10pt;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;</content>
+		<category term="Raddel News" />
+	</entry>
+</feed>

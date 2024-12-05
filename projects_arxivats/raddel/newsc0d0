@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>News</title>
+		<description><![CDATA[Nanocapsules for Targeted Delivery of Radioactivity]]></description>
+		<link>https://projects.icmab.es/raddel/news</link>
+		<lastBuildDate>Fri, 23 Oct 2020 12:25:16 +0000</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="https://projects.icmab.es/raddel/news?format=feed&amp;type=rss"/>
+		<language>en-gb</language>
+	</channel>
+</rss>

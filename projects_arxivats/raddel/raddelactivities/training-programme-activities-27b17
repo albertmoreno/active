@@ -1,0 +1,621 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="en-gb">
+	<title type="text">Training programme activities</title>
+	<subtitle type="text">Nanocapsules for Targeted Delivery of Radioactivity</subtitle>
+	<link rel="alternate" type="text/html" href="https://projects.icmab.es"/>
+	<id>https://projects.icmab.es/raddel/raddelactivities/training-programme-activities-2</id>
+	<updated>2020-10-23T12:24:54+00:00</updated>
+	<generator uri="http://joomla.org" version="2.5">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="https://projects.icmab.es/raddel/raddelactivities/training-programme-activities-2?format=feed&amp;type=atom"/>
+	<entry>
+		<title>Workshop on Nanoscale Characterisation on Functional Materials: AFM Beyond Imaging (ICMAB-CSIC, 19th January 2015)</title>
+		<link rel="alternate" type="text/html" href="https://projects.icmab.es/raddel/raddelactivities/training-programme-activities-2/67-workshop-on-nanoscale-characterisation-on-functional-materials-afm-beyond-imaging-icmab-csic-19th-january-2015"/>
+		<published>2015-01-08T09:00:00+00:00</published>
+		<updated>2015-01-08T09:00:00+00:00</updated>
+		<id>https://projects.icmab.es/raddel/raddelactivities/training-programme-activities-2/67-workshop-on-nanoscale-characterisation-on-functional-materials-afm-beyond-imaging-icmab-csic-19th-january-2015</id>
+		<author>
+			<name>Jorge Pérez</name>
+			<email>jperez@icmab.es</email>
+		</author>
+		<summary type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 10pt; color: #000000;&quot;&gt;A workshop on Atomic Force Microscopy characterisation will be held on the 19th of January at ICMAB-CSIC. This workshop aims at providing an overview of novel advanced methods for the nanoscale characterization of materials functionalities in diverse fields, such as biology, materials science, soft condensed matter, with stress on topics of potential interest for the ICMAB and nearby research community. &lt;/span&gt;&lt;span style=&quot;color: #000000; font-size: 10pt;&quot;&gt;Special emphasis will be placed in presenting a didactic content for those non-experts in AFM methods which are however curious in learning how AFM can contribute to their research. On-site demonstration of AFM advanced capabilities will take place with a Cypher System from Asylum Research. &lt;br /&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;color: #000000; font-size: 10pt;&quot;&gt;&lt;img style=&quot;border: 1px solid #000000;&quot; alt=&quot;Workshop AFM CSIC Jan2015&quot; src=&quot;images/Workshop%20AFM%20CSIC%20Jan2015.jpg&quot; height=&quot;507&quot; width=&quot;900&quot; /&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;color: #000000; font-size: 10pt;&quot;&gt;For more information, please visit the workshop webpage:&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;a href=&quot;http://congresses.icmab.es/afm2015/&quot;&gt;&lt;/a&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;&lt;a href=&quot;http://congresses.icmab.es/afm2015/&quot;&gt;http://congresses.icmab.es/afm2015/&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;color: #000000; font-size: 10pt;&quot;&gt;This workshop is part of the RADDEL training programme and therefore all the fellows are invited to attend it. &lt;br data-mce-bogus=&quot;1&quot; /&gt;&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 10pt; color: #000000;&quot;&gt;A workshop on Atomic Force Microscopy characterisation will be held on the 19th of January at ICMAB-CSIC. This workshop aims at providing an overview of novel advanced methods for the nanoscale characterization of materials functionalities in diverse fields, such as biology, materials science, soft condensed matter, with stress on topics of potential interest for the ICMAB and nearby research community. &lt;/span&gt;&lt;span style=&quot;color: #000000; font-size: 10pt;&quot;&gt;Special emphasis will be placed in presenting a didactic content for those non-experts in AFM methods which are however curious in learning how AFM can contribute to their research. On-site demonstration of AFM advanced capabilities will take place with a Cypher System from Asylum Research. &lt;br /&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;color: #000000; font-size: 10pt;&quot;&gt;&lt;img style=&quot;border: 1px solid #000000;&quot; alt=&quot;Workshop AFM CSIC Jan2015&quot; src=&quot;images/Workshop%20AFM%20CSIC%20Jan2015.jpg&quot; height=&quot;507&quot; width=&quot;900&quot; /&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;color: #000000; font-size: 10pt;&quot;&gt;For more information, please visit the workshop webpage:&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;a href=&quot;http://congresses.icmab.es/afm2015/&quot;&gt;&lt;/a&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;&lt;a href=&quot;http://congresses.icmab.es/afm2015/&quot;&gt;http://congresses.icmab.es/afm2015/&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;color: #000000; font-size: 10pt;&quot;&gt;This workshop is part of the RADDEL training programme and therefore all the fellows are invited to attend it. &lt;br data-mce-bogus=&quot;1&quot; /&gt;&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;</content>
+		<category term="Training programme activities" />
+	</entry>
+	<entry>
+		<title>Hands-on-school in Dosimetry Calculations (22-23 July 2014, Ioannina)</title>
+		<link rel="alternate" type="text/html" href="https://projects.icmab.es/raddel/raddelactivities/training-programme-activities-2/61-hands-on-school-in-dosimetry-calculations-22-23-july-2014-ioannina"/>
+		<published>2014-09-10T07:04:54+00:00</published>
+		<updated>2014-09-10T07:04:54+00:00</updated>
+		<id>https://projects.icmab.es/raddel/raddelactivities/training-programme-activities-2/61-hands-on-school-in-dosimetry-calculations-22-23-july-2014-ioannina</id>
+		<author>
+			<name>Jorge Pérez</name>
+			<email>jperez@icmab.es</email>
+		</author>
+		<summary type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-family: arial,helvetica,sans-serif; font-size: 10pt; color: #000000;&quot;&gt;On Tuesday 22nd - Wednesday 23rd of July 2014, a &lt;strong&gt;&lt;em&gt;RADDEL Hands-on-school in&lt;/em&gt; &lt;/strong&gt;&lt;strong&gt;&lt;em&gt;&quot;Dosimetry calculations and modeling of therapeutic efficacy&lt;/em&gt;&lt;/strong&gt;&quot; took place at the Medical School of the University of Ioannina (Greece). The school focused on the study of dosimetry by means of theoretical calculations, including topics like the interaction of ionising radiation with matter, radionuclide dosimetry and Monte Carlo based dosimetry. The fellows were also able to run their own calculations through practical sessions. The school was organised by local partner Dr. Dimitris Emfietzoglou with the support of Dr. Ioanna Kyriakou and RADDEL ESR fellow Anne Forney. 5 additional RADDEL fellows attended the school. &lt;/span&gt;&lt;/p&gt;
+&lt;table&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;p&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;span style=&quot;font-family: arial,helvetica,sans-serif; font-size: 10pt; color: #000000;&quot;&gt;&lt;img style=&quot;display: block; margin-left: auto; margin-right: auto; border: 1px solid #000000;&quot; src=&quot;images/news/Hands-on-school_Dosimetry_July_14/Hands-on_Ioannina_1.jpg&quot; alt=&quot;Hands-on Ioannina 1&quot; height=&quot;233&quot; width=&quot;400&quot; /&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-family: arial,helvetica,sans-serif; font-size: 10pt; color: #000000;&quot;&gt;&lt;span style=&quot;font-family: arial,helvetica,sans-serif; font-size: 10pt; color: #000000;&quot;&gt;&amp;nbsp;&lt;span style=&quot;font-family: arial,helvetica,sans-serif; font-size: 10pt; color: #000000;&quot;&gt; &lt;br /&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td&gt;&lt;img style=&quot;display: block; margin-left: auto; margin-right: auto; border: 1px solid #000000;&quot; src=&quot;images/news/Hands-on-school_Dosimetry_July_14/Hands-on_Ioannina_2.jpg&quot; alt=&quot;Hands-on Ioannina 2&quot; height=&quot;235&quot; width=&quot;418&quot; /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;img style=&quot;display: block; margin-left: auto; margin-right: auto; border: 1px solid #000000;&quot; src=&quot;images/news/Hands-on-school_Dosimetry_July_14/Hands-on_Ioannina_3.jpg&quot; alt=&quot;Hands-on Ioannina 3&quot; height=&quot;234&quot; width=&quot;400&quot; /&gt;&lt;/td&gt;
+&lt;td&gt;
+&lt;p&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;img style=&quot;display: block; margin-left: auto; margin-right: auto; border: 1px solid #000000;&quot; src=&quot;images/news/Hands-on-school_Dosimetry_July_14/Hands-on_Ioannina_4.jpg&quot; alt=&quot;Hands-on Ioannina 4&quot; height=&quot;235&quot; width=&quot;418&quot; /&gt;&lt;span style=&quot;font-family: arial,helvetica,sans-serif; font-size: 10pt; color: #000000;&quot;&gt;&lt;/span&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-family: arial,helvetica,sans-serif; font-size: 10pt; color: #000000;&quot;&gt;On Tuesday 22nd - Wednesday 23rd of July 2014, a &lt;strong&gt;&lt;em&gt;RADDEL Hands-on-school in&lt;/em&gt; &lt;/strong&gt;&lt;strong&gt;&lt;em&gt;&quot;Dosimetry calculations and modeling of therapeutic efficacy&lt;/em&gt;&lt;/strong&gt;&quot; took place at the Medical School of the University of Ioannina (Greece). The school focused on the study of dosimetry by means of theoretical calculations, including topics like the interaction of ionising radiation with matter, radionuclide dosimetry and Monte Carlo based dosimetry. The fellows were also able to run their own calculations through practical sessions. The school was organised by local partner Dr. Dimitris Emfietzoglou with the support of Dr. Ioanna Kyriakou and RADDEL ESR fellow Anne Forney. 5 additional RADDEL fellows attended the school. &lt;/span&gt;&lt;/p&gt;
+&lt;table&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;p&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;span style=&quot;font-family: arial,helvetica,sans-serif; font-size: 10pt; color: #000000;&quot;&gt;&lt;img style=&quot;display: block; margin-left: auto; margin-right: auto; border: 1px solid #000000;&quot; src=&quot;images/news/Hands-on-school_Dosimetry_July_14/Hands-on_Ioannina_1.jpg&quot; alt=&quot;Hands-on Ioannina 1&quot; height=&quot;233&quot; width=&quot;400&quot; /&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-family: arial,helvetica,sans-serif; font-size: 10pt; color: #000000;&quot;&gt;&lt;span style=&quot;font-family: arial,helvetica,sans-serif; font-size: 10pt; color: #000000;&quot;&gt;&amp;nbsp;&lt;span style=&quot;font-family: arial,helvetica,sans-serif; font-size: 10pt; color: #000000;&quot;&gt; &lt;br /&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td&gt;&lt;img style=&quot;display: block; margin-left: auto; margin-right: auto; border: 1px solid #000000;&quot; src=&quot;images/news/Hands-on-school_Dosimetry_July_14/Hands-on_Ioannina_2.jpg&quot; alt=&quot;Hands-on Ioannina 2&quot; height=&quot;235&quot; width=&quot;418&quot; /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;img style=&quot;display: block; margin-left: auto; margin-right: auto; border: 1px solid #000000;&quot; src=&quot;images/news/Hands-on-school_Dosimetry_July_14/Hands-on_Ioannina_3.jpg&quot; alt=&quot;Hands-on Ioannina 3&quot; height=&quot;234&quot; width=&quot;400&quot; /&gt;&lt;/td&gt;
+&lt;td&gt;
+&lt;p&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;img style=&quot;display: block; margin-left: auto; margin-right: auto; border: 1px solid #000000;&quot; src=&quot;images/news/Hands-on-school_Dosimetry_July_14/Hands-on_Ioannina_4.jpg&quot; alt=&quot;Hands-on Ioannina 4&quot; height=&quot;235&quot; width=&quot;418&quot; /&gt;&lt;span style=&quot;font-family: arial,helvetica,sans-serif; font-size: 10pt; color: #000000;&quot;&gt;&lt;/span&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;&lt;/div&gt;</content>
+		<category term="Training programme activities" />
+	</entry>
+	<entry>
+		<title>Industrial training for RADDEL fellows, 24-27th March 2014 (Saclay, Paris)</title>
+		<link rel="alternate" type="text/html" href="https://projects.icmab.es/raddel/raddelactivities/training-programme-activities-2/57-industrial-training-for-raddel-fellows-24-27th-march-2014-saclay-paris"/>
+		<published>2014-04-08T13:41:53+00:00</published>
+		<updated>2014-04-08T13:41:53+00:00</updated>
+		<id>https://projects.icmab.es/raddel/raddelactivities/training-programme-activities-2/57-industrial-training-for-raddel-fellows-24-27th-march-2014-saclay-paris</id>
+		<author>
+			<name>Jorge Pérez</name>
+			<email>jperez@icmab.es</email>
+		</author>
+		<summary type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;color: #000000; font-size: 10pt;&quot;&gt;Last month, an industrial training programme for all RADDEL recruited fellows took place at the industrial partner IBA's headquarters in Saclay (Paris). During the 3-day programme, the fellows had the opportunity to receive lectures in industrial production of radiopharmaceuticals, clinical development, registration procedures or marketing and promotional material. They also visited the production and quality control facilities. This industrial training is part of RADDEL training programme for the fellows, that it is designed to provide them with a multidisciplinary approach and to enhance their potential and prospects for a future career in the industry.&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;color: #000000; font-size: 10pt;&quot;&gt;
+&lt;table&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;img style=&quot;border: 1px solid #000000;&quot; alt=&quot;Seminaire Raddel 003&quot; src=&quot;images/news/Ind._training_2014/Seminaire%20Raddel%20003.jpg&quot; height=&quot;267&quot; width=&quot;400&quot; /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/td&gt;
+&lt;td&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;img style=&quot;border: 1px solid #000000;&quot; alt=&quot;Seminaire Raddel 007&quot; src=&quot;images/news/Ind._training_2014/Seminaire%20Raddel%20007.jpg&quot; height=&quot;267&quot; width=&quot;400&quot; /&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;img style=&quot;display: block; margin-left: auto; margin-right: auto; border: 1px solid #000000;&quot; alt=&quot;Seminaire Raddel 019&quot; src=&quot;images/news/Ind._training_2014/Seminaire%20Raddel%20019.jpg&quot; height=&quot;267&quot; width=&quot;400&quot; /&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img style=&quot;display: block; margin-left: auto; margin-right: auto; border: 1px solid #000000;&quot; alt=&quot;Seminaire Raddel 008&quot; src=&quot;images/news/Ind._training_2014/Seminaire%20Raddel%20008.jpg&quot; height=&quot;267&quot; width=&quot;400&quot; /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;img style=&quot;display: block; margin-left: auto; margin-right: auto; border: 1px solid #000000;&quot; alt=&quot;Seminaire Raddel 004&quot; src=&quot;images/news/Ind._training_2014/Seminaire%20Raddel%20004.jpg&quot; height=&quot;267&quot; width=&quot;400&quot; /&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img style=&quot;display: block; margin-left: auto; margin-right: auto; border: 1px solid #000000;&quot; alt=&quot;Seminaire Raddel 011&quot; src=&quot;images/news/Ind._training_2014/Seminaire%20Raddel%20011.jpg&quot; height=&quot;267&quot; width=&quot;400&quot; /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;color: #000000; font-size: 10pt;&quot;&gt;Last month, an industrial training programme for all RADDEL recruited fellows took place at the industrial partner IBA's headquarters in Saclay (Paris). During the 3-day programme, the fellows had the opportunity to receive lectures in industrial production of radiopharmaceuticals, clinical development, registration procedures or marketing and promotional material. They also visited the production and quality control facilities. This industrial training is part of RADDEL training programme for the fellows, that it is designed to provide them with a multidisciplinary approach and to enhance their potential and prospects for a future career in the industry.&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;color: #000000; font-size: 10pt;&quot;&gt;
+&lt;table&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;img style=&quot;border: 1px solid #000000;&quot; alt=&quot;Seminaire Raddel 003&quot; src=&quot;images/news/Ind._training_2014/Seminaire%20Raddel%20003.jpg&quot; height=&quot;267&quot; width=&quot;400&quot; /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/td&gt;
+&lt;td&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;img style=&quot;border: 1px solid #000000;&quot; alt=&quot;Seminaire Raddel 007&quot; src=&quot;images/news/Ind._training_2014/Seminaire%20Raddel%20007.jpg&quot; height=&quot;267&quot; width=&quot;400&quot; /&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;img style=&quot;display: block; margin-left: auto; margin-right: auto; border: 1px solid #000000;&quot; alt=&quot;Seminaire Raddel 019&quot; src=&quot;images/news/Ind._training_2014/Seminaire%20Raddel%20019.jpg&quot; height=&quot;267&quot; width=&quot;400&quot; /&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img style=&quot;display: block; margin-left: auto; margin-right: auto; border: 1px solid #000000;&quot; alt=&quot;Seminaire Raddel 008&quot; src=&quot;images/news/Ind._training_2014/Seminaire%20Raddel%20008.jpg&quot; height=&quot;267&quot; width=&quot;400&quot; /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;img style=&quot;display: block; margin-left: auto; margin-right: auto; border: 1px solid #000000;&quot; alt=&quot;Seminaire Raddel 004&quot; src=&quot;images/news/Ind._training_2014/Seminaire%20Raddel%20004.jpg&quot; height=&quot;267&quot; width=&quot;400&quot; /&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img style=&quot;display: block; margin-left: auto; margin-right: auto; border: 1px solid #000000;&quot; alt=&quot;Seminaire Raddel 011&quot; src=&quot;images/news/Ind._training_2014/Seminaire%20Raddel%20011.jpg&quot; height=&quot;267&quot; width=&quot;400&quot; /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;</content>
+		<category term="Training programme activities" />
+	</entry>
+	<entry>
+		<title>CLINAM 7th Conference and Exhibition (June 23-25 2014, Basel-Switzerland)</title>
+		<link rel="alternate" type="text/html" href="https://projects.icmab.es/raddel/raddelactivities/training-programme-activities-2/54-clinam-7th-conference-and-exhibition-june-23-25-2014-basel-switzerland"/>
+		<published>2014-03-24T13:11:34+00:00</published>
+		<updated>2014-03-24T13:11:34+00:00</updated>
+		<id>https://projects.icmab.es/raddel/raddelactivities/training-programme-activities-2/54-clinam-7th-conference-and-exhibition-june-23-25-2014-basel-switzerland</id>
+		<author>
+			<name>Jorge Pérez</name>
+			<email>jperez@icmab.es</email>
+		</author>
+		<summary type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p&gt;&lt;span style=&quot;color: #000000; font-size: 10pt;&quot;&gt;&lt;span class=&quot;named-content&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;color: #000000; font-size: 10pt;&quot;&gt;&lt;span class=&quot;named-content&quot;&gt;&lt;img alt=&quot;CLINAM2014&quot; src=&quot;images/logos/Conferences/CLINAM2014.jpg&quot; height=&quot;116&quot; width=&quot;512&quot; /&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;color: #000000; font-size: 10pt;&quot;&gt;&lt;span class=&quot;named-content&quot;&gt;The 7th Conference and Exhibition for the European Foundation for Clinical Medicine (CLINAM) is taking place in Basel (Switzerland) between the 23rd and 25th of June 2014. This European summit for Clinical Nanomedicine and Targeted Medicine is being organised along with&amp;nbsp;the European Society for Nanomedicine and the European Technology Platform on Nanomedicine (ETPN). &lt;span style=&quot;color: #000000; font-size: 10pt;&quot;&gt;&lt;span class=&quot;named-content&quot;&gt;Prof. Kostas Kostarelos (scientist-in-charge for RADDEL partner UNIMAN) is one of the members of the advisory boar&lt;/span&gt;&lt;/span&gt;d of the European Foundation for Nanomedicine.&lt;br /&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;color: #000000; font-size: 10pt;&quot;&gt;&lt;span class=&quot;named-content&quot;&gt;RADDEL is not involved in the organisation of this conference but it is part of the RADDEL external training programme so it is opened to RADDEL fellows to attend it.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;color: #000000; font-size: 10pt;&quot;&gt;&lt;span class=&quot;named-content&quot;&gt;The pre-final programme can be found &lt;a href=&quot;http://www.clinam.org/images/stories/conference.pdf&quot;&gt;here&lt;/a&gt;&lt;br data-mce-bogus=&quot;1&quot; /&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;color: #000000; font-size: 10pt;&quot;&gt;&lt;span class=&quot;named-content&quot;&gt;&lt;img alt=&quot;CLINAM Header&quot; src=&quot;images/logos/Conferences/CLINAM%20Header.jpg&quot; height=&quot;91&quot; width=&quot;700&quot; /&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p&gt;&lt;span style=&quot;color: #000000; font-size: 10pt;&quot;&gt;&lt;span class=&quot;named-content&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;color: #000000; font-size: 10pt;&quot;&gt;&lt;span class=&quot;named-content&quot;&gt;&lt;img alt=&quot;CLINAM2014&quot; src=&quot;images/logos/Conferences/CLINAM2014.jpg&quot; height=&quot;116&quot; width=&quot;512&quot; /&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;color: #000000; font-size: 10pt;&quot;&gt;&lt;span class=&quot;named-content&quot;&gt;The 7th Conference and Exhibition for the European Foundation for Clinical Medicine (CLINAM) is taking place in Basel (Switzerland) between the 23rd and 25th of June 2014. This European summit for Clinical Nanomedicine and Targeted Medicine is being organised along with&amp;nbsp;the European Society for Nanomedicine and the European Technology Platform on Nanomedicine (ETPN). &lt;span style=&quot;color: #000000; font-size: 10pt;&quot;&gt;&lt;span class=&quot;named-content&quot;&gt;Prof. Kostas Kostarelos (scientist-in-charge for RADDEL partner UNIMAN) is one of the members of the advisory boar&lt;/span&gt;&lt;/span&gt;d of the European Foundation for Nanomedicine.&lt;br /&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;color: #000000; font-size: 10pt;&quot;&gt;&lt;span class=&quot;named-content&quot;&gt;RADDEL is not involved in the organisation of this conference but it is part of the RADDEL external training programme so it is opened to RADDEL fellows to attend it.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;color: #000000; font-size: 10pt;&quot;&gt;&lt;span class=&quot;named-content&quot;&gt;The pre-final programme can be found &lt;a href=&quot;http://www.clinam.org/images/stories/conference.pdf&quot;&gt;here&lt;/a&gt;&lt;br data-mce-bogus=&quot;1&quot; /&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;color: #000000; font-size: 10pt;&quot;&gt;&lt;span class=&quot;named-content&quot;&gt;&lt;img alt=&quot;CLINAM Header&quot; src=&quot;images/logos/Conferences/CLINAM%20Header.jpg&quot; height=&quot;91&quot; width=&quot;700&quot; /&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;</content>
+		<category term="Training programme activities" />
+	</entry>
+	<entry>
+		<title>Workshop on Materials Characterization Techniques for XRD and XRF (ICMAB, 19th May 2014)</title>
+		<link rel="alternate" type="text/html" href="https://projects.icmab.es/raddel/raddelactivities/training-programme-activities-2/51-workshop-on-materials-characterization-techniques-icmab-19th-may-2014"/>
+		<published>2014-02-04T10:51:52+00:00</published>
+		<updated>2014-02-04T10:51:52+00:00</updated>
+		<id>https://projects.icmab.es/raddel/raddelactivities/training-programme-activities-2/51-workshop-on-materials-characterization-techniques-icmab-19th-may-2014</id>
+		<author>
+			<name>Jorge Pérez</name>
+			<email>jperez@icmab.es</email>
+		</author>
+		<summary type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p&gt;&lt;span style=&quot;color: #000000; font-size: 10pt;&quot;&gt;&lt;img style=&quot;border: 2px solid #000000;&quot; alt=&quot;Worshop XRD-XRF ICMAB May2014&quot; src=&quot;images/Worshop_XRD-XRF_ICMAB_May2014.jpg&quot; height=&quot;359&quot; width=&quot;800&quot; /&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;color: #000000; font-size: 10pt;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;color: #000000; font-size: 10pt;&quot;&gt;As part of RADDEL training programme activities, a workshop in materials characterization techniques will be held at ICMAB-CSIC on 19th May 2014:&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;color: #0000ff;&quot;&gt;&lt;a href=&quot;http://congresses.icmab.es/mct2014/&quot;&gt;&lt;span style=&quot;color: #0000ff; font-size: 10pt;&quot;&gt;http://congresses.icmab.es/mct2014/&lt;/span&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;color: #000000; font-size: 10pt;&quot;&gt;The workshop includes the contribution of members of &lt;strong&gt;ICMAB-CSIC&lt;/strong&gt;,&lt;strong&gt; ITJA-CSIC&lt;/strong&gt;, &lt;strong&gt;ALBA&lt;/strong&gt;, &lt;strong&gt;ICN2 &lt;/strong&gt;and of industrial partners &lt;strong&gt;PARALAB &lt;/strong&gt;and &lt;strong&gt;RIGAKU. &lt;/strong&gt;The workshop will deal with X-ray diffraction (XRD) and X-ray Fluorescence (XRD), two available techniques for the characterization of materials.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;color: #000000; font-size: 10pt;&quot;&gt;&lt;strong&gt;Programme:&lt;br data-mce-bogus=&quot;1&quot; /&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;color: #000000; font-size: 10pt;&quot;&gt;&lt;strong&gt;09:00 &lt;/strong&gt;Registration&lt;br data-mce-bogus=&quot;1&quot; /&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;color: #000000; font-size: 10pt;&quot;&gt;&lt;strong&gt;09:30 &lt;/strong&gt;Presentation of the seminar&lt;br data-mce-bogus=&quot;1&quot; /&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;color: #000000; font-size: 10pt;&quot;&gt;&lt;strong&gt;09:45&lt;/strong&gt; Prof. Jordi Rius (ICMAB-CSIC): &quot;&lt;em&gt;Brief introduction to lab XRD and description of the new software for structure solution and refinement of polycrystalline materials downloadable from ICMAB webpage&lt;/em&gt;&quot;&lt;br data-mce-bogus=&quot;1&quot; /&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;color: #000000; font-size: 10pt;&quot;&gt;&lt;span style=&quot;color: #000000; font-size: 10pt;&quot;&gt;&lt;strong&gt;10:10&lt;/strong&gt; Dr. Carlos Frontera (ICMAB-CSIC): &quot;&lt;em&gt;Structure refinement of thin films using lab equipment&lt;/em&gt;&quot; &lt;br /&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;color: #000000; font-size: 10pt;&quot;&gt;&lt;strong&gt;10:30&lt;/strong&gt; Dr. Raine Pulkkinen (Sales manager of RIGAKU): &quot;&lt;em&gt;New diffraction equipment and last generation of detectors&lt;/em&gt;&quot;&lt;br /&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;color: #000000; font-size: 10pt;&quot;&gt;&lt;span style=&quot;color: #000000; font-size: 10pt;&quot;&gt;&lt;strong&gt;11:15&lt;/strong&gt; Coffee break&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;color: #000000; font-size: 10pt;&quot;&gt;&lt;span style=&quot;color: #000000; font-size: 10pt;&quot;&gt;&lt;span style=&quot;color: #000000; font-size: 10pt;&quot;&gt;&lt;strong&gt;11:30&lt;/strong&gt; Dr. Ignasi Queralt (ITJA-CSIC): &quot;&lt;em&gt;General introduction to X-ray Fluorescence spectroscopy (XRF). Its application to materials characterization&lt;/em&gt;&quot;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;color: #000000; font-size: 10pt;&quot;&gt;&lt;strong&gt;12:15&lt;/strong&gt; Dr. Pol de Pape (Rigaku Europe): &quot;&lt;em&gt;Various types of XRF spectrometers&lt;/em&gt;&quot;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;color: #000000; font-size: 10pt;&quot;&gt;&lt;span style=&quot;color: #000000; font-size: 10pt;&quot;&gt;&lt;strong&gt;13:00&lt;/strong&gt; Short communications&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;color: #000000; font-size: 10pt;&quot;&gt;&lt;span style=&quot;color: #000000; font-size: 10pt;&quot;&gt;&lt;span style=&quot;color: #000000; font-size: 10pt;&quot;&gt;Prof. Elies Molins (Director of crystallography department, ICMAB-CSIC): &quot;&lt;em&gt;Single crystal diffraction and electron density studies&lt;/em&gt;&quot;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;color: #000000; font-size: 10pt;&quot;&gt;Dr. Oriol Vallcorba (ALBA): &quot;&lt;em&gt;New structure solution possibilities of organic compounds from laboratory powder diffraction data&lt;/em&gt;&quot;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;color: #000000; font-size: 10pt;&quot;&gt;&lt;span style=&quot;color: #000000; font-size: 10pt;&quot;&gt;Lcda. Anna Crespi (ICMAB-CSIC) &quot;&lt;em&gt;New XRD applications in transmission mode at ICMAB-CSIC&lt;/em&gt;&quot;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;color: #000000; font-size: 10pt;&quot;&gt;&lt;span style=&quot;color: #000000; font-size: 10pt;&quot;&gt;The workshop is free to attend but registration is compulsory:&lt;/span&gt;&lt;strong&gt;&lt;span style=&quot;color: #000000; font-size: 10pt;&quot;&gt;&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;color: #000000; font-size: 10pt;&quot;&gt;&lt;span style=&quot;color: #000000; font-size: 10pt;&quot;&gt;&lt;a href=&quot;http://icmab.es/mct-2014&quot;&gt;&lt;/a&gt;&lt;a href=&quot;http://icmab.es/mct-2014&quot;&gt;http://icmab.es/mct-2014&lt;/a&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;color: #000000; font-size: 10pt;&quot;&gt;&lt;span style=&quot;color: #000000; font-size: 10pt;&quot;&gt;
+&lt;table style=&quot;width: 596px; height: 55px;&quot;&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;img style=&quot;display: block; margin-left: auto; margin-right: auto;&quot; alt=&quot;Logo icmab mct2014&quot; src=&quot;images/logos/Logo_icmab_mct2014.jpg&quot; height=&quot;44&quot; width=&quot;180&quot; /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/td&gt;
+&lt;td&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;img alt=&quot;Logo csic mct2014&quot; src=&quot;images/logos/Logo_csic_mct2014.png&quot; height=&quot;52&quot; width=&quot;174&quot; /&gt; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/td&gt;
+&lt;td&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;&lt;img alt=&quot;Logo Paralab mct2014&quot; src=&quot;images/logos/Logo_Paralab_mct2014.jpg&quot; height=&quot;85&quot; width=&quot;204&quot; /&gt; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/td&gt;
+&lt;td&gt;&amp;nbsp; &amp;nbsp; &lt;img alt=&quot;Logo Rigaku mct2014&quot; src=&quot;images/logos/Logo_Rigaku_mct2014.jpg&quot; height=&quot;54&quot; width=&quot;251&quot; /&gt;&amp;nbsp;&amp;nbsp;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p&gt;&lt;span style=&quot;color: #000000; font-size: 10pt;&quot;&gt;&lt;img style=&quot;border: 2px solid #000000;&quot; alt=&quot;Worshop XRD-XRF ICMAB May2014&quot; src=&quot;images/Worshop_XRD-XRF_ICMAB_May2014.jpg&quot; height=&quot;359&quot; width=&quot;800&quot; /&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;color: #000000; font-size: 10pt;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;color: #000000; font-size: 10pt;&quot;&gt;As part of RADDEL training programme activities, a workshop in materials characterization techniques will be held at ICMAB-CSIC on 19th May 2014:&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;color: #0000ff;&quot;&gt;&lt;a href=&quot;http://congresses.icmab.es/mct2014/&quot;&gt;&lt;span style=&quot;color: #0000ff; font-size: 10pt;&quot;&gt;http://congresses.icmab.es/mct2014/&lt;/span&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;color: #000000; font-size: 10pt;&quot;&gt;The workshop includes the contribution of members of &lt;strong&gt;ICMAB-CSIC&lt;/strong&gt;,&lt;strong&gt; ITJA-CSIC&lt;/strong&gt;, &lt;strong&gt;ALBA&lt;/strong&gt;, &lt;strong&gt;ICN2 &lt;/strong&gt;and of industrial partners &lt;strong&gt;PARALAB &lt;/strong&gt;and &lt;strong&gt;RIGAKU. &lt;/strong&gt;The workshop will deal with X-ray diffraction (XRD) and X-ray Fluorescence (XRD), two available techniques for the characterization of materials.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;color: #000000; font-size: 10pt;&quot;&gt;&lt;strong&gt;Programme:&lt;br data-mce-bogus=&quot;1&quot; /&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;color: #000000; font-size: 10pt;&quot;&gt;&lt;strong&gt;09:00 &lt;/strong&gt;Registration&lt;br data-mce-bogus=&quot;1&quot; /&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;color: #000000; font-size: 10pt;&quot;&gt;&lt;strong&gt;09:30 &lt;/strong&gt;Presentation of the seminar&lt;br data-mce-bogus=&quot;1&quot; /&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;color: #000000; font-size: 10pt;&quot;&gt;&lt;strong&gt;09:45&lt;/strong&gt; Prof. Jordi Rius (ICMAB-CSIC): &quot;&lt;em&gt;Brief introduction to lab XRD and description of the new software for structure solution and refinement of polycrystalline materials downloadable from ICMAB webpage&lt;/em&gt;&quot;&lt;br data-mce-bogus=&quot;1&quot; /&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;color: #000000; font-size: 10pt;&quot;&gt;&lt;span style=&quot;color: #000000; font-size: 10pt;&quot;&gt;&lt;strong&gt;10:10&lt;/strong&gt; Dr. Carlos Frontera (ICMAB-CSIC): &quot;&lt;em&gt;Structure refinement of thin films using lab equipment&lt;/em&gt;&quot; &lt;br /&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;color: #000000; font-size: 10pt;&quot;&gt;&lt;strong&gt;10:30&lt;/strong&gt; Dr. Raine Pulkkinen (Sales manager of RIGAKU): &quot;&lt;em&gt;New diffraction equipment and last generation of detectors&lt;/em&gt;&quot;&lt;br /&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;color: #000000; font-size: 10pt;&quot;&gt;&lt;span style=&quot;color: #000000; font-size: 10pt;&quot;&gt;&lt;strong&gt;11:15&lt;/strong&gt; Coffee break&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;color: #000000; font-size: 10pt;&quot;&gt;&lt;span style=&quot;color: #000000; font-size: 10pt;&quot;&gt;&lt;span style=&quot;color: #000000; font-size: 10pt;&quot;&gt;&lt;strong&gt;11:30&lt;/strong&gt; Dr. Ignasi Queralt (ITJA-CSIC): &quot;&lt;em&gt;General introduction to X-ray Fluorescence spectroscopy (XRF). Its application to materials characterization&lt;/em&gt;&quot;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;color: #000000; font-size: 10pt;&quot;&gt;&lt;strong&gt;12:15&lt;/strong&gt; Dr. Pol de Pape (Rigaku Europe): &quot;&lt;em&gt;Various types of XRF spectrometers&lt;/em&gt;&quot;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;color: #000000; font-size: 10pt;&quot;&gt;&lt;span style=&quot;color: #000000; font-size: 10pt;&quot;&gt;&lt;strong&gt;13:00&lt;/strong&gt; Short communications&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;color: #000000; font-size: 10pt;&quot;&gt;&lt;span style=&quot;color: #000000; font-size: 10pt;&quot;&gt;&lt;span style=&quot;color: #000000; font-size: 10pt;&quot;&gt;Prof. Elies Molins (Director of crystallography department, ICMAB-CSIC): &quot;&lt;em&gt;Single crystal diffraction and electron density studies&lt;/em&gt;&quot;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;color: #000000; font-size: 10pt;&quot;&gt;Dr. Oriol Vallcorba (ALBA): &quot;&lt;em&gt;New structure solution possibilities of organic compounds from laboratory powder diffraction data&lt;/em&gt;&quot;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;color: #000000; font-size: 10pt;&quot;&gt;&lt;span style=&quot;color: #000000; font-size: 10pt;&quot;&gt;Lcda. Anna Crespi (ICMAB-CSIC) &quot;&lt;em&gt;New XRD applications in transmission mode at ICMAB-CSIC&lt;/em&gt;&quot;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;color: #000000; font-size: 10pt;&quot;&gt;&lt;span style=&quot;color: #000000; font-size: 10pt;&quot;&gt;The workshop is free to attend but registration is compulsory:&lt;/span&gt;&lt;strong&gt;&lt;span style=&quot;color: #000000; font-size: 10pt;&quot;&gt;&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;color: #000000; font-size: 10pt;&quot;&gt;&lt;span style=&quot;color: #000000; font-size: 10pt;&quot;&gt;&lt;a href=&quot;http://icmab.es/mct-2014&quot;&gt;&lt;/a&gt;&lt;a href=&quot;http://icmab.es/mct-2014&quot;&gt;http://icmab.es/mct-2014&lt;/a&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;color: #000000; font-size: 10pt;&quot;&gt;&lt;span style=&quot;color: #000000; font-size: 10pt;&quot;&gt;
+&lt;table style=&quot;width: 596px; height: 55px;&quot;&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;img style=&quot;display: block; margin-left: auto; margin-right: auto;&quot; alt=&quot;Logo icmab mct2014&quot; src=&quot;images/logos/Logo_icmab_mct2014.jpg&quot; height=&quot;44&quot; width=&quot;180&quot; /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/td&gt;
+&lt;td&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;img alt=&quot;Logo csic mct2014&quot; src=&quot;images/logos/Logo_csic_mct2014.png&quot; height=&quot;52&quot; width=&quot;174&quot; /&gt; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/td&gt;
+&lt;td&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;&lt;img alt=&quot;Logo Paralab mct2014&quot; src=&quot;images/logos/Logo_Paralab_mct2014.jpg&quot; height=&quot;85&quot; width=&quot;204&quot; /&gt; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/td&gt;
+&lt;td&gt;&amp;nbsp; &amp;nbsp; &lt;img alt=&quot;Logo Rigaku mct2014&quot; src=&quot;images/logos/Logo_Rigaku_mct2014.jpg&quot; height=&quot;54&quot; width=&quot;251&quot; /&gt;&amp;nbsp;&amp;nbsp;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;</content>
+		<category term="Training programme activities" />
+	</entry>
+	<entry>
+		<title>Second RADDEL Workshop on Complementary Training and Hands-on-school in Spectroscopy applied to materials science (22-24 January 2014, Prague)</title>
+		<link rel="alternate" type="text/html" href="https://projects.icmab.es/raddel/raddelactivities/training-programme-activities-2/45-second-raddel-workshop-on-complementary-training-and-hands-on-school-in-spectroscopy-applied-to-materials-science-22-24-january-2014-prague"/>
+		<published>2014-01-17T11:14:52+00:00</published>
+		<updated>2014-01-17T11:14:52+00:00</updated>
+		<id>https://projects.icmab.es/raddel/raddelactivities/training-programme-activities-2/45-second-raddel-workshop-on-complementary-training-and-hands-on-school-in-spectroscopy-applied-to-materials-science-22-24-january-2014-prague</id>
+		<author>
+			<name>Jorge Pérez</name>
+			<email>jperez@icmab.es</email>
+		</author>
+		<summary type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: arial,helvetica,sans-serif; font-size: 10pt;&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;&lt;span class=&quot;userContent&quot;&gt;Next week, two activities from RADDEL training program will take place in Prague (Czech Republic). On Wednesday 22nd, the Second RADDEL Workshop on Complimentary Training will be held at the seminar room of the J. Heyrovsky Institute of Physical Chemistry (HIPC), one of the RADDEL partners. &lt;/span&gt;The workshop, titled &quot;Scientific Writing&quot;, is designed to provide RADDEL fellows, PhD students and other novice scientists with an opportunity to take their scientific writing skills in English to a higher level. As all other workshops organised by the network so far, it &lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-family: arial,helvetica,sans-serif; font-size: 10pt; color: #000000;&quot;&gt;is open to everybody, although registration is compulsory (more information on the flyer).&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: arial,helvetica,sans-serif; font-size: 10pt; color: #000000;&quot;&gt;
+&lt;table style=&quot;width: 105px; height: 23px;&quot;&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;img style=&quot;display: block; margin-left: auto; margin-right: auto; border: 1px solid #000000;&quot; alt=&quot;2nd WS Complementary Training Jan2014&quot; src=&quot;images/2nd_WS_Complementary_Training_Jan2014.jpg&quot; height=&quot;570&quot; width=&quot;800&quot; /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: arial,helvetica,sans-serif; font-size: 10pt; color: #000000;&quot;&gt;On Thursday 23rd - Friday 24th, the first RADDEL Hands-on-school ins Spectrocopy will also take place at the J. Heyrovsky Institute of Physical Chemistry. The school will focus on the characterisation of nanomaterials by spectroscopic and spectroelectrochemical techniques, which are very important to monitor purity, filling, functionalisation and electronic properties of CNTs. The school is organised by local partner Dr. Martin Kalbac who will be supported by Dr. Otakar Frank and RADDEL fellow Ana Santidrián. 3 other RADDEL fellows and 2 PhD students from RADDEL partner ICMAB-CSIC will attend this school. &lt;br data-mce-bogus=&quot;1&quot; /&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: arial,helvetica,sans-serif; font-size: 10pt; color: #000000;&quot;&gt;
+&lt;table&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;img style=&quot;display: block; margin-left: auto; margin-right: auto;&quot; alt=&quot;Hands-on-school Spectroscopy HIPC Jan2014&quot; src=&quot;images/Hands-on-school_Spectroscopy_HIPC_Jan2014.jpg&quot; height=&quot;568&quot; width=&quot;800&quot; /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: arial,helvetica,sans-serif; font-size: 10pt;&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;&lt;span class=&quot;userContent&quot;&gt;Next week, two activities from RADDEL training program will take place in Prague (Czech Republic). On Wednesday 22nd, the Second RADDEL Workshop on Complimentary Training will be held at the seminar room of the J. Heyrovsky Institute of Physical Chemistry (HIPC), one of the RADDEL partners. &lt;/span&gt;The workshop, titled &quot;Scientific Writing&quot;, is designed to provide RADDEL fellows, PhD students and other novice scientists with an opportunity to take their scientific writing skills in English to a higher level. As all other workshops organised by the network so far, it &lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-family: arial,helvetica,sans-serif; font-size: 10pt; color: #000000;&quot;&gt;is open to everybody, although registration is compulsory (more information on the flyer).&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: arial,helvetica,sans-serif; font-size: 10pt; color: #000000;&quot;&gt;
+&lt;table style=&quot;width: 105px; height: 23px;&quot;&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;img style=&quot;display: block; margin-left: auto; margin-right: auto; border: 1px solid #000000;&quot; alt=&quot;2nd WS Complementary Training Jan2014&quot; src=&quot;images/2nd_WS_Complementary_Training_Jan2014.jpg&quot; height=&quot;570&quot; width=&quot;800&quot; /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: arial,helvetica,sans-serif; font-size: 10pt; color: #000000;&quot;&gt;On Thursday 23rd - Friday 24th, the first RADDEL Hands-on-school ins Spectrocopy will also take place at the J. Heyrovsky Institute of Physical Chemistry. The school will focus on the characterisation of nanomaterials by spectroscopic and spectroelectrochemical techniques, which are very important to monitor purity, filling, functionalisation and electronic properties of CNTs. The school is organised by local partner Dr. Martin Kalbac who will be supported by Dr. Otakar Frank and RADDEL fellow Ana Santidrián. 3 other RADDEL fellows and 2 PhD students from RADDEL partner ICMAB-CSIC will attend this school. &lt;br data-mce-bogus=&quot;1&quot; /&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: arial,helvetica,sans-serif; font-size: 10pt; color: #000000;&quot;&gt;
+&lt;table&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;img style=&quot;display: block; margin-left: auto; margin-right: auto;&quot; alt=&quot;Hands-on-school Spectroscopy HIPC Jan2014&quot; src=&quot;images/Hands-on-school_Spectroscopy_HIPC_Jan2014.jpg&quot; height=&quot;568&quot; width=&quot;800&quot; /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;</content>
+		<category term="Training programme activities" />
+	</entry>
+	<entry>
+		<title>Workshop on Complex Materials: Magnetic and Electric Characterization at Low Temperatures (ICMAB-CSIC, 25th November 2013)</title>
+		<link rel="alternate" type="text/html" href="https://projects.icmab.es/raddel/raddelactivities/training-programme-activities-2/39-workshop-on-complex-materials-magnetic-and-electric-characterization-at-low-temperatures-icmab-csic-25th-november-2013"/>
+		<published>2013-10-28T12:51:29+00:00</published>
+		<updated>2013-10-28T12:51:29+00:00</updated>
+		<id>https://projects.icmab.es/raddel/raddelactivities/training-programme-activities-2/39-workshop-on-complex-materials-magnetic-and-electric-characterization-at-low-temperatures-icmab-csic-25th-november-2013</id>
+		<author>
+			<name>Jorge Pérez</name>
+			<email>jperez@icmab.es</email>
+		</author>
+		<summary type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;color: #000000; font-size: 10pt;&quot;&gt;A workshop on electric and magnetic characterization techniques will be held on the 25th of November at ICMAB-CSIC. The aim of this workshop is to provide an overview on the conventional and most recently developed characterization techniques for magnetic, superconducting, dielectric and ferroelectric materials at low temperatures, with special emphasis on thin films and nanoparticles, topics of potential interest for the research community.&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;color: #000000; font-size: 10pt;&quot;&gt;&lt;img style=&quot;border: 1px solid #000000;&quot; alt=&quot;jmec2013 Icmab-csic Nov2013&quot; src=&quot;images/jmec2013_Icmab-csic_Nov2013.jpg&quot; height=&quot;633&quot; width=&quot;444&quot; /&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;color: #000000; font-size: 10pt;&quot;&gt;For more information, please visit the workshop webpage:&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;a href=&quot;http://congresses.icmab.es/jmec2013/index.html&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;http://congresses.icmab.es/jmec2013/index.html&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;color: #000000; font-size: 10pt;&quot;&gt;This workshop is part of the RADDEL training programme and therefore all the fellows are invited to attend it. &lt;br data-mce-bogus=&quot;1&quot; /&gt;&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;color: #000000; font-size: 10pt;&quot;&gt;A workshop on electric and magnetic characterization techniques will be held on the 25th of November at ICMAB-CSIC. The aim of this workshop is to provide an overview on the conventional and most recently developed characterization techniques for magnetic, superconducting, dielectric and ferroelectric materials at low temperatures, with special emphasis on thin films and nanoparticles, topics of potential interest for the research community.&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;color: #000000; font-size: 10pt;&quot;&gt;&lt;img style=&quot;border: 1px solid #000000;&quot; alt=&quot;jmec2013 Icmab-csic Nov2013&quot; src=&quot;images/jmec2013_Icmab-csic_Nov2013.jpg&quot; height=&quot;633&quot; width=&quot;444&quot; /&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;color: #000000; font-size: 10pt;&quot;&gt;For more information, please visit the workshop webpage:&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;a href=&quot;http://congresses.icmab.es/jmec2013/index.html&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;http://congresses.icmab.es/jmec2013/index.html&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;color: #000000; font-size: 10pt;&quot;&gt;This workshop is part of the RADDEL training programme and therefore all the fellows are invited to attend it. &lt;br data-mce-bogus=&quot;1&quot; /&gt;&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;</content>
+		<category term="Training programme activities" />
+	</entry>
+	<entry>
+		<title>NanoMedicine School 2013; a total success</title>
+		<link rel="alternate" type="text/html" href="https://projects.icmab.es/raddel/raddelactivities/training-programme-activities-2/34-nanomedicine-school-2013-a-total-success"/>
+		<published>2013-10-01T08:30:00+00:00</published>
+		<updated>2013-10-01T08:30:00+00:00</updated>
+		<id>https://projects.icmab.es/raddel/raddelactivities/training-programme-activities-2/34-nanomedicine-school-2013-a-total-success</id>
+		<author>
+			<name>Jorge Pérez</name>
+			<email>jperez@icmab.es</email>
+		</author>
+		<summary type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;img alt=&quot;NanoMedicine School 2013 Logo&quot; src=&quot;images/logos/NanoMedicine%20School%202013%20Logo.jpg&quot; height=&quot;110&quot; width=&quot;679&quot; /&gt;&lt;span style=&quot;color: #000000; font-size: 10pt; font-family: arial,helvetica,sans-serif;&quot;&gt; &lt;br /&gt;&lt;span style=&quot;color: #000000;&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;color: #000000; font-size: 10pt; font-family: arial,helvetica,sans-serif;&quot;&gt;&lt;span style=&quot;color: #000000; font-size: 10pt; font-family: arial,helvetica,sans-serif;&quot;&gt;&lt;span style=&quot;color: #000000; font-size: 10pt; font-family: arial,helvetica,sans-serif;&quot;&gt;The Nanomedicine School that took place last month in Trieste (Italy) as part of the RADDEL training program was a total success, with more than 100 attendees and a dedicated poster session with 37 posters presented. The &lt;span style=&quot;color: #000000; font-size: 10pt; font-family: arial,helvetica,sans-serif;&quot;&gt;&lt;span style=&quot;color: #000000; font-size: 10pt; font-family: arial,helvetica,sans-serif;&quot;&gt;scientific program covered a wide range of topics within the nanomedicine field including carbon nanomaterials, nanoparticles, polymeric systems for drug delivery and sensors. The quality of the presentations was extremely high and the organisation of the school was perfect. We would like to take this opportunity to thank all the attendees and the organising committee. &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;color: #000000; font-size: 10pt; font-family: arial,helvetica,sans-serif;&quot;&gt;&lt;span style=&quot;color: #000000; font-size: 10pt; font-family: arial,helvetica,sans-serif;&quot;&gt;&lt;span style=&quot;color: #000000; font-size: 10pt; font-family: arial,helvetica,sans-serif;&quot;&gt;&lt;span style=&quot;color: #000000; font-size: 10pt; font-family: arial,helvetica,sans-serif;&quot;&gt;&lt;span style=&quot;color: #000000; font-size: 10pt; font-family: arial,helvetica,sans-serif;&quot;&gt;A special acknowledgement to the people at University Degli Studi di Trieste (&lt;/span&gt;&lt;/span&gt;UNITS) for dedicating so much effort in the preparation of the school, including Prof. Maurizio Prato, Dr. Tatiana Da Ros and the two RADDEL felllows Agnieszka Gajewska and Dr. Jose Miguel González who also contributed to the organisation of this school.&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;line-height: 115%;&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 10pt; font-family: arial,helvetica,sans-serif;&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;color: #000000; font-size: 10pt; font-family: arial,helvetica,sans-serif;&quot;&gt;&lt;span style=&quot;color: #000000; font-size: 10pt; font-family: arial,helvetica,sans-serif;&quot;&gt;&lt;span style=&quot;color: #000000; font-size: 10pt; font-family: arial,helvetica,sans-serif;&quot;&gt;
+&lt;table&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td rowspan=&quot;1&quot; colspan=&quot;2&quot;&gt;
+&lt;p&gt;&lt;img style=&quot;border: 1px solid #000000; display: block; margin-left: auto; margin-right: auto;&quot; alt=&quot;IMAG2373&quot; src=&quot;images/news/NMS2013/IMAG2373.jpg&quot; height=&quot;246&quot; width=&quot;800&quot; /&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;img style=&quot;border: 1px solid #000000;&quot; alt=&quot;IMAG2372&quot; src=&quot;images/news/NMS2013/IMAG2372.jpg&quot; height=&quot;240&quot; width=&quot;400&quot; /&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td&gt;&amp;nbsp;&lt;img style=&quot;border: 1px solid #000000;&quot; alt=&quot;IMAG2389&quot; src=&quot;images/news/NMS2013/IMAG2389.jpg&quot; height=&quot;240&quot; width=&quot;400&quot; /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;img style=&quot;border: 1px solid #000000;&quot; alt=&quot;IMAG2378&quot; src=&quot;images/news/NMS2013/IMAG2378.jpg&quot; height=&quot;240&quot; width=&quot;400&quot; /&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;img style=&quot;border: 1px solid #000000;&quot; alt=&quot;IMAG2383&quot; src=&quot;images/news/NMS2013/IMAG2383.jpg&quot; height=&quot;240&quot; width=&quot;400&quot; /&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;img alt=&quot;NanoMedicine School 2013 Logo&quot; src=&quot;images/logos/NanoMedicine%20School%202013%20Logo.jpg&quot; height=&quot;110&quot; width=&quot;679&quot; /&gt;&lt;span style=&quot;color: #000000; font-size: 10pt; font-family: arial,helvetica,sans-serif;&quot;&gt; &lt;br /&gt;&lt;span style=&quot;color: #000000;&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;color: #000000; font-size: 10pt; font-family: arial,helvetica,sans-serif;&quot;&gt;&lt;span style=&quot;color: #000000; font-size: 10pt; font-family: arial,helvetica,sans-serif;&quot;&gt;&lt;span style=&quot;color: #000000; font-size: 10pt; font-family: arial,helvetica,sans-serif;&quot;&gt;The Nanomedicine School that took place last month in Trieste (Italy) as part of the RADDEL training program was a total success, with more than 100 attendees and a dedicated poster session with 37 posters presented. The &lt;span style=&quot;color: #000000; font-size: 10pt; font-family: arial,helvetica,sans-serif;&quot;&gt;&lt;span style=&quot;color: #000000; font-size: 10pt; font-family: arial,helvetica,sans-serif;&quot;&gt;scientific program covered a wide range of topics within the nanomedicine field including carbon nanomaterials, nanoparticles, polymeric systems for drug delivery and sensors. The quality of the presentations was extremely high and the organisation of the school was perfect. We would like to take this opportunity to thank all the attendees and the organising committee. &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;color: #000000; font-size: 10pt; font-family: arial,helvetica,sans-serif;&quot;&gt;&lt;span style=&quot;color: #000000; font-size: 10pt; font-family: arial,helvetica,sans-serif;&quot;&gt;&lt;span style=&quot;color: #000000; font-size: 10pt; font-family: arial,helvetica,sans-serif;&quot;&gt;&lt;span style=&quot;color: #000000; font-size: 10pt; font-family: arial,helvetica,sans-serif;&quot;&gt;&lt;span style=&quot;color: #000000; font-size: 10pt; font-family: arial,helvetica,sans-serif;&quot;&gt;A special acknowledgement to the people at University Degli Studi di Trieste (&lt;/span&gt;&lt;/span&gt;UNITS) for dedicating so much effort in the preparation of the school, including Prof. Maurizio Prato, Dr. Tatiana Da Ros and the two RADDEL felllows Agnieszka Gajewska and Dr. Jose Miguel González who also contributed to the organisation of this school.&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;line-height: 115%;&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 10pt; font-family: arial,helvetica,sans-serif;&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;color: #000000; font-size: 10pt; font-family: arial,helvetica,sans-serif;&quot;&gt;&lt;span style=&quot;color: #000000; font-size: 10pt; font-family: arial,helvetica,sans-serif;&quot;&gt;&lt;span style=&quot;color: #000000; font-size: 10pt; font-family: arial,helvetica,sans-serif;&quot;&gt;
+&lt;table&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td rowspan=&quot;1&quot; colspan=&quot;2&quot;&gt;
+&lt;p&gt;&lt;img style=&quot;border: 1px solid #000000; display: block; margin-left: auto; margin-right: auto;&quot; alt=&quot;IMAG2373&quot; src=&quot;images/news/NMS2013/IMAG2373.jpg&quot; height=&quot;246&quot; width=&quot;800&quot; /&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;img style=&quot;border: 1px solid #000000;&quot; alt=&quot;IMAG2372&quot; src=&quot;images/news/NMS2013/IMAG2372.jpg&quot; height=&quot;240&quot; width=&quot;400&quot; /&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td&gt;&amp;nbsp;&lt;img style=&quot;border: 1px solid #000000;&quot; alt=&quot;IMAG2389&quot; src=&quot;images/news/NMS2013/IMAG2389.jpg&quot; height=&quot;240&quot; width=&quot;400&quot; /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;img style=&quot;border: 1px solid #000000;&quot; alt=&quot;IMAG2378&quot; src=&quot;images/news/NMS2013/IMAG2378.jpg&quot; height=&quot;240&quot; width=&quot;400&quot; /&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;img style=&quot;border: 1px solid #000000;&quot; alt=&quot;IMAG2383&quot; src=&quot;images/news/NMS2013/IMAG2383.jpg&quot; height=&quot;240&quot; width=&quot;400&quot; /&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;</content>
+		<category term="Training programme activities" />
+	</entry>
+	<entry>
+		<title>Hands-on-school on Pharmacological studies (London, 26-28th February 2013)</title>
+		<link rel="alternate" type="text/html" href="https://projects.icmab.es/raddel/raddelactivities/training-programme-activities-2/24-hands-on-school-on-pharmacological-studies"/>
+		<published>2013-03-20T10:41:46+00:00</published>
+		<updated>2013-03-20T10:41:46+00:00</updated>
+		<id>https://projects.icmab.es/raddel/raddelactivities/training-programme-activities-2/24-hands-on-school-on-pharmacological-studies</id>
+		<author>
+			<name>Jorge Pérez</name>
+			<email>jperez@icmab.es</email>
+		</author>
+		<summary type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;color: #000000; font-size: 10pt; font-family: arial,helvetica,sans-serif;&quot;&gt;A Hands-on-school on Pharmacological studies took place in London on the 25-26th February 2013. The school, organised by the RADDEL partner KCL, was designed to give the fellows some insights for &lt;em&gt;in-vitro&lt;/em&gt; cell culture techniques and &lt;em&gt;in-vivo&lt;/em&gt; procedures.&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;color: #000000; font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-family: times new roman,times;&quot;&gt;
+&lt;table style=&quot;width: 8px; height: 23px;&quot;&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;img alt=&quot;Hands-on-school Pharmacological KCL 2013&quot; src=&quot;images/Hands-on-school_Pharmacological_KCL_2013.jpg&quot; height=&quot;534&quot; width=&quot;750&quot; /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;color: #000000; font-size: 10pt; font-family: arial,helvetica,sans-serif;&quot;&gt;5 RADDEL ESR fellows attended this school, along with 3 KCL researchers. During this hands-on-school they all had the opportunity to learn about the interactions of nanomaterials with cells and tissues, and also to perform some basic cell culture techniques.&lt;br data-mce-bogus=&quot;1&quot; /&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;color: #000000; font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-family: times new roman,times;&quot;&gt;&amp;nbsp;
+&lt;table&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;img alt=&quot;Hands-on-school Pharmacological KCL 2013 Picture&quot; src=&quot;images/Hands-on-school_Pharmacological_KCL_2013_Picture.jpg&quot; height=&quot;294&quot; width=&quot;750&quot; /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;color: #000000; font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-family: times new roman,times;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;&lt;em&gt;Left:Attendants to the 1st RADDEL Hands-on-school on Pharmacological studies; back row (from left to right): Sonia De Munari (ESR fellow, UOX), Rebeca Klippstein (ESR fellow, KCL), Maxime Bourgognon (ESR fellow, KCL), Noelia Rubio (research associate, KCL), Sara Pereira (visiting researcher, University of Lisbon), Hatem Hassan (PhD student, KCL); front row: Markus Martincic (ESR fellow, ICMAB-CSIC), Reida Rutte (ESR fellow, UOX).&lt;/em&gt; &lt;/span&gt;&lt;br /&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;color: #000000; font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-family: times new roman,times;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;&lt;em&gt;Right: A RADDEL ESR fellow performing some basic cell culture techniques. &lt;br data-mce-bogus=&quot;1&quot; /&gt;&lt;/em&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;color: #000000; font-size: 10pt; font-family: arial,helvetica,sans-serif;&quot;&gt;A Hands-on-school on Pharmacological studies took place in London on the 25-26th February 2013. The school, organised by the RADDEL partner KCL, was designed to give the fellows some insights for &lt;em&gt;in-vitro&lt;/em&gt; cell culture techniques and &lt;em&gt;in-vivo&lt;/em&gt; procedures.&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;color: #000000; font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-family: times new roman,times;&quot;&gt;
+&lt;table style=&quot;width: 8px; height: 23px;&quot;&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;img alt=&quot;Hands-on-school Pharmacological KCL 2013&quot; src=&quot;images/Hands-on-school_Pharmacological_KCL_2013.jpg&quot; height=&quot;534&quot; width=&quot;750&quot; /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;color: #000000; font-size: 10pt; font-family: arial,helvetica,sans-serif;&quot;&gt;5 RADDEL ESR fellows attended this school, along with 3 KCL researchers. During this hands-on-school they all had the opportunity to learn about the interactions of nanomaterials with cells and tissues, and also to perform some basic cell culture techniques.&lt;br data-mce-bogus=&quot;1&quot; /&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;color: #000000; font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-family: times new roman,times;&quot;&gt;&amp;nbsp;
+&lt;table&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;img alt=&quot;Hands-on-school Pharmacological KCL 2013 Picture&quot; src=&quot;images/Hands-on-school_Pharmacological_KCL_2013_Picture.jpg&quot; height=&quot;294&quot; width=&quot;750&quot; /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;color: #000000; font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-family: times new roman,times;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;&lt;em&gt;Left:Attendants to the 1st RADDEL Hands-on-school on Pharmacological studies; back row (from left to right): Sonia De Munari (ESR fellow, UOX), Rebeca Klippstein (ESR fellow, KCL), Maxime Bourgognon (ESR fellow, KCL), Noelia Rubio (research associate, KCL), Sara Pereira (visiting researcher, University of Lisbon), Hatem Hassan (PhD student, KCL); front row: Markus Martincic (ESR fellow, ICMAB-CSIC), Reida Rutte (ESR fellow, UOX).&lt;/em&gt; &lt;/span&gt;&lt;br /&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;color: #000000; font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-family: times new roman,times;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;&lt;em&gt;Right: A RADDEL ESR fellow performing some basic cell culture techniques. &lt;br data-mce-bogus=&quot;1&quot; /&gt;&lt;/em&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;</content>
+		<category term="Training programme activities" />
+	</entry>
+	<entry>
+		<title>Workshop &quot;Development and Marketing of Radiopharmaceuticals at an Industrial Level&quot; 07/02/2013 (Strasbourg, France)</title>
+		<link rel="alternate" type="text/html" href="https://projects.icmab.es/raddel/raddelactivities/training-programme-activities-2/20-workshop-development-and-marketing-of-radiopharmaceuticals-at-an-industrial-level"/>
+		<published>2013-01-25T09:28:03+00:00</published>
+		<updated>2013-01-25T09:28:03+00:00</updated>
+		<id>https://projects.icmab.es/raddel/raddelactivities/training-programme-activities-2/20-workshop-development-and-marketing-of-radiopharmaceuticals-at-an-industrial-level</id>
+		<author>
+			<name>Jorge Pérez</name>
+			<email>jperez@icmab.es</email>
+		</author>
+		<summary type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: times new roman,times; font-size: 10pt; color: #000000;&quot;&gt;&lt;img alt=&quot;iba master2 159x134&quot; src=&quot;images/logos/iba_master2_159x134.jpg&quot; height=&quot;169&quot; width=&quot;200&quot; /&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: arial,helvetica,sans-serif; font-size: 10pt; color: #000000;&quot;&gt;The workshop &lt;span style=&quot;font-family: arial,helvetica,sans-serif; font-size: 10pt; color: #000000;&quot;&gt;&quot;Development and marketing of radiopharmaceuticals at an industrial level&quot;&lt;/span&gt; for RADDEL fellows took place on the 7th of February 2013 at the Institut de Biologie Moleculaire et Cellularie in Strasbourg (France). &lt;span style=&quot;font-family: arial,helvetica,sans-serif; font-size: 10pt; color: #000000;&quot;&gt;The workshop, imparted by Dr. Jean-Claude Saccavini (Head of Strategic Marketing and Project Management at IBA Molecular) &lt;/span&gt;focused on the most important aspects to take into account for the development of radiopharmaceuticals and the regulations to reach the market. A total of 21 people participated in this workshop, including 10 ESR fellows and 7 people external to RADDEL. &lt;br /&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: arial,helvetica,sans-serif; font-size: 10pt; color: #000000;&quot;&gt;Participants in the workshop learned about the following topics:&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: arial,helvetica,sans-serif; font-size: 10pt; color: #000000;&quot;&gt;- Radionuclide manufacturing and labeling&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: arial,helvetica,sans-serif; font-size: 10pt; color: #000000;&quot;&gt;- Scaling-up and industralisation of radiopharmaceuticals&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: arial,helvetica,sans-serif; font-size: 10pt; color: #000000;&quot;&gt;- Nuclear safety and regulatory constraints&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: arial,helvetica,sans-serif; font-size: 10pt; color: #000000;&quot;&gt;
+&lt;table&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;img alt=&quot;Workshop Programme Feb2013a&quot; src=&quot;images/Workshop_Programme_Feb2013a.jpg&quot; height=&quot;605&quot; width=&quot;429&quot; /&gt;&lt;/td&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;img alt=&quot;Workshop Programme Feb2013b&quot; src=&quot;images/Workshop_Programme_Feb2013b.jpg&quot; height=&quot;604&quot; width=&quot;425&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-family: arial,helvetica,sans-serif; font-size: 10pt; color: #000000;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: arial,helvetica,sans-serif; font-size: 10pt; color: #000000;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: arial,helvetica,sans-serif; font-size: 10pt; color: #000000;&quot;&gt;
+&lt;table&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;img alt=&quot;Workshop Feb2013-1&quot; src=&quot;images/Workshop_Feb2013-1.jpg&quot; height=&quot;309&quot; width=&quot;453&quot; /&gt;&lt;/td&gt;
+&lt;td&gt;&lt;span style=&quot;font-family: arial,helvetica,sans-serif; font-size: 10pt; color: #000000;&quot;&gt;&lt;img alt=&quot;Workshop Feb2013-3&quot; src=&quot;images/Workshop_Feb2013-3.jpg&quot; height=&quot;309&quot; width=&quot;500&quot; /&gt;&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td rowspan=&quot;1&quot; colspan=&quot;2&quot;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: arial,helvetica,sans-serif; font-size: 10pt; color: #000000;&quot;&gt;More workshops are planned for RADDEL during 2013, please visit the project's webpage for the latest information about the project, future activities and open positions.&lt;/span&gt;&lt;br data-mce-bogus=&quot;1&quot; /&gt;&lt;br /&gt;&lt;/p&gt;&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: times new roman,times; font-size: 10pt; color: #000000;&quot;&gt;&lt;img alt=&quot;iba master2 159x134&quot; src=&quot;images/logos/iba_master2_159x134.jpg&quot; height=&quot;169&quot; width=&quot;200&quot; /&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: arial,helvetica,sans-serif; font-size: 10pt; color: #000000;&quot;&gt;The workshop &lt;span style=&quot;font-family: arial,helvetica,sans-serif; font-size: 10pt; color: #000000;&quot;&gt;&quot;Development and marketing of radiopharmaceuticals at an industrial level&quot;&lt;/span&gt; for RADDEL fellows took place on the 7th of February 2013 at the Institut de Biologie Moleculaire et Cellularie in Strasbourg (France). &lt;span style=&quot;font-family: arial,helvetica,sans-serif; font-size: 10pt; color: #000000;&quot;&gt;The workshop, imparted by Dr. Jean-Claude Saccavini (Head of Strategic Marketing and Project Management at IBA Molecular) &lt;/span&gt;focused on the most important aspects to take into account for the development of radiopharmaceuticals and the regulations to reach the market. A total of 21 people participated in this workshop, including 10 ESR fellows and 7 people external to RADDEL. &lt;br /&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: arial,helvetica,sans-serif; font-size: 10pt; color: #000000;&quot;&gt;Participants in the workshop learned about the following topics:&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: arial,helvetica,sans-serif; font-size: 10pt; color: #000000;&quot;&gt;- Radionuclide manufacturing and labeling&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: arial,helvetica,sans-serif; font-size: 10pt; color: #000000;&quot;&gt;- Scaling-up and industralisation of radiopharmaceuticals&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: arial,helvetica,sans-serif; font-size: 10pt; color: #000000;&quot;&gt;- Nuclear safety and regulatory constraints&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: arial,helvetica,sans-serif; font-size: 10pt; color: #000000;&quot;&gt;
+&lt;table&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;img alt=&quot;Workshop Programme Feb2013a&quot; src=&quot;images/Workshop_Programme_Feb2013a.jpg&quot; height=&quot;605&quot; width=&quot;429&quot; /&gt;&lt;/td&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;img alt=&quot;Workshop Programme Feb2013b&quot; src=&quot;images/Workshop_Programme_Feb2013b.jpg&quot; height=&quot;604&quot; width=&quot;425&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-family: arial,helvetica,sans-serif; font-size: 10pt; color: #000000;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: arial,helvetica,sans-serif; font-size: 10pt; color: #000000;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: arial,helvetica,sans-serif; font-size: 10pt; color: #000000;&quot;&gt;
+&lt;table&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;img alt=&quot;Workshop Feb2013-1&quot; src=&quot;images/Workshop_Feb2013-1.jpg&quot; height=&quot;309&quot; width=&quot;453&quot; /&gt;&lt;/td&gt;
+&lt;td&gt;&lt;span style=&quot;font-family: arial,helvetica,sans-serif; font-size: 10pt; color: #000000;&quot;&gt;&lt;img alt=&quot;Workshop Feb2013-3&quot; src=&quot;images/Workshop_Feb2013-3.jpg&quot; height=&quot;309&quot; width=&quot;500&quot; /&gt;&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td rowspan=&quot;1&quot; colspan=&quot;2&quot;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: arial,helvetica,sans-serif; font-size: 10pt; color: #000000;&quot;&gt;More workshops are planned for RADDEL during 2013, please visit the project's webpage for the latest information about the project, future activities and open positions.&lt;/span&gt;&lt;br data-mce-bogus=&quot;1&quot; /&gt;&lt;br /&gt;&lt;/p&gt;&lt;/div&gt;</content>
+		<category term="Training programme activities" />
+	</entry>
+	<entry>
+		<title>First RADDEL Workshop on Complimentary Training: &quot;R&amp;D Project Management and Technology Transfer: from Research to the Market&quot; (10/10/2012)</title>
+		<link rel="alternate" type="text/html" href="https://projects.icmab.es/raddel/raddelactivities/training-programme-activities-2/14-first-raddel-workshop-on-complimentary-training"/>
+		<published>2012-10-01T09:02:26+00:00</published>
+		<updated>2012-10-01T09:02:26+00:00</updated>
+		<id>https://projects.icmab.es/raddel/raddelactivities/training-programme-activities-2/14-first-raddel-workshop-on-complimentary-training</id>
+		<author>
+			<name>Jorge Pérez</name>
+			<email>jperez@icmab.es</email>
+		</author>
+		<summary type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p&gt;&lt;span class=&quot;userContent&quot;&gt;
+&lt;table&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;span class=&quot;userContent&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;img alt=&quot;RADDEL Workshop a&quot; src=&quot;images/RADDEL%20Workshop%20a.jpg&quot; height=&quot;502&quot; width=&quot;350&quot; /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/span&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;span class=&quot;userContent&quot;&gt;&lt;span class=&quot;userContent&quot;&gt;&lt;span class=&quot;userContent&quot;&gt;&lt;span class=&quot;userContent&quot;&gt;&lt;img alt=&quot;RADDEL Workshop b&quot; src=&quot;images/RADDEL%20Workshop%20b.jpg&quot; height=&quot;495&quot; width=&quot;350&quot; /&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-family: arial,helvetica,sans-serif; font-size: 10pt;&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;&lt;span class=&quot;userContent&quot;&gt;Next 10th of October, the First RADDEL Workshop on Complimentary Training will take place at the Conference Room of the Institute of Materials Science of Barcelona (ICMAB-CSIC).&lt;/span&gt;The workshop, titled &quot;R&amp;amp;D Project Management and Technology Transfer: from Research to the Market&quot;, is part of the training activities of the european project RADDEL&lt;/span&gt; &lt;span style=&quot;color: #000000;&quot;&gt;(&lt;/span&gt;&lt;a href=&quot;http://www.icmab.es/raddel/&quot;&gt;http://www.icmab.es/raddel/&lt;/a&gt;&lt;span style=&quot;color: #000000;&quot;&gt;), an Initial Training Network (ITN) funded by the European Comission under the FP7 (Marie-Curie Actions).&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;div class=&quot;text_exposed_show&quot;&gt;
+&lt;p&gt;&lt;span style=&quot;font-family: arial,helvetica,sans-serif; font-size: 10pt; color: #000000;&quot;&gt;Experts in the management of research projects, and the knowledge and technology transfer from research centres and companies will participate in this workshop. In the final part of the workshop, four spin-off companies created within the UAB campus will share their personal experience in the starting up process of the companies.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-family: arial,helvetica,sans-serif; font-size: 10pt; color: #000000;&quot;&gt;The workshop is open to everyone outside RADDEL network, although postgraduate (PhD), master and undergraduate students are encouraged to attend. Registration for the workshop is free of charge.&lt;/span&gt;&lt;br /&gt; &lt;br /&gt;&lt;span style=&quot;font-family: arial,helvetica,sans-serif; font-size: 10pt;&quot;&gt; &lt;a href=&quot;http://www.icmab.csic.es/attachments/1682_RADDEL%20Workshop%20Program-1.pdf&quot;&gt;More information&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p&gt;&lt;span class=&quot;userContent&quot;&gt;
+&lt;table&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;span class=&quot;userContent&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;img alt=&quot;RADDEL Workshop a&quot; src=&quot;images/RADDEL%20Workshop%20a.jpg&quot; height=&quot;502&quot; width=&quot;350&quot; /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/span&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;span class=&quot;userContent&quot;&gt;&lt;span class=&quot;userContent&quot;&gt;&lt;span class=&quot;userContent&quot;&gt;&lt;span class=&quot;userContent&quot;&gt;&lt;img alt=&quot;RADDEL Workshop b&quot; src=&quot;images/RADDEL%20Workshop%20b.jpg&quot; height=&quot;495&quot; width=&quot;350&quot; /&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-family: arial,helvetica,sans-serif; font-size: 10pt;&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;&lt;span class=&quot;userContent&quot;&gt;Next 10th of October, the First RADDEL Workshop on Complimentary Training will take place at the Conference Room of the Institute of Materials Science of Barcelona (ICMAB-CSIC).&lt;/span&gt;The workshop, titled &quot;R&amp;amp;D Project Management and Technology Transfer: from Research to the Market&quot;, is part of the training activities of the european project RADDEL&lt;/span&gt; &lt;span style=&quot;color: #000000;&quot;&gt;(&lt;/span&gt;&lt;a href=&quot;http://www.icmab.es/raddel/&quot;&gt;http://www.icmab.es/raddel/&lt;/a&gt;&lt;span style=&quot;color: #000000;&quot;&gt;), an Initial Training Network (ITN) funded by the European Comission under the FP7 (Marie-Curie Actions).&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;div class=&quot;text_exposed_show&quot;&gt;
+&lt;p&gt;&lt;span style=&quot;font-family: arial,helvetica,sans-serif; font-size: 10pt; color: #000000;&quot;&gt;Experts in the management of research projects, and the knowledge and technology transfer from research centres and companies will participate in this workshop. In the final part of the workshop, four spin-off companies created within the UAB campus will share their personal experience in the starting up process of the companies.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-family: arial,helvetica,sans-serif; font-size: 10pt; color: #000000;&quot;&gt;The workshop is open to everyone outside RADDEL network, although postgraduate (PhD), master and undergraduate students are encouraged to attend. Registration for the workshop is free of charge.&lt;/span&gt;&lt;br /&gt; &lt;br /&gt;&lt;span style=&quot;font-family: arial,helvetica,sans-serif; font-size: 10pt;&quot;&gt; &lt;a href=&quot;http://www.icmab.csic.es/attachments/1682_RADDEL%20Workshop%20Program-1.pdf&quot;&gt;More information&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;</content>
+		<category term="Training programme activities" />
+	</entry>
+	<entry>
+		<title>TRAIN2 Workshop on Nanometrology 2012, Bellaterra (Barcelona), May 3-4 2012</title>
+		<link rel="alternate" type="text/html" href="https://projects.icmab.es/raddel/raddelactivities/training-programme-activities-2/5-train2-workshop-on-nanometrology-2012-bellaterra-barcelona-may-3-4-2012"/>
+		<published>2012-04-13T11:44:32+00:00</published>
+		<updated>2012-04-13T11:44:32+00:00</updated>
+		<id>https://projects.icmab.es/raddel/raddelactivities/training-programme-activities-2/5-train2-workshop-on-nanometrology-2012-bellaterra-barcelona-may-3-4-2012</id>
+		<summary type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;img src=&quot;http://www.icn.cat/images/Header_Image.jpg&quot; height=&quot;242&quot; width=&quot;713&quot; /&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 10pt; font-family: arial,helvetica,sans-serif;&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;A workshop on Nanometrology of the TRAIN2 project of the &lt;strong&gt;SUDOE Territorial Cooperation Programme&lt;/strong&gt; will be hosted in the &lt;strong&gt;Catalan Institute of Nanotechnology (ICN)&lt;/strong&gt; during May 3-4, 2012. Train2 is a &lt;strong&gt;Transpyrenees Action on Advanced Infrastructures for Nanosciences and Nanotechnologies&lt;/strong&gt;, which aims to consolidate a unified space for research, Innovation and education in these fields through the coordination of advanced research infrastructures and research institutes. The attendance to this workshop is open to any researcher involved in the&lt;strong&gt; RADDEL project&lt;/strong&gt; as part of the training program. More details on the&lt;/span&gt; &lt;a target=&quot;_blank&quot; href=&quot;http://www.icn.cat/index.php/en/events/future-events/train2-workshop-on-nanometrology&quot;&gt;workshop webpage&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;img src=&quot;http://www.icn.cat/images/Header_Image.jpg&quot; height=&quot;242&quot; width=&quot;713&quot; /&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 10pt; font-family: arial,helvetica,sans-serif;&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;A workshop on Nanometrology of the TRAIN2 project of the &lt;strong&gt;SUDOE Territorial Cooperation Programme&lt;/strong&gt; will be hosted in the &lt;strong&gt;Catalan Institute of Nanotechnology (ICN)&lt;/strong&gt; during May 3-4, 2012. Train2 is a &lt;strong&gt;Transpyrenees Action on Advanced Infrastructures for Nanosciences and Nanotechnologies&lt;/strong&gt;, which aims to consolidate a unified space for research, Innovation and education in these fields through the coordination of advanced research infrastructures and research institutes. The attendance to this workshop is open to any researcher involved in the&lt;strong&gt; RADDEL project&lt;/strong&gt; as part of the training program. More details on the&lt;/span&gt; &lt;a target=&quot;_blank&quot; href=&quot;http://www.icn.cat/index.php/en/events/future-events/train2-workshop-on-nanometrology&quot;&gt;workshop webpage&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;</content>
+		<category term="Training programme activities" />
+	</entry>
+	<entry>
+		<title>Workshop &quot;Carbon Nanocapsules and their Characterization by Thermal Analysis and Electron Microscopy&quot; (ICMAB-CSIC; 29-06-2012)</title>
+		<link rel="alternate" type="text/html" href="https://projects.icmab.es/raddel/raddelactivities/training-programme-activities-2/12-workshop-carbon-nanocapsules-and-their-characterization-by-thermal-analysis-and-electron-microscopy-icmab-csic-29-06-2012"/>
+		<published>2012-04-13T11:44:32+00:00</published>
+		<updated>2012-04-13T11:44:32+00:00</updated>
+		<id>https://projects.icmab.es/raddel/raddelactivities/training-programme-activities-2/12-workshop-carbon-nanocapsules-and-their-characterization-by-thermal-analysis-and-electron-microscopy-icmab-csic-29-06-2012</id>
+		<summary type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p style=&quot;text-align: justify;&quot;&gt;
+&lt;table border=&quot;0&quot;&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;img alt=&quot;workshop icmab 290612 1&quot; src=&quot;images/news/workshop_icmab_290612_1.png&quot; height=&quot;249&quot; width=&quot;400&quot; /&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img alt=&quot;workshop icmab 290612 2&quot; src=&quot;images/news/workshop_icmab_290612_2.png&quot; height=&quot;248&quot; width=&quot;475&quot; /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 8pt; color: #000000; font-family: arial,helvetica,sans-serif;&quot;&gt;&lt;em&gt;Workshop on &quot;Carbon nanocapsules and their characterization by thermal analysis and electron microscopy&quot;, held at ICMAB-CSIC (Barcelona)&amp;nbsp;on the 29th June 2012 as part of the training program for RADDEL. Attendants (from left to right): Gerard Tobias (Project coordinator and workshop speaker), Jorge Pérez (Project manager), Laura Cabana (PhD student at ICMAB), Stefania Sandoval (PhD student at ICMAB), Sonia de Munari (ESR3 from UOX), Reida Rutte (ESR4 from UOX), Jessica Nava (PhD student at ICMAB), Alexandre Ponrouch (Postdoc at ICMAB) and Mansur Ahmed (visiting student at ICMAB).&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;color: #000000; font-size: 10pt; font-family: terminal,monaco;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;color: #000000; font-size: 10pt; font-family: arial,helvetica,sans-serif;&quot;&gt;A workshop on the synthesis, properties and applications of carbon nanocapsules has been held at the Institute of Materials Science of Barcelona (ICMAB-CSIC) as part of RADDEL´s Training Program. Sonia de Munari (ESR3) and Reida Rutte (ESR4) from the University of Oxford (UOX) participated in this workshop, along with other students and postdocs from the Institute. Gerard Tobias (Project coordinator and workshop speaker) gave a brief introduction about the&amp;nbsp;Institute and the origin of the RADDEL ITN. Then, the synthetic aspects of carbon nanomaterials and in particular carbon nanotubes (CNTs)&amp;nbsp;were detailed. The theoretical aspects of the purification, shortening and filling of the nanotubes were introduced, with special emphasis on the use of thermal analysis and electron microscopy as powerful techniques for the characterization of these materials. Finally, the functionalization of closed and filled CNTs and their use as nanocapsules for biomedical applications was also mentioned.&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p style=&quot;text-align: justify;&quot;&gt;
+&lt;table border=&quot;0&quot;&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;img alt=&quot;workshop icmab 290612 1&quot; src=&quot;images/news/workshop_icmab_290612_1.png&quot; height=&quot;249&quot; width=&quot;400&quot; /&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img alt=&quot;workshop icmab 290612 2&quot; src=&quot;images/news/workshop_icmab_290612_2.png&quot; height=&quot;248&quot; width=&quot;475&quot; /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 8pt; color: #000000; font-family: arial,helvetica,sans-serif;&quot;&gt;&lt;em&gt;Workshop on &quot;Carbon nanocapsules and their characterization by thermal analysis and electron microscopy&quot;, held at ICMAB-CSIC (Barcelona)&amp;nbsp;on the 29th June 2012 as part of the training program for RADDEL. Attendants (from left to right): Gerard Tobias (Project coordinator and workshop speaker), Jorge Pérez (Project manager), Laura Cabana (PhD student at ICMAB), Stefania Sandoval (PhD student at ICMAB), Sonia de Munari (ESR3 from UOX), Reida Rutte (ESR4 from UOX), Jessica Nava (PhD student at ICMAB), Alexandre Ponrouch (Postdoc at ICMAB) and Mansur Ahmed (visiting student at ICMAB).&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;color: #000000; font-size: 10pt; font-family: terminal,monaco;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;color: #000000; font-size: 10pt; font-family: arial,helvetica,sans-serif;&quot;&gt;A workshop on the synthesis, properties and applications of carbon nanocapsules has been held at the Institute of Materials Science of Barcelona (ICMAB-CSIC) as part of RADDEL´s Training Program. Sonia de Munari (ESR3) and Reida Rutte (ESR4) from the University of Oxford (UOX) participated in this workshop, along with other students and postdocs from the Institute. Gerard Tobias (Project coordinator and workshop speaker) gave a brief introduction about the&amp;nbsp;Institute and the origin of the RADDEL ITN. Then, the synthetic aspects of carbon nanomaterials and in particular carbon nanotubes (CNTs)&amp;nbsp;were detailed. The theoretical aspects of the purification, shortening and filling of the nanotubes were introduced, with special emphasis on the use of thermal analysis and electron microscopy as powerful techniques for the characterization of these materials. Finally, the functionalization of closed and filled CNTs and their use as nanocapsules for biomedical applications was also mentioned.&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;</content>
+		<category term="Training programme activities" />
+	</entry>
+</feed>

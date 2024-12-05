@@ -1,0 +1,971 @@
+<!DOCTYPE html>
+<html lang="en-gb" dir="ltr">
+    <head>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="icon" href="images/faviconblue.jpg" sizes="any">
+                <link rel="apple-touch-icon" href="images/faviconblue.jpg">
+        <meta charset="utf-8">
+	<meta name="author" content="Super User">
+	
+	<title>JMAG2023</title>
+	<link href="https://jmag2023.icmab.es/component/finder/search?format=opensearch&amp;Itemid=101" rel="search" title="OpenSearch JMAG2023" type="application/opensearchdescription+xml">
+	<link href="css/joomla-fontawesome.min.css" rel="preload" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<link href="css/fontawesome.css" rel="stylesheet" data-asset-name="fontawesome">
+	<link href="css/awesomplete.css" rel="stylesheet" data-asset-name="awesomplete">
+	<link href="css/joomla-alert.css" rel="stylesheet" data-asset-name="webcomponent.joomla-alert">
+	<link href="css/debug.css" rel="stylesheet" data-asset-name="plg.system.debug" data-asset-dependencies="fontawesome">
+	<link href="css/theme.9.css" rel="stylesheet">
+<script src="js/jquery.js" data-asset-name="jquery"></script>
+	<script src="js/awesomplete.js" defer data-asset-name="awesomplete"></script>
+	
+	<script src="js/core.js" data-asset-name="core"></script>
+	<script src="js/webcomponents-bundle.js" nomodule defer data-asset-name="wcpolyfill" data-asset-dependencies="core"></script>
+	<script src="js/finder-es5.js" nomodule defer data-asset-name="com_finder.finder.es5" data-asset-dependencies="core"></script>
+	<script src="js/messages-es5.js" nomodule defer data-asset-name="messages-legacy" data-asset-dependencies="core"></script>
+	<script src="js/joomla-hidden-mail-es5.js" nomodule defer data-asset-name="webcomponent.hidden-mail-legacy" data-asset-dependencies="wcpolyfill"></script>
+	<script src="js/finder.js" type="module" data-asset-name="com_finder.finder" data-asset-dependencies="com_finder.finder.es5"></script>
+	<script src="js/joomla-hidden-mail.js" type="module" data-asset-name="webcomponent.hidden-mail" data-asset-dependencies="webcomponent.hidden-mail-legacy"></script>
+	<script src="js/messages.js" type="module" data-asset-name="messages" data-asset-dependencies="messages-legacy"></script>
+	<script src="js/debug.js" defer data-asset-name="plg.system.debug" data-asset-dependencies="jquery"></script>
+	<script src="js/analytics.min.js" defer></script>
+	<script src="js/cookie.min.js" defer></script>
+	<script src="js/uikit.js"></script>
+	<script src="js/uikit-icons-paladin.min.js"></script>
+	<script src="js/theme.js"></script>
+	<script type="text/javascript" src="//cdn.plu.mx/widget-details.js">  
+    </script>
+	<script>window.yootheme ||= {}; var $theme = yootheme.theme = {"i18n":{"close":{"label":"Close"},"totop":{"label":"Back to top"},"marker":{"label":"Open"},"navbarToggleIcon":{"label":"Open menu"},"paginationPrevious":{"label":"Previous page"},"paginationNext":{"label":"Next page"},"searchIcon":{"toggle":"Open Search","submit":"Submit Search"},"slider":{"next":"Next slide","previous":"Previous slide","slideX":"Slide %s","slideLabel":"%s of %s"},"slideshow":{"next":"Next slide","previous":"Previous slide","slideX":"Slide %s","slideLabel":"%s of %s"},"lightboxPanel":{"next":"Next slide","previous":"Previous slide","slideLabel":"%s of %s","close":"Close"}},"google_analytics":"UA-6106329-6","google_analytics_anonymize":"","cookie":{"mode":"consent","template":"<div class=\"tm-cookie-banner uk-section uk-section-xsmall uk-section-default uk-position-bottom uk-position-fixed\">\n        <div class=\"uk-container uk-container-expand uk-text-center\">\n\n            <p>By using this website, you agree to the use of cookies as described in our Privacy Policy.<\/p>\n                            <button type=\"button\" class=\"js-accept uk-button uk-button-secondary uk-margin-small-left\" data-uk-toggle=\"target: !.uk-section; animation: true\">Ok<\/button>\n            \n                        <button type=\"button\" class=\"js-reject uk-button uk-button-default uk-margin-small-left\" data-uk-toggle=\"target: !.uk-section; animation: true\">No, Thanks<\/button>\n            \n        <\/div>\n    <\/div>","position":"bottom"}};</script>
+
+    </head>
+    <body class="">
+
+        <div class="uk-hidden-visually uk-notification uk-notification-top-left uk-width-auto">
+            <div class="uk-notification-message">
+                <a href="#tm-main">Skip to main content</a>
+            </div>
+        </div>
+
+        
+        
+        <div class="tm-page">
+
+                        
+
+
+<header class="tm-header-mobile uk-hidden@m tm-header-overlay" uk-header uk-inverse="target: .uk-navbar-container; sel-active: .uk-navbar-transparent">
+
+
+    
+        <div class="uk-navbar-container uk-navbar-transparent">
+
+            <div class="uk-container uk-container-expand">
+                <nav class="uk-navbar" uk-navbar='{"align":"left","container":".tm-header-mobile","boundary":".tm-header-mobile .uk-navbar-container"}'>
+
+                                        <div class="uk-navbar-left">
+
+                        
+                                                    <a uk-toggle href="#tm-dialog-mobile" class="uk-navbar-toggle">
+
+        
+        <div uk-navbar-toggle-icon></div>
+
+        
+    </a>
+                        
+                    </div>
+                    
+                                        <div class="uk-navbar-center">
+
+                                                    <a href="index.html" aria-label="Back to home" class="uk-logo uk-navbar-item">
+    <img alt loading="eager" src="images/faviconblue.jpg#thumbnail=40%2C40&amp;srcset=1"></a>
+                        
+                        
+                    </div>
+                    
+                    
+                </nav>
+            </div>
+
+        </div>
+
+    
+
+
+
+        <div id="tm-dialog-mobile" uk-offcanvas="container: true; overlay: true" mode="slide">
+        <div class="uk-offcanvas-bar uk-flex uk-flex-column">
+
+                        <button class="uk-offcanvas-close uk-close-large" type="button" uk-close uk-toggle="cls: uk-close-large; mode: media; media: @s"></button>
+            
+                        <div class="uk-margin-auto-bottom">
+                
+<div class="uk-grid uk-child-width-1-1" uk-grid>    <div>
+<div class="uk-panel" id="module-tm-3">
+
+    
+    <a href="index.html" aria-label="Back to home" class="uk-logo">
+    <img alt loading="eager" src="images/faviconblue.jpg#thumbnail=%2C&amp;srcset=1"></a>
+</div>
+</div>    <div>
+<div class="uk-panel" id="module-menu-dialog-mobile">
+
+    
+    
+<ul class="uk-nav uk-nav-default">
+    
+	<li class="item-101 uk-active"><a href="index.html"><span class="uk-margin-small-right" uk-icon="icon: home;"></span> Home</a></li></ul>
+
+</div>
+</div>    <div>
+<div class="uk-panel" id="module-tm-4">
+
+    
+    
+
+    <form id="search-tm-4" action="/component/finder/search?Itemid=101" method="get" role="search" class="uk-search js-finder-searchform uk-search-default uk-width-1-1"><span uk-search-icon class="uk-position-z-index"></span><input name="q" class="js-finder-search-query uk-search-input" placeholder="Search" required aria-label="Search" type="search"><input type="hidden" name="Itemid" value="101"></form>
+
+
+
+
+
+
+</div>
+</div>    <div>
+<div class="uk-panel" id="module-tm-5">
+
+    
+    <ul class="uk-flex-inline uk-flex-middle uk-flex-nowrap uk-grid-small" uk-grid>                    <li><a href="https://www.linkedin.com/company/1398550" class="uk-preserve-width uk-icon-button" rel="noreferrer"><span uk-icon="icon: linkedin;"></span></a></li>
+                    <li><a href="https://www.facebook.com/icmab" class="uk-preserve-width uk-icon-button" rel="noreferrer"><span uk-icon="icon: facebook;"></span></a></li>
+                    <li><a href="https://twitter.com/icmabcsic" class="uk-preserve-width uk-icon-button" rel="noreferrer"><span uk-icon="icon: twitter;"></span></a></li>
+                    <li><a href="https://www.instagram.com/icmab/" class="uk-preserve-width uk-icon-button" rel="noreferrer"><span uk-icon="icon: instagram;"></span></a></li>
+                    <li><a href="https://www.youtube.com/user/ICMABCSIC/videos" class="uk-preserve-width uk-icon-button" rel="noreferrer"><span uk-icon="icon: youtube;"></span></a></li>
+            </ul>
+</div>
+</div></div>
+            </div>
+            
+            
+        </div>
+    </div>
+    
+    
+    
+
+</header>
+
+
+<div class="tm-toolbar tm-toolbar-default uk-visible@m">
+    <div class="uk-container uk-flex uk-flex-middle uk-container-xlarge">
+
+        
+                <div class="uk-margin-auto-left">
+            <div class="uk-grid-medium uk-child-width-auto uk-flex-middle" uk-grid="margin: uk-margin-small-top">
+                
+            </div>
+        </div>
+        
+    </div>
+</div>
+
+<header class="tm-header uk-visible@m tm-header-overlay" uk-header uk-inverse="target: .uk-navbar-container, .tm-headerbar; sel-active: .uk-navbar-transparent, .tm-headerbar">
+
+
+
+
+
+
+    
+    
+        
+            <div class="uk-navbar-container uk-navbar-transparent">
+
+                <div class="uk-container uk-container-xlarge uk-flex uk-flex-middle">
+                    <nav class="uk-navbar uk-flex-auto" uk-navbar='{"align":"left","container":".tm-header","boundary":".tm-header .uk-navbar-container"}'>
+
+                                                <div class="uk-navbar-left">
+                            
+<ul class="uk-navbar-nav">
+    
+	<li class="item-101 uk-active"><a href="index.html" class="uk-preserve-width"><span class="uk-margin-small-right" uk-icon="icon: home;"></span> Home</a></li></ul>
+
+                        </div>
+                        
+                        
+                    </nav>
+                </div>
+
+            </div>
+
+        
+    
+
+
+
+        <div id="tm-dialog" uk-offcanvas="container: true" mode="slide" flip>
+        <div class="uk-offcanvas-bar uk-flex uk-flex-column">
+
+            <button class="uk-offcanvas-close uk-close-large" type="button" uk-close uk-toggle="cls: uk-close-large; mode: media; media: @s"></button>
+
+                        <div class="uk-margin-auto-bottom tm-height-expand">
+                
+<div class="uk-panel" id="module-tm-2">
+
+    
+    <a href="index.html" aria-label="Back to home" class="uk-logo">
+    <img alt loading="eager" src="images/faviconblue.jpg#thumbnail=%2C&amp;srcset=1"></a>
+</div>
+
+            </div>
+            
+            
+        </div>
+    </div>
+    
+    
+    
+
+
+</header>
+
+            
+            
+
+            <main id="tm-main">
+
+                
+                <div id="system-message-container" aria-live="polite"></div>
+
+                <!-- Builder #page -->
+<div class="uk-section-default uk-inverse-light" uk-scrollspy="target: [uk-scrollspy-class]; cls: uk-animation-slide-top-small; delay: false;">
+        <div data-src="images/backhome.png" data-sizes="(min-width: 1920px) 1920px" data-sources="[]" loading="eager" uk-img class="uk-background-norepeat uk-background-width-1-1 uk-background-center-center uk-background-image@s uk-section" uk-parallax="bgy: 0,500; easing: 1; media: @m">    
+        
+        
+        
+            
+                
+                    <div class="uk-grid-margin uk-container uk-container-xlarge"><div class="uk-grid tm-grid-expand uk-child-width-1-1">
+<div class="uk-light uk-width-1-1@m">
+    
+        
+            
+            
+            
+                
+                    
+<h1 class="uk-heading-xlarge uk-font-tertiary uk-align-center uk-margin-remove-vertical uk-text-center" uk-scrollspy-class>        JMAG2023    </h1>
+<h1 class="uk-h1 uk-font-tertiary uk-align-center uk-margin-remove-vertical uk-text-center" uk-scrollspy-class>        <span>Low Temperatures Characterization Techniques&nbsp;</span>Workshop    </h1>
+<div class="uk-h1 uk-text-center" uk-scrollspy-class>        Bellaterra, 9 November 2023    </div>
+                
+            
+        
+    
+</div></div></div>
+                
+            
+        
+        </div>
+    
+</div>
+<div class="uk-section-default uk-section">
+    
+        
+        
+        
+            
+                                <div class="uk-container uk-container-xlarge">                
+                    <div class="uk-margin-remove-vertical uk-container uk-container-expand"><div class="uk-grid tm-grid-expand uk-flex-top" uk-grid="parallax: 0; parallax-justify: true; parallax-start: 100vh; parallax-end: 100vh;">
+<div class="js-sticky uk-width-1-5@m" style="align-self: stretch;">
+    
+        
+            
+            
+            
+                                <div class="uk-panel uk-position-z-index" uk-sticky="offset: 50vh - 50%; end: !.js-sticky; media: @m;">                
+                    
+<div>
+    
+    
+        
+        <ul class="uk-margin-remove-bottom uk-nav uk-nav-primary uk-nav-divider" uk-scrollspy-nav="closest: li; scroll: true;">                                <li class="el-item ">
+<a class="el-link" href="#welcome">
+    
+        
+                    Welcome        
+    
+</a></li>
+                                            <li class="el-item ">
+<a class="el-link" href="#speakers">
+    
+        
+                    Speakers        
+    
+</a></li>
+                                            <li class="el-item ">
+<a class="el-link" href="#programme">
+    
+        
+                    Programme        
+    
+</a></li>
+                                            <li class="el-item ">
+<a class="el-link" href="#venue">
+    
+        
+                    Venue        
+    
+</a></li>
+                            </ul>
+        
+    
+    
+</div>
+                                </div>                
+            
+        
+    
+</div>
+<div class="uk-width-4-5@m">
+    
+        
+            
+            
+            
+                
+                    <div class="uk-panel uk-margin"><div class="uk-grid tm-grid-expand uk-child-width-1-1 uk-margin-large">
+<div class="uk-width-1-1@m">
+    
+        
+            
+            
+            
+                
+                    
+<h2 class="uk-heading-small uk-width-medium" id="welcome">        Welcome    </h2><div class="uk-divider-small"></div><div class="uk-panel uk-column-1-2@m uk-column-1-1@s uk-margin"><p>The field of materials science has emerged as a dynamic and rapidly evolving area of research. This sustained effort has yielded the creation of novel materials boasting remarkable complexity and sophistication. The comprehensive assessment of these innovative materials demands the utilization of advanced techniques and equipment.</p>
+<p>The Magnetometry and Low Temperatures Service at ICMAB stands as an exceptional resource for the magnetic and electronic transport characterization of materials across a wide spectrum of temperatures and magnetic fields. This service houses a diverse array of equipment, enabling not only routine characterization but also the execution of custom-designed experiments. This adaptability equips the service to cater to a broad spectrum of experimental demands.</p>
+<p>The primary purpose of this workshop is to introduce the extensive capabilities and facilities of the Magnetometry and Low Temperatures Service at ICMAB to the broader R&amp;D&amp;I community and to extend a warm welcome to potential new users. During the workshop, we will provide an overview of standard techniques for characterizing materials in terms of magnetic and electronic transport properties, alongside delving into some specialized topics that may be of interest to the ICMAB and nearby research community.</p></div>
+                
+            
+        
+    
+</div></div><div class="uk-grid tm-grid-expand uk-child-width-1-1 uk-margin-large">
+<div class="uk-width-1-1@m">
+    
+        
+            
+            
+            
+                
+                    
+<h2 class="uk-heading-small uk-width-medium" id="speakers">        Speakers    </h2><div class="uk-divider-small"></div>
+                
+            
+        
+    
+</div></div><div class="uk-grid-margin uk-container uk-container-xlarge"><div class="uk-grid tm-grid-expand uk-child-width-1-1">
+<div class="uk-width-1-1">
+    
+        
+            
+            
+            
+                
+                    
+<div class="uk-text-center">
+    <div class="uk-grid uk-child-width-1-1 uk-child-width-1-2@s uk-child-width-1-5@m uk-child-width-1-4@l uk-child-width-1-5@xl uk-flex-center uk-grid-large uk-grid-match" uk-grid>        <div>
+<div class="el-item uk-panel uk-margin-remove-first-child">
+    
+        
+            
+                
+            
+            
+                                
+
+    
+                <img src="images/arauzo-abcb213f.jpeg" sizes="(min-width: 350px) 350px" width="350" height="350" alt loading="lazy" class="el-image uk-border-circle">        
+        
+    
+                
+                
+                    
+
+        
+                <div class="el-title uk-margin-top uk-margin-remove-bottom">                        Ana Arauzo                    </div>        
+                <div class="el-meta uk-h5 uk-text-muted uk-margin-remove-bottom uk-margin-remove-top">Departamento de F&iacute;sica de la Materia Condensada. Universidad de Zaragoza.</div>        
+    
+        
+        
+        
+        
+        
+
+                
+                
+            
+        
+    
+</div></div>
+        <div>
+<div class="el-item uk-panel uk-margin-remove-first-child">
+    
+        
+            
+                
+            
+            
+                                
+
+    
+                <img src="https://media.icmab.es/staff/people/bbozzo.jpg" width="350" height="350" alt loading="lazy" class="el-image uk-border-circle uk-object-cover" style="aspect-ratio: 350 / 350;">        
+        
+    
+                
+                
+                    
+
+        
+                <div class="el-title uk-margin-top uk-margin-remove-bottom">                        Bernat Bozzo                    </div>        
+                <div class="el-meta uk-h5 uk-text-muted uk-margin-remove-bottom uk-margin-remove-top">Servicio de Bajas Temperaturas y Magnetometr&iacute;a. ICMAB-CSIC</div>        
+    
+        
+        
+        
+        
+        
+
+                
+                
+            
+        
+    
+</div></div>
+        <div>
+<div class="el-item uk-panel uk-margin-remove-first-child">
+    
+        
+            
+                
+            
+            
+                                
+
+    
+                <img src="images/profile_default_l-a3428fb2.jpeg" sizes="(min-width: 350px) 350px" width="350" height="350" alt loading="lazy" class="el-image uk-border-circle">        
+        
+    
+                
+                
+                    
+
+        
+                <div class="el-title uk-margin-top uk-margin-remove-bottom">                        Adriana Figueroa                    </div>        
+                <div class="el-meta uk-h5 uk-text-muted uk-margin-remove-bottom uk-margin-remove-top">Departament de F&iacute;sica de la Mat&egrave;ria Condensada e Institut de Nanoci&egrave;ncia i Nanotecnologia. Universitat de Barcelona.</div>        
+    
+        
+        
+        
+        
+        
+
+                
+                
+            
+        
+    
+</div></div>
+        <div>
+<div class="el-item uk-panel uk-margin-remove-first-child">
+    
+        
+            
+                
+            
+            
+                                
+
+    
+                <img src="https://media.icmab.es/staff/people/jgutierrez.jpg" width="350" height="350" alt loading="lazy" class="el-image uk-border-circle uk-object-cover" style="aspect-ratio: 350 / 350;">        
+        
+    
+                
+                
+                    
+
+        
+                <div class="el-title uk-margin-top uk-margin-remove-bottom">                        Joffre Gutierrez                    </div>        
+                <div class="el-meta uk-h5 uk-text-muted uk-margin-remove-bottom uk-margin-remove-top">Department of Superconducting Materials and Nanostructure at Large Scale. ICMAB-CSIC</div>        
+    
+        
+        
+        
+        
+        
+
+                
+                
+            
+        
+    
+</div></div>
+        <div>
+<div class="el-item uk-panel uk-margin-remove-first-child">
+    
+        
+            
+                
+            
+            
+                                
+
+    
+                <img src="images/lopeandia-7917c1f1.png" sizes="(min-width: 350px) 350px" width="350" height="350" alt loading="lazy" class="el-image uk-border-circle">        
+        
+    
+                
+                
+                    
+
+        
+                <div class="el-title uk-margin-top uk-margin-remove-bottom">                        Aitor Lopeandia                    </div>        
+                <div class="el-meta uk-h5 uk-text-muted uk-margin-remove-bottom uk-margin-remove-top">Grup de Propietats T&egrave;rmiques de Materials en la Nanoescala (GTNaM) Department of Physics. UAB.</div>        
+    
+        
+        
+        
+        
+        
+
+                
+                
+            
+        
+    
+</div></div>
+        <div>
+<div class="el-item uk-panel uk-margin-remove-first-child">
+    
+        
+            
+                
+            
+            
+                                
+
+    
+                <img src="images/martin-3166e706.jpeg" sizes="(min-width: 350px) 350px" width="350" height="350" alt loading="lazy" class="el-image uk-border-circle">        
+        
+    
+                
+                
+                    
+
+        
+                <div class="el-title uk-margin-top uk-margin-remove-bottom">                        Sergi Mart&iacute;n-R&iacute;o                    </div>        
+                <div class="el-meta uk-h5 uk-text-muted uk-margin-remove-bottom uk-margin-remove-top">SPINTEC. Grenoble</div>        
+    
+        
+        
+        
+        
+        
+
+                
+                
+            
+        
+    
+</div></div>
+        <div>
+<div class="el-item uk-panel uk-margin-remove-first-child">
+    
+        
+            
+                
+            
+            
+                                
+
+    
+                <img src="https://media.icmab.es/staff/people/fvalles.jpg" width="350" height="350" alt loading="lazy" class="el-image uk-border-circle uk-object-cover" style="aspect-ratio: 350 / 350;">        
+        
+    
+                
+                
+                    
+
+        
+                <div class="el-title uk-margin-top uk-margin-remove-bottom">                        Ferran Valles                    </div>        
+                <div class="el-meta uk-h5 uk-text-muted uk-margin-remove-bottom uk-margin-remove-top">Servicio de Bajas Temperaturas y Magnetometr&iacute;a. ICMAB-CSIC</div>        
+    
+        
+        
+        
+        
+        
+
+                
+                
+            
+        
+    
+</div></div>
+        </div>
+</div>
+                
+            
+        
+    
+</div></div></div><div class="uk-grid tm-grid-expand uk-child-width-1-1 uk-margin-large">
+<div class="uk-width-1-1">
+    
+        
+            
+            
+            
+                
+                    
+<h2 class="uk-heading-small" id="programme">        Programme    </h2><hr class="uk-divider-small">
+<ul class="uk-list uk-margin uk-margin-remove-top uk-text-left">        <li class="el-item">
+
+    <div class="uk-child-width-expand uk-grid-small" uk-grid>        <div class="uk-width-small uk-text-break">
+            
+            
+<div class="el-title uk-margin-remove uk-text-muted">09:15</div>
+            
+        </div>        <div>
+
+            
+            <div class="el-content uk-panel"><span class="uk-text-background">Welcome</span></div>
+                        <div class="el-meta uk-text-meta"> Prof. D. Amabilino ICMAB Director</div>            
+        </div>
+    </div>
+</li>
+        <li class="el-item">
+
+    <div class="uk-child-width-expand uk-grid-small" uk-grid>        <div class="uk-width-small uk-text-break">
+            
+            
+<div class="el-title uk-margin-remove uk-text-muted">09:30</div>
+            
+        </div>        <div>
+
+            
+            <div class="el-content uk-panel"><span class="uk-text-background">DC and AC magnetometers: From basic principles to real examples</span>
+</div>
+                        <div class="el-meta uk-text-meta">Bernat Bozzo</div>            
+        </div>
+    </div>
+</li>
+        <li class="el-item">
+
+    <div class="uk-child-width-expand uk-grid-small" uk-grid>        <div class="uk-width-small uk-text-break">
+            
+            
+<div class="el-title uk-margin-remove uk-text-muted">10:30</div>
+            
+        </div>        <div>
+
+            
+            <div class="el-content uk-panel"><span class="uk-text-background">Physical properties measurements at singular conditions: from low temperatures to high magnetic fields</span></div>
+                        <div class="el-meta uk-text-meta">Ferran Valles</div>            
+        </div>
+    </div>
+</li>
+        <li class="el-item">
+
+    <div class="uk-child-width-expand uk-grid-small" uk-grid>        <div class="uk-width-small uk-text-break">
+            
+            
+<div class="el-title uk-margin-remove uk-text-muted">11:00</div>
+            
+        </div>        <div>
+
+            
+            <div class="el-content uk-panel"><span class="uk-text-background">Coffee break</span></div>
+                                    
+        </div>
+    </div>
+</li>
+        <li class="el-item">
+
+    <div class="uk-child-width-expand uk-grid-small" uk-grid>        <div class="uk-width-small uk-text-break">
+            
+            
+<div class="el-title uk-margin-remove uk-text-muted">11:30</div>
+            
+        </div>        <div>
+
+            
+            <div class="el-content uk-panel"><span class="uk-text-background">AC Susceptibility as a tool to investigate magnetic and superconducting materials</span></div>
+                        <div class="el-meta uk-text-meta">Adriana Figueroa</div>            
+        </div>
+    </div>
+</li>
+        <li class="el-item">
+
+    <div class="uk-child-width-expand uk-grid-small" uk-grid>        <div class="uk-width-small uk-text-break">
+            
+            
+<div class="el-title uk-margin-remove uk-text-muted">12:30</div>
+            
+        </div>        <div>
+
+            
+            <div class="el-content uk-panel"><span class="uk-text-background">Magnetization Dynamics in Complex Oxides: a Temperature Dependent Study Using Ferromagnetic Resonance</span></div>
+                        <div class="el-meta uk-text-meta">Sergi Mart&iacute;n-R&iacute;o</div>            
+        </div>
+    </div>
+</li>
+        <li class="el-item">
+
+    <div class="uk-child-width-expand uk-grid-small" uk-grid>        <div class="uk-width-small uk-text-break">
+            
+            
+<div class="el-title uk-margin-remove uk-text-muted">13:30</div>
+            
+        </div>        <div>
+
+            
+            <div class="el-content uk-panel"><span class="uk-text-background">Lunch</span></div>
+                                    
+        </div>
+    </div>
+</li>
+        <li class="el-item">
+
+    <div class="uk-child-width-expand uk-grid-small" uk-grid>        <div class="uk-width-small uk-text-break">
+            
+            
+<div class="el-title uk-margin-remove uk-text-muted">15:00</div>
+            
+        </div>        <div>
+
+            
+            <div class="el-content uk-panel"><span class="uk-text-background">Beyond conventional calorimetric methods</span></div>
+                        <div class="el-meta uk-text-meta">Aitor Lopeandia</div>            
+        </div>
+    </div>
+</li>
+        <li class="el-item">
+
+    <div class="uk-child-width-expand uk-grid-small" uk-grid>        <div class="uk-width-small uk-text-break">
+            
+            
+<div class="el-title uk-margin-remove uk-text-muted">16:00</div>
+            
+        </div>        <div>
+
+            
+            <div class="el-content uk-panel"><span class="uk-text-background">Physics at very low Temperatures. The Beauty and the Beast</span></div>
+                        <div class="el-meta uk-text-meta">Ana Arauzo</div>            
+        </div>
+    </div>
+</li>
+        <li class="el-item">
+
+    <div class="uk-child-width-expand uk-grid-small" uk-grid>        <div class="uk-width-small uk-text-break">
+            
+            
+<div class="el-title uk-margin-remove uk-text-muted">17:00</div>
+            
+        </div>        <div>
+
+            
+            <div class="el-content uk-panel"><span class="uk-text-background">Using dielectric resonators for surface impedance characterization under high magnetic fields</span></div>
+                        <div class="el-meta uk-text-meta">Joffre Gutierrez</div>            
+        </div>
+    </div>
+</li>
+        <li class="el-item">
+
+    <div class="uk-child-width-expand uk-grid-small" uk-grid>        <div class="uk-width-small uk-text-break">
+            
+            
+<div class="el-title uk-margin-remove uk-text-muted">18:00</div>
+            
+        </div>        <div>
+
+            
+            <div class="el-content uk-panel"><span class="uk-text-background">Lab tour and end of session</span></div>
+                                    
+        </div>
+    </div>
+</li>
+    </ul>
+                
+            
+        
+    
+</div></div><div class="uk-grid tm-grid-expand uk-child-width-1-1 uk-grid-margin">
+<div class="uk-width-1-1">
+    
+        
+            
+            
+            
+                
+                    
+<h1 class="uk-heading-small" id="venue">        Venue    </h1>
+<div class="uk-panel uk-margin">
+    
+                <div uk-grid>        
+                        <div class="uk-width-1-2@m">            
+                                
+
+    
+                <img src="images/foto-ICMAB-1ef09d2a.jpeg" sizes="(min-width: 1010px) 1010px" width="1010" height="494" alt loading="lazy" class="el-image">        
+        
+    
+                
+                        </div>            
+                        <div class="uk-width-expand uk-margin-remove-first-child">            
+                
+                
+                    
+
+        
+                <h3 class="el-title uk-h1 uk-margin-top uk-margin-remove-bottom">                        Institut de Ci&egrave;ncia de Materials de Barcelona                    </h3>        
+        
+    
+        
+        
+                <div class="el-content uk-panel uk-margin-top"><h3><span style="font-family: arial, helvetica, sans-serif;">Campus de la UAB </span><br><span style="font-family: arial, helvetica, sans-serif;">08193 Bellaterra </span><br><span style="font-family: arial, helvetica, sans-serif;">Barcelona, Spain</span></h3>
+<p><span style="font-family: arial, helvetica, sans-serif;"><strong>Phone</strong> +34 935 801 853 </span><br><span style="font-family: arial, helvetica, sans-serif;"><strong>Email</strong> <joomla-hidden-mail is-link="1" is-email="1" first="aW5mbw==" last="aWNtYWIuZXM=" text="aW5mb0BpY21hYi5lcw==" base="">This email address is being protected from spambots. You need JavaScript enabled to view it.</joomla-hidden-mail></span></p></div>        
+        
+        
+
+                
+                
+                        </div>            
+                </div>        
+    
+</div>
+                
+            
+        
+    
+</div></div></div>
+                
+            
+        
+    
+</div></div></div>
+                                </div>                
+            
+        
+    
+</div>
+
+                
+            </main>
+
+            
+
+                        <footer>
+                <!-- Builder #footer -->
+<div class="uk-section-secondary uk-section">
+    
+        
+        
+        
+            
+                                <div class="uk-container uk-container-xlarge">                
+                    <div class="uk-grid uk-flex-center uk-margin" uk-grid>
+<div class="uk-grid-item-match uk-flex-middle uk-width-1-2@m">
+    
+        
+            
+            
+                        <div class="uk-panel uk-width-1-1">            
+                
+                    
+<div class="uk-margin uk-text-center">
+        <img src="https://media.icmab.es/logos/icmab/ochoa-blanco-no-ochoa.svg" width="300" class="el-image" alt loading="lazy">    
+    
+</div>
+                
+                        </div>            
+        
+    
+</div>
+<div class="uk-width-1-2@m">
+    
+        
+            
+            
+            
+                
+                    
+<div class="uk-margin uk-text-center">
+        <img src="images/s-o-color-texto-blanco-34decf0d-7a6d311b.png" sizes="(min-width: 196px) 196px" width="196" height="80" class="el-image" alt loading="lazy">    
+    
+</div>
+                
+            
+        
+    
+</div></div><div class="uk-grid tm-grid-expand uk-grid-row-large uk-child-width-1-1 uk-grid-margin-large">
+<div class="uk-grid-item-match uk-flex-middle uk-width-1-1@m">
+    
+        
+            
+            
+                        <div class="uk-panel uk-width-1-1">            
+                
+                    <hr><div class="uk-panel uk-margin-large uk-text-center"><p>INSTITUT DE CI&Egrave;NCIA DE MATERIALS DE BARCELONA, Copyright &copy; 2023 ICMAB-CSIC |<em> <strong><a href="index.html">Privacy Policy</a>&nbsp;</strong>|&nbsp;&nbsp;<strong><joomla-hidden-mail is-link="1" is-email="1" first="d2VibWFzdGVy" last="aWNtYWIuZXM=" text="d2VibWFzdGVyQGljbWFiLmVz" base="" target="_blank" rel="noopener noreferrer">This email address is being protected from spambots. You need JavaScript enabled to view it.</joomla-hidden-mail></strong></em></p></div>
+                
+                        </div>            
+        
+    
+</div></div>
+                                </div>                
+            
+        
+    
+</div>            </footer>
+            
+        </div>
+
+        
+        
+
+    <link rel="stylesheet" type="text/css" href="css/github.css">
+<link rel="stylesheet" type="text/css" href="css/debugbar.css">
+<link rel="stylesheet" type="text/css" href="css/widgets.css">
+<link rel="stylesheet" type="text/css" href="css/openhandler.css">
+<link rel="stylesheet" type="text/css" href="css/widget.min.css">
+<link rel="stylesheet" type="text/css" href="css/widget.min_2.css">
+<script type="text/javascript" src="js/highlight.pack.js" defer></script>
+<script type="text/javascript" src="js/debugbar.js" defer></script>
+<script type="text/javascript" src="js/widgets.js" defer></script>
+<script type="text/javascript" src="js/openhandler.js" defer></script>
+<script type="text/javascript" src="js/widget.min.js" defer></script>
+<script type="text/javascript" src="js/widget.min.js" defer></script>
+<script type="module">
+var phpdebugbar = new PhpDebugBar.DebugBar();
+phpdebugbar.addTab("info", new PhpDebugBar.DebugBar.Tab({"icon":"info-circle","title":"J! Info", "widget": new PhpDebugBar.Widgets.InfoWidget()}));
+phpdebugbar.addIndicator("memory", new PhpDebugBar.DebugBar.Indicator({"icon":"cogs","tooltip":"Memory Usage"}), "right");
+phpdebugbar.addTab("request", new PhpDebugBar.DebugBar.Tab({"icon":"tags","title":"Request", "widget": new PhpDebugBar.Widgets.VariableListWidget()}));
+phpdebugbar.addTab("session", new PhpDebugBar.DebugBar.Tab({"icon":"key","title":"Session", "widget": new PhpDebugBar.Widgets.VariableListWidget()}));
+phpdebugbar.addIndicator("profileTime", new PhpDebugBar.DebugBar.Indicator({"icon":"clock-o","tooltip":"Request Duration"}), "right");
+phpdebugbar.addTab("profile", new PhpDebugBar.DebugBar.Tab({"icon":"clock-o","title":"Profile", "widget": new PhpDebugBar.Widgets.TimelineWidget()}));
+phpdebugbar.addTab("queries", new PhpDebugBar.DebugBar.Tab({"icon":"database","title":"Queries", "widget": new PhpDebugBar.Widgets.SQLQueriesWidget()}));
+phpdebugbar.setDataMap({
+"info": ["info", {}],
+"memory": ["memory.peak_usage_str", '0B'],
+"request": ["request", {}],
+"session": ["session.data", []],
+"profileTime": ["profile.duration_str", '0ms'],
+"profile": ["profile", {}],
+"queries": ["queries.data", []],
+"queries:badge": ["queries.count", null]
+});
+phpdebugbar.restoreState();
+phpdebugbar.ajaxHandler = new PhpDebugBar.AjaxHandler(phpdebugbar, undefined, true);
+if (jQuery) phpdebugbar.ajaxHandler.bindToJquery(jQuery);
+phpdebugbar.setOpenHandler(new PhpDebugBar.OpenHandler({"url":"\/index.php?option=com_ajax&plugin=debug&group=system&format=raw&action=openhandler&56a517d08527dece41860659d3af66f6=1"}));
+phpdebugbar.addDataSet({"__meta":{"id":"X045af230be169f677f2d99771c48139a","datetime":"2024-12-05 11:08:17","utime":1733396897.68087291717529296875,"method":"GET","uri":"\/","ip":"216.137.180.10"},"info":{"phpVersion":"8.1.30","joomlaVersion":"4.4.9","requestId":"X045af230be169f677f2d99771c48139a","identity":{"type":"guest"},"response":{"status_code":200},"template":{"template":"yootheme","home":"1","id":9},"database":{"dbserver":"mysql","dbversion":"10.6.20-MariaDB","dbcollation":"utf8mb4_unicode_ci","dbconnectioncollation":"utf8mb4_general_ci","dbconnectionencryption":"","dbconnencryptsupported":false}},"juser":{"user_id":0},"memory":{"peak_usage":5491744,"peak_usage_str":"5.237MB"},"request":{"$_GET":"[]","$_POST":"[]","$_SESSION":"array:1 [\n  \"joomla\" => \"***redacted***\"\n]","$_COOKIE":"[]","$_SERVER":"array:39 [\n  \"LSPHP_ENABLE_USER_INI\" => \"on\"\n  \"PATH\" => \"\/usr\/local\/bin:\/usr\/bin:\/bin\"\n  \"TEMP\" => \"\/tmp\"\n  \"TMP\" => \"\/tmp\"\n  \"TMPDIR\" => \"\/tmp\"\n  \"PWD\" => \"***redacted***\"\n  \"HTTP_CONNECTION\" => \"close\"\n  \"CONTENT_LENGTH\" => \"0\"\n  \"HTTP_HOST\" => \"jmag2023.icmab.es\"\n  \"HTTP_X_HTTPS\" => \"1\"\n  \"UNIQUE_ID\" => \"Z1GJoVqWkwYSqx1_zNY_XAAAAI8\"\n  \"SCRIPT_URL\" => \"\/\"\n  \"SCRIPT_URI\" => \"https:\/\/jmag2023.icmab.es\/\"\n  \"HTTP_AUTHORIZATION\" => \"\"\n  \"HTTPS\" => \"on\"\n  \"SSL_TLS_SNI\" => \"jmag2023.icmab.es\"\n  \"SERVER_SIGNATURE\" => \"\"\n  \"SERVER_SOFTWARE\" => \"Apache\"\n  \"SERVER_NAME\" => \"jmag2023.icmab.es\"\n  \"SERVER_ADDR\" => \"216.137.180.10\"\n  \"SERVER_PORT\" => \"443\"\n  \"REMOTE_ADDR\" => \"216.137.180.10\"\n  \"DOCUMENT_ROOT\" => \"\/home\/jmag2023icmab\/public_html\"\n  \"REQUEST_SCHEME\" => \"https\"\n  \"CONTEXT_PREFIX\" => \"\"\n  \"CONTEXT_DOCUMENT_ROOT\" => \"\/home\/jmag2023icmab\/public_html\"\n  \"SERVER_ADMIN\" => \"webmaster@jmag2023.icmab.es\"\n  \"SCRIPT_FILENAME\" => \"\/home\/jmag2023icmab\/public_html\/index.php\"\n  \"REMOTE_PORT\" => \"36806\"\n  \"SERVER_PROTOCOL\" => \"HTTP\/1.1\"\n  \"REQUEST_METHOD\" => \"GET\"\n  \"QUERY_STRING\" => \"\"\n  \"REQUEST_URI\" => \"\/\"\n  \"SCRIPT_NAME\" => \"\/index.php\"\n  \"PHP_SELF\" => \"\/index.php\"\n  \"REQUEST_TIME_FLOAT\" => 1733396897.5928\n  \"REQUEST_TIME\" => 1733396897\n  \"argv\" => []\n  \"argc\" => 0\n]"},"session":{"data":{"session":"array:3 [\n  \"counter\" => 1\n  \"timer\" => array:3 [\n    \"start\" => 1733396897\n    \"last\" => 1733396897\n    \"now\" => 1733396897\n  ]\n  \"token\" => \"***redacted***\"\n]","registry":"array:3 [\n  \"data\" => []\n  \"initialized\" => false\n  \"separator\" => \".\"\n]","user":"array:18 [\n  \"id\" => 0\n  \"name\" => null\n  \"username\" => null\n  \"email\" => null\n  \"password\" => \"***redacted***\"\n  \"password_clear\" => \"***redacted***\"\n  \"block\" => null\n  \"sendEmail\" => 0\n  \"registerDate\" => null\n  \"lastvisitDate\" => null\n  \"activation\" => null\n  \"params\" => null\n  \"groups\" => array:1 [\n    0 => \"9\"\n  ]\n  \"guest\" => 1\n  \"lastResetTime\" => null\n  \"resetCount\" => null\n  \"requireReset\" => null\n  \"aid\" => 0\n]"}},"profile":{"start":1733396897.5928308963775634765625,"end":1733396897.67809295654296875,"duration":0.0852620601654052734375,"duration_str":"85.26ms","measures":[{"label":"afterLoad (528.8KB)","start":1733396897.5928308963775634765625,"relative_start":0,"end":1733396897.595317840576171875,"relative_end":-0.082775115966796875,"duration":0.0024869441986083984375,"duration_str":"2.49ms","params":[],"collector":null},{"label":"afterInitialise (1.43MB)","start":1733396897.595317840576171875,"relative_start":0.0024869441986083984375,"end":1733396897.613320827484130859375,"relative_end":-0.064772129058837890625,"duration":0.018002986907958984375,"duration_str":"18ms","params":[],"collector":null},{"label":"afterRoute (532.51KB)","start":1733396897.613320827484130859375,"relative_start":0.0204899311065673828125,"end":1733396897.6180617809295654296875,"relative_end":-0.0600311756134033203125,"duration":0.0047409534454345703125,"duration_str":"4.74ms","params":[],"collector":null},{"label":"beforeRenderComponent com_content (66.13KB)","start":1733396897.6180617809295654296875,"relative_start":0.025230884552001953125,"end":1733396897.61923885345458984375,"relative_end":-0.05885410308837890625,"duration":0.0011770725250244140625,"duration_str":"1.18ms","params":[],"collector":null},{"label":"Before Access::preloadComponents (all components) (41.23KB)","start":1733396897.61923885345458984375,"relative_start":0.0264079570770263671875,"end":1733396897.6202647686004638671875,"relative_end":-0.0578281879425048828125,"duration":0.0010259151458740234375,"duration_str":"1.03ms","params":[],"collector":null},{"label":"After Access::preloadComponents (all components) (115.01KB)","start":1733396897.6202647686004638671875,"relative_start":0.027433872222900390625,"end":1733396897.6210029125213623046875,"relative_end":-0.0570900440216064453125,"duration":0.0007381439208984375,"duration_str":"738\u03bcs","params":[],"collector":null},{"label":"Before Access::preloadPermissions (com_content) (2.76KB)","start":1733396897.6210029125213623046875,"relative_start":0.028172016143798828125,"end":1733396897.62102985382080078125,"relative_end":-0.05706310272216796875,"duration":2.69412994384765625e-5,"duration_str":"27\u03bcs","params":[],"collector":null},{"label":"After Access::preloadPermissions (com_content) (2.88KB)","start":1733396897.62102985382080078125,"relative_start":0.0281989574432373046875,"end":1733396897.62144184112548828125,"relative_end":-0.05665111541748046875,"duration":0.0004119873046875,"duration_str":"412\u03bcs","params":[],"collector":null},{"label":"Before Access::getAssetRules (id:61 name:com_content.article.5) (56B)","start":1733396897.62144184112548828125,"relative_start":0.0286109447479248046875,"end":1733396897.6214587688446044921875,"relative_end":-0.0566341876983642578125,"duration":1.69277191162109375e-5,"duration_str":"17\u03bcs","params":[],"collector":null},{"label":"After Access::getAssetRules (id:61 name:com_content.article.5) (8.47KB)","start":1733396897.6214587688446044921875,"relative_start":0.028627872467041015625,"end":1733396897.6215488910675048828125,"relative_end":-0.0565440654754638671875,"duration":9.0122222900390625e-5,"duration_str":"90\u03bcs","params":[],"collector":null},{"label":"afterRenderComponent com_content (1.72MB)","start":1733396897.6215488910675048828125,"relative_start":0.02871799468994140625,"end":1733396897.6559937000274658203125,"relative_end":-0.0220992565155029296875,"duration":0.0344448089599609375,"duration_str":"34.44ms","params":[],"collector":null},{"label":"afterDispatch (18.48KB)","start":1733396897.6559937000274658203125,"relative_start":0.06316280364990234375,"end":1733396897.6574018001556396484375,"relative_end":-0.0206911563873291015625,"duration":0.001408100128173828125,"duration_str":"1.41ms","params":[],"collector":null},{"label":"beforeRenderRawModule mod_custom () (116.79KB)","start":1733396897.6574018001556396484375,"relative_start":0.064570903778076171875,"end":1733396897.663879871368408203125,"relative_end":-0.014213085174560546875,"duration":0.0064780712127685546875,"duration_str":"6.48ms","params":[],"collector":null},{"label":"afterRenderRawModule mod_custom () (13.2KB)","start":1733396897.663879871368408203125,"relative_start":0.0710489749908447265625,"end":1733396897.666126728057861328125,"relative_end":-0.011966228485107421875,"duration":0.002246856689453125,"duration_str":"2.25ms","params":[],"collector":null},{"label":"beforeRenderModule mod_custom () (704B)","start":1733396897.666126728057861328125,"relative_start":0.0732958316802978515625,"end":1733396897.6661379337310791015625,"relative_end":-0.0119550228118896484375,"duration":1.12056732177734375e-5,"duration_str":"11\u03bcs","params":[],"collector":null},{"label":"afterRenderModule mod_custom () (1.3KB)","start":1733396897.6661379337310791015625,"relative_start":0.073307037353515625,"end":1733396897.666288852691650390625,"relative_end":-0.011804103851318359375,"duration":0.0001509189605712890625,"duration_str":"151\u03bcs","params":[],"collector":null},{"label":"beforeRenderRawModule mod_menu () (1.55KB)","start":1733396897.666288852691650390625,"relative_start":0.0734579563140869140625,"end":1733396897.666620731353759765625,"relative_end":-0.011472225189208984375,"duration":0.000331878662109375,"duration_str":"332\u03bcs","params":[],"collector":null},{"label":"afterRenderRawModule mod_menu () (16.56KB)","start":1733396897.666620731353759765625,"relative_start":0.0737898349761962890625,"end":1733396897.667380809783935546875,"relative_end":-0.010712146759033203125,"duration":0.00076007843017578125,"duration_str":"760\u03bcs","params":[],"collector":null},{"label":"beforeRenderModule mod_menu () (696B)","start":1733396897.667380809783935546875,"relative_start":0.0745499134063720703125,"end":1733396897.6673858165740966796875,"relative_end":-0.0107071399688720703125,"duration":5.0067901611328125e-6,"duration_str":"5\u03bcs","params":[],"collector":null},{"label":"afterRenderModule mod_menu () (3.42KB)","start":1733396897.6673858165740966796875,"relative_start":0.074554920196533203125,"end":1733396897.6674497127532958984375,"relative_end":-0.0106432437896728515625,"duration":6.389617919921875e-5,"duration_str":"64\u03bcs","params":[],"collector":null},{"label":"beforeRenderRawModule mod_menu (TOP MENU) (3.27KB)","start":1733396897.6674497127532958984375,"relative_start":0.074618816375732421875,"end":1733396897.6675426959991455078125,"relative_end":-0.0105502605438232421875,"duration":9.2983245849609375e-5,"duration_str":"93\u03bcs","params":[],"collector":null},{"label":"afterRenderRawModule mod_menu (TOP MENU) (944B)","start":1733396897.6675426959991455078125,"relative_start":0.07471179962158203125,"end":1733396897.66763973236083984375,"relative_end":-0.01045322418212890625,"duration":9.70363616943359375e-5,"duration_str":"97\u03bcs","params":[],"collector":null},{"label":"beforeRenderModule mod_menu (TOP MENU) (704B)","start":1733396897.66763973236083984375,"relative_start":0.0748088359832763671875,"end":1733396897.6676437854766845703125,"relative_end":-0.0104491710662841796875,"duration":4.0531158447265625e-6,"duration_str":"4\u03bcs","params":[],"collector":null},{"label":"afterRenderModule mod_menu (TOP MENU) (1.25KB)","start":1733396897.6676437854766845703125,"relative_start":0.07481288909912109375,"end":1733396897.667690753936767578125,"relative_end":-0.010402202606201171875,"duration":4.69684600830078125e-5,"duration_str":"47\u03bcs","params":[],"collector":null},{"label":"beforeRenderRawModule mod_custom () (3.46KB)","start":1733396897.667690753936767578125,"relative_start":0.0748598575592041015625,"end":1733396897.6677608489990234375,"relative_end":-0.0103321075439453125,"duration":7.0095062255859375e-5,"duration_str":"70\u03bcs","params":[],"collector":null},{"label":"afterRenderRawModule mod_custom () (944B)","start":1733396897.6677608489990234375,"relative_start":0.0749299526214599609375,"end":1733396897.667998790740966796875,"relative_end":-0.010094165802001953125,"duration":0.000237941741943359375,"duration_str":"238\u03bcs","params":[],"collector":null},{"label":"beforeRenderModule mod_custom () (704B)","start":1733396897.667998790740966796875,"relative_start":0.0751678943634033203125,"end":1733396897.6680028438568115234375,"relative_end":-0.0100901126861572265625,"duration":4.0531158447265625e-6,"duration_str":"4\u03bcs","params":[],"collector":null},{"label":"afterRenderModule mod_custom () (1.23KB)","start":1733396897.6680028438568115234375,"relative_start":0.075171947479248046875,"end":1733396897.6680438518524169921875,"relative_end":-0.0100491046905517578125,"duration":4.100799560546875e-5,"duration_str":"41\u03bcs","params":[],"collector":null},{"label":"beforeRenderRawModule mod_menu () (768B)","start":1733396897.6680438518524169921875,"relative_start":0.075212955474853515625,"end":1733396897.668057918548583984375,"relative_end":-0.010035037994384765625,"duration":1.40666961669921875e-5,"duration_str":"14\u03bcs","params":[],"collector":null},{"label":"afterRenderRawModule mod_menu () (2.25KB)","start":1733396897.668057918548583984375,"relative_start":0.0752270221710205078125,"end":1733396897.668451786041259765625,"relative_end":-0.009641170501708984375,"duration":0.00039386749267578125,"duration_str":"394\u03bcs","params":[],"collector":null},{"label":"beforeRenderModule mod_menu () (696B)","start":1733396897.668451786041259765625,"relative_start":0.0756208896636962890625,"end":1733396897.6684577465057373046875,"relative_end":-0.0096352100372314453125,"duration":5.9604644775390625e-6,"duration_str":"6\u03bcs","params":[],"collector":null},{"label":"afterRenderModule mod_menu () (1.23KB)","start":1733396897.6684577465057373046875,"relative_start":0.075626850128173828125,"end":1733396897.66850185394287109375,"relative_end":-0.00959110260009765625,"duration":4.41074371337890625e-5,"duration_str":"44\u03bcs","params":[],"collector":null},{"label":"beforeRenderRawModule mod_finder () (160B)","start":1733396897.66850185394287109375,"relative_start":0.0756709575653076171875,"end":1733396897.668514728546142578125,"relative_end":-0.009578227996826171875,"duration":1.2874603271484375e-5,"duration_str":"13\u03bcs","params":[],"collector":null},{"label":"afterRenderRawModule mod_finder () (71.8KB)","start":1733396897.668514728546142578125,"relative_start":0.0756838321685791015625,"end":1733396897.671331882476806640625,"relative_end":-0.006761074066162109375,"duration":0.0028171539306640625,"duration_str":"2.82ms","params":[],"collector":null},{"label":"beforeRenderModule mod_finder () (704B)","start":1733396897.671331882476806640625,"relative_start":0.0785009860992431640625,"end":1733396897.6713387966156005859375,"relative_end":-0.0067541599273681640625,"duration":6.9141387939453125e-6,"duration_str":"7\u03bcs","params":[],"collector":null},{"label":"afterRenderModule mod_finder () (1.24KB)","start":1733396897.6713387966156005859375,"relative_start":0.078507900238037109375,"end":1733396897.6714007854461669921875,"relative_end":-0.0066921710968017578125,"duration":6.198883056640625e-5,"duration_str":"62\u03bcs","params":[],"collector":null},{"label":"beforeRenderRawModule mod_custom () (352B)","start":1733396897.6714007854461669921875,"relative_start":0.078569889068603515625,"end":1733396897.671417713165283203125,"relative_end":-0.006675243377685546875,"duration":1.69277191162109375e-5,"duration_str":"17\u03bcs","params":[],"collector":null},{"label":"afterRenderRawModule mod_custom () (912B)","start":1733396897.671417713165283203125,"relative_start":0.0785868167877197265625,"end":1733396897.6716358661651611328125,"relative_end":-0.0064570903778076171875,"duration":0.0002181529998779296875,"duration_str":"218\u03bcs","params":[],"collector":null},{"label":"beforeRenderModule mod_custom () (704B)","start":1733396897.6716358661651611328125,"relative_start":0.07880496978759765625,"end":1733396897.671639919281005859375,"relative_end":-0.006453037261962890625,"duration":4.0531158447265625e-6,"duration_str":"4\u03bcs","params":[],"collector":null},{"label":"afterRenderModule mod_custom () (1.23KB)","start":1733396897.671639919281005859375,"relative_start":0.0788090229034423828125,"end":1733396897.6716787815093994140625,"relative_end":-0.0064141750335693359375,"duration":3.88622283935546875e-5,"duration_str":"39\u03bcs","params":[],"collector":null},{"label":"beforeRenderRawModule mod_custom () (5.54KB)","start":1733396897.6716787815093994140625,"relative_start":0.0788478851318359375,"end":1733396897.6720159053802490234375,"relative_end":-0.0060770511627197265625,"duration":0.000337123870849609375,"duration_str":"337\u03bcs","params":[],"collector":null},{"label":"afterRenderRawModule mod_custom () (912B)","start":1733396897.6720159053802490234375,"relative_start":0.079185009002685546875,"end":1733396897.6721618175506591796875,"relative_end":-0.0059311389923095703125,"duration":0.00014591217041015625,"duration_str":"146\u03bcs","params":[],"collector":null},{"label":"beforeRenderModule mod_custom () (704B)","start":1733396897.6721618175506591796875,"relative_start":0.079330921173095703125,"end":1733396897.67216587066650390625,"relative_end":-0.00592708587646484375,"duration":4.0531158447265625e-6,"duration_str":"4\u03bcs","params":[],"collector":null},{"label":"afterRenderModule mod_custom () (2.49KB)","start":1733396897.67216587066650390625,"relative_start":0.0793349742889404296875,"end":1733396897.6722018718719482421875,"relative_end":-0.0058910846710205078125,"duration":3.60012054443359375e-5,"duration_str":"36\u03bcs","params":[],"collector":null},{"label":"beforeRenderRawModule mod_custom () (56B)","start":1733396897.6722018718719482421875,"relative_start":0.079370975494384765625,"end":1733396897.6722838878631591796875,"relative_end":-0.0058090686798095703125,"duration":8.20159912109375e-5,"duration_str":"82\u03bcs","params":[],"collector":null},{"label":"afterRenderRawModule mod_custom () (912B)","start":1733396897.6722838878631591796875,"relative_start":0.079452991485595703125,"end":1733396897.6724207401275634765625,"relative_end":-0.0056722164154052734375,"duration":0.000136852264404296875,"duration_str":"137\u03bcs","params":[],"collector":null},{"label":"beforeRenderModule mod_custom () (704B)","start":1733396897.6724207401275634765625,"relative_start":0.07958984375,"end":1733396897.672424793243408203125,"relative_end":-0.005668163299560546875,"duration":4.0531158447265625e-6,"duration_str":"4\u03bcs","params":[],"collector":null},{"label":"afterRenderModule mod_custom () (2.43KB)","start":1733396897.672424793243408203125,"relative_start":0.0795938968658447265625,"end":1733396897.6724598407745361328125,"relative_end":-0.0056331157684326171875,"duration":3.50475311279296875e-5,"duration_str":"35\u03bcs","params":[],"collector":null},{"label":"afterRender (121.81KB)","start":1733396897.6724598407745361328125,"relative_start":0.07962894439697265625,"end":1733396897.6761608123779296875,"relative_end":-0.0019321441650390625,"duration":0.0037009716033935546875,"duration_str":"3.7ms","params":[],"collector":null}],"rawMarks":[{"prefix":"Application","time":2.4869441986083984375,"totalTime":2.4869441986083984375,"memory":0.5164031982421875,"totalMemory":0.85160064697265625,"label":"afterLoad"},{"prefix":"Application","time":18.002986907958984375,"totalTime":20.4899311065673828125,"memory":1.42706298828125,"totalMemory":2.27866363525390625,"label":"afterInitialise"},{"prefix":"Application","time":4.7409534454345703125,"totalTime":25.230884552001953125,"memory":0.52002716064453125,"totalMemory":2.7986907958984375,"label":"afterRoute"},{"prefix":"Application","time":1.1770725250244140625,"totalTime":26.4079570770263671875,"memory":0.06458282470703125,"totalMemory":2.86327362060546875,"label":"beforeRenderComponent com_content"},{"prefix":"Application","time":1.0259151458740234375,"totalTime":27.433872222900390625,"memory":0.04026031494140625,"totalMemory":2.903533935546875,"label":"Before Access::preloadComponents (all components)"},{"prefix":"Application","time":0.7381439208984375,"totalTime":28.172016143798828125,"memory":0.11231231689453125,"totalMemory":3.01584625244140625,"label":"After Access::preloadComponents (all components)"},{"prefix":"Application","time":0.0269412994384765625,"totalTime":28.1989574432373046875,"memory":-0.00269317626953125,"totalMemory":3.013153076171875,"label":"Before Access::preloadPermissions (com_content)"},{"prefix":"Application","time":0.4119873046875,"totalTime":28.6109447479248046875,"memory":0.0028076171875,"totalMemory":3.015960693359375,"label":"After Access::preloadPermissions (com_content)"},{"prefix":"Application","time":0.0169277191162109375,"totalTime":28.627872467041015625,"memory":-5.340576171875e-5,"totalMemory":3.01590728759765625,"label":"Before Access::getAssetRules (id:61 name:com_content.article.5)"},{"prefix":"Application","time":0.090122222900390625,"totalTime":28.71799468994140625,"memory":0.008270263671875,"totalMemory":3.02417755126953125,"label":"After Access::getAssetRules (id:61 name:com_content.article.5)"},{"prefix":"Application","time":34.4448089599609375,"totalTime":63.16280364990234375,"memory":1.7170562744140625,"totalMemory":4.74123382568359375,"label":"afterRenderComponent com_content"},{"prefix":"Application","time":1.408100128173828125,"totalTime":64.570903778076171875,"memory":0.01804351806640625,"totalMemory":4.75927734375,"label":"afterDispatch"},{"prefix":"Application","time":6.4780712127685546875,"totalTime":71.0489749908447265625,"memory":0.11405181884765625,"totalMemory":4.87332916259765625,"label":"beforeRenderRawModule mod_custom ()"},{"prefix":"Application","time":2.246856689453125,"totalTime":73.2958316802978515625,"memory":0.0128936767578125,"totalMemory":4.88622283935546875,"label":"afterRenderRawModule mod_custom ()"},{"prefix":"Application","time":0.0112056732177734375,"totalTime":73.307037353515625,"memory":0.00067138671875,"totalMemory":4.88689422607421875,"label":"beforeRenderModule mod_custom ()"},{"prefix":"Application","time":0.1509189605712890625,"totalTime":73.4579563140869140625,"memory":0.0012664794921875,"totalMemory":4.88816070556640625,"label":"afterRenderModule mod_custom ()"},{"prefix":"Application","time":0.331878662109375,"totalTime":73.7898349761962890625,"memory":0.00151824951171875,"totalMemory":4.889678955078125,"label":"beforeRenderRawModule mod_menu ()"},{"prefix":"Application","time":0.76007843017578125,"totalTime":74.5499134063720703125,"memory":0.01617431640625,"totalMemory":4.905853271484375,"label":"afterRenderRawModule mod_menu ()"},{"prefix":"Application","time":0.0050067901611328125,"totalTime":74.554920196533203125,"memory":0.00066375732421875,"totalMemory":4.90651702880859375,"label":"beforeRenderModule mod_menu ()"},{"prefix":"Application","time":0.06389617919921875,"totalTime":74.618816375732421875,"memory":0.0033416748046875,"totalMemory":4.90985870361328125,"label":"afterRenderModule mod_menu ()"},{"prefix":"Application","time":0.092983245849609375,"totalTime":74.71179962158203125,"memory":0.00319671630859375,"totalMemory":4.913055419921875,"label":"beforeRenderRawModule mod_menu (TOP MENU)"},{"prefix":"Application","time":0.0970363616943359375,"totalTime":74.8088359832763671875,"memory":0.0009002685546875,"totalMemory":4.9139556884765625,"label":"afterRenderRawModule mod_menu (TOP MENU)"},{"prefix":"Application","time":0.0040531158447265625,"totalTime":74.81288909912109375,"memory":0.00067138671875,"totalMemory":4.9146270751953125,"label":"beforeRenderModule mod_menu (TOP MENU)"},{"prefix":"Application","time":0.0469684600830078125,"totalTime":74.8598575592041015625,"memory":0.001220703125,"totalMemory":4.9158477783203125,"label":"afterRenderModule mod_menu (TOP MENU)"},{"prefix":"Application","time":0.070095062255859375,"totalTime":74.9299526214599609375,"memory":-0.00337982177734375,"totalMemory":4.91246795654296875,"label":"beforeRenderRawModule mod_custom ()"},{"prefix":"Application","time":0.237941741943359375,"totalTime":75.1678943634033203125,"memory":0.0009002685546875,"totalMemory":4.91336822509765625,"label":"afterRenderRawModule mod_custom ()"},{"prefix":"Application","time":0.0040531158447265625,"totalTime":75.171947479248046875,"memory":0.00067138671875,"totalMemory":4.91403961181640625,"label":"beforeRenderModule mod_custom ()"},{"prefix":"Application","time":0.04100799560546875,"totalTime":75.212955474853515625,"memory":0.00119781494140625,"totalMemory":4.9152374267578125,"label":"afterRenderModule mod_custom ()"},{"prefix":"Application","time":0.0140666961669921875,"totalTime":75.2270221710205078125,"memory":0.000732421875,"totalMemory":4.9159698486328125,"label":"beforeRenderRawModule mod_menu ()"},{"prefix":"Application","time":0.39386749267578125,"totalTime":75.6208896636962890625,"memory":0.002197265625,"totalMemory":4.9181671142578125,"label":"afterRenderRawModule mod_menu ()"},{"prefix":"Application","time":0.0059604644775390625,"totalTime":75.626850128173828125,"memory":0.00066375732421875,"totalMemory":4.91883087158203125,"label":"beforeRenderModule mod_menu ()"},{"prefix":"Application","time":0.0441074371337890625,"totalTime":75.6709575653076171875,"memory":0.00119781494140625,"totalMemory":4.9200286865234375,"label":"afterRenderModule mod_menu ()"},{"prefix":"Application","time":0.012874603271484375,"totalTime":75.6838321685791015625,"memory":-0.000152587890625,"totalMemory":4.9198760986328125,"label":"beforeRenderRawModule mod_finder ()"},{"prefix":"Application","time":2.8171539306640625,"totalTime":78.5009860992431640625,"memory":0.0701141357421875,"totalMemory":4.989990234375,"label":"afterRenderRawModule mod_finder ()"},{"prefix":"Application","time":0.0069141387939453125,"totalTime":78.507900238037109375,"memory":0.00067138671875,"totalMemory":4.99066162109375,"label":"beforeRenderModule mod_finder ()"},{"prefix":"Application","time":0.06198883056640625,"totalTime":78.569889068603515625,"memory":0.00121307373046875,"totalMemory":4.99187469482421875,"label":"afterRenderModule mod_finder ()"},{"prefix":"Application","time":0.0169277191162109375,"totalTime":78.5868167877197265625,"memory":0.000335693359375,"totalMemory":4.99221038818359375,"label":"beforeRenderRawModule mod_custom ()"},{"prefix":"Application","time":0.2181529998779296875,"totalTime":78.80496978759765625,"memory":0.0008697509765625,"totalMemory":4.99308013916015625,"label":"afterRenderRawModule mod_custom ()"},{"prefix":"Application","time":0.0040531158447265625,"totalTime":78.8090229034423828125,"memory":0.00067138671875,"totalMemory":4.99375152587890625,"label":"beforeRenderModule mod_custom ()"},{"prefix":"Application","time":0.0388622283935546875,"totalTime":78.8478851318359375,"memory":0.00119781494140625,"totalMemory":4.9949493408203125,"label":"afterRenderModule mod_custom ()"},{"prefix":"Application","time":0.337123870849609375,"totalTime":79.185009002685546875,"memory":0.00540924072265625,"totalMemory":5.00035858154296875,"label":"beforeRenderRawModule mod_custom ()"},{"prefix":"Application","time":0.14591217041015625,"totalTime":79.330921173095703125,"memory":0.0008697509765625,"totalMemory":5.00122833251953125,"label":"afterRenderRawModule mod_custom ()"},{"prefix":"Application","time":0.0040531158447265625,"totalTime":79.3349742889404296875,"memory":0.00067138671875,"totalMemory":5.00189971923828125,"label":"beforeRenderModule mod_custom ()"},{"prefix":"Application","time":0.0360012054443359375,"totalTime":79.370975494384765625,"memory":0.00243377685546875,"totalMemory":5.00433349609375,"label":"afterRenderModule mod_custom ()"},{"prefix":"Application","time":0.0820159912109375,"totalTime":79.452991485595703125,"memory":-5.340576171875e-5,"totalMemory":5.00428009033203125,"label":"beforeRenderRawModule mod_custom ()"},{"prefix":"Application","time":0.136852264404296875,"totalTime":79.58984375,"memory":0.0008697509765625,"totalMemory":5.00514984130859375,"label":"afterRenderRawModule mod_custom ()"},{"prefix":"Application","time":0.0040531158447265625,"totalTime":79.5938968658447265625,"memory":0.00067138671875,"totalMemory":5.00582122802734375,"label":"beforeRenderModule mod_custom ()"},{"prefix":"Application","time":0.0350475311279296875,"totalTime":79.62894439697265625,"memory":0.00237274169921875,"totalMemory":5.0081939697265625,"label":"afterRenderModule mod_custom ()"},{"prefix":"Application","time":3.7009716033935546875,"totalTime":83.3299160003662109375,"memory":0.11895751953125,"totalMemory":5.1271514892578125,"label":"afterRender"}]},"queries":{"data":{"statements":[{"sql":"SELECT @@SESSION.sql_mode;","params":[],"duration_str":"352\u03bcs","memory_str":"1.57KB","caller":"\/home\/jmag2023icmab\/public_html\/libraries\/vendor\/joomla\/database\/src\/Mysqli\/MysqliDriver.php:334","callstack":[],"explain":[],"explain_col":[],"profile":[]},{"sql":"SELECT `data`\nFROM `yf1nx_session`\nWHERE `session_id` = ?","params":{"1":{"value":"6add0ac72ab11b022125f46a5974b089","dataType":"string","length":0,"driverOptions":[]}},"duration_str":"141\u03bcs","memory_str":"1.61KB","caller":"\/home\/jmag2023icmab\/public_html\/libraries\/vendor\/joomla\/session\/src\/Handler\/DatabaseHandler.php:261","callstack":[],"explain":[],"explain_col":[],"profile":[]},{"sql":"SELECT `session_id`\nFROM `yf1nx_session`\nWHERE `session_id` = :session_id LIMIT 1","params":{":session_id":{"value":"6add0ac72ab11b022125f46a5974b089","dataType":"string","length":0,"driverOptions":[]}},"duration_str":"68\u03bcs","memory_str":"1.61KB","caller":"\/home\/jmag2023icmab\/public_html\/libraries\/src\/Session\/MetadataManager.php:187","callstack":[],"explain":[],"explain_col":[],"profile":[]},{"sql":"INSERT INTO `yf1nx_session`\n(`session_id`,`guest`,`time`,`userid`,`username`,`client_id`) VALUES \n(:session_id, :guest, :time, :user_id, :username, :client_id)","params":{":session_id":{"value":"6add0ac72ab11b022125f46a5974b089","dataType":"string","length":0,"driverOptions":[]},":guest":{"value":1,"dataType":"int","length":0,"driverOptions":[]},":time":{"value":1733396897,"dataType":"string","length":0,"driverOptions":[]},":user_id":{"value":0,"dataType":"int","length":0,"driverOptions":[]},":username":{"value":"","dataType":"string","length":0,"driverOptions":[]},":client_id":{"value":0,"dataType":"int","length":0,"driverOptions":[]}},"duration_str":"345\u03bcs","memory_str":"944B","caller":"\/home\/jmag2023icmab\/public_html\/libraries\/src\/Session\/MetadataManager.php:260","callstack":[],"explain":[],"explain_col":[],"profile":[]},{"sql":"SELECT `extension_id` AS `id`,`element` AS `option`,`params`,`enabled`\nFROM `yf1nx_extensions`\nWHERE `type` = 'component' AND `state` = 0 AND `enabled` = 1","params":[],"duration_str":"327\u03bcs","memory_str":"2.36KB","caller":"\/home\/jmag2023icmab\/public_html\/libraries\/src\/Component\/ComponentHelper.php:399","callstack":[],"explain":[],"explain_col":[],"profile":[]},{"sql":"SELECT `id`,`rules`\nFROM `yf1nx_viewlevels`","params":[],"duration_str":"65\u03bcs","memory_str":"992B","caller":"\/home\/jmag2023icmab\/public_html\/libraries\/src\/Access\/Access.php:955","callstack":[],"explain":[],"explain_col":[],"profile":[]},{"sql":"SELECT `b`.`id`\nFROM `yf1nx_usergroups` AS `a`\nLEFT JOIN `yf1nx_usergroups` AS `b` ON `b`.`lft` <= `a`.`lft` AND `b`.`rgt` >= `a`.`rgt`\nWHERE `a`.`id` = :guest","params":{":guest":{"value":9,"dataType":"int","length":0,"driverOptions":[]}},"duration_str":"137\u03bcs","memory_str":"1.64KB","caller":"\/home\/jmag2023icmab\/public_html\/libraries\/src\/Access\/Access.php:868","callstack":[],"explain":[],"explain_col":[],"profile":[]},{"sql":"SELECT `folder` AS `type`,`element` AS `name`,`params` AS `params`,`extension_id` AS `id`\nFROM `yf1nx_extensions`\nWHERE `enabled` = 1 AND `type` = 'plugin' AND `state` IN (0,1) AND `access` IN (:preparedArray1,:preparedArray2)\nORDER BY `ordering`","params":{":preparedArray1":{"value":1,"dataType":"int","length":0,"driverOptions":[]},":preparedArray2":{"value":5,"dataType":"int","length":0,"driverOptions":[]}},"duration_str":"688\u03bcs","memory_str":"4.3KB","caller":"\/home\/jmag2023icmab\/public_html\/libraries\/src\/Plugin\/PluginHelper.php:294","callstack":[],"explain":[],"explain_col":[],"profile":[]},{"sql":"SELECT *\nFROM yf1nx_rsform_config","params":[],"duration_str":"201\u03bcs","memory_str":"2.56KB","caller":"\/home\/jmag2023icmab\/public_html\/administrator\/components\/com_rsform\/helpers\/config.php:52","callstack":[],"explain":[],"explain_col":[],"profile":[]},{"sql":"SELECT `m`.`id`,`m`.`menutype`,`m`.`title`,`m`.`alias`,`m`.`note`,`m`.`link`,`m`.`type`,`m`.`level`,`m`.`language`,`m`.`browserNav`,`m`.`access`,`m`.`params`,`m`.`home`,`m`.`img`,`m`.`template_style_id`,`m`.`component_id`,`m`.`parent_id`,`m`.`path` AS `route`,`e`.`element` AS `component`\nFROM `yf1nx_menu` AS `m`\nLEFT JOIN `yf1nx_extensions` AS `e` ON `m`.`component_id` = `e`.`extension_id`\nWHERE \n(\n(`m`.`published` = 1 AND `m`.`parent_id` > 0 AND `m`.`client_id` = 0) AND \n(`m`.`publish_up` IS NULL OR `m`.`publish_up` <= :currentDate1)) AND \n(`m`.`publish_down` IS NULL OR `m`.`publish_down` >= :currentDate2)\nORDER BY `m`.`lft`","params":{":currentDate1":{"value":"2024-12-05 11:08:17","dataType":"string","length":0,"driverOptions":[]},":currentDate2":{"value":"2024-12-05 11:08:17","dataType":"string","length":0,"driverOptions":[]}},"duration_str":"472\u03bcs","memory_str":"20.8KB","caller":"\/home\/jmag2023icmab\/public_html\/libraries\/src\/Menu\/SiteMenu.php:166","callstack":[],"explain":[],"explain_col":[],"profile":[]},{"sql":"SELECT `id`,`home`,`template`,`s`.`params`,`inheritable`,`parent`\nFROM `yf1nx_template_styles` AS `s`\nLEFT JOIN `yf1nx_extensions` AS `e` ON `e`.`element` = `s`.`template` AND `e`.`type` = 'template' AND `e`.`client_id` = `s`.`client_id`\nWHERE `s`.`client_id` = 0 AND `e`.`enabled` = 1","params":[],"duration_str":"271\u03bcs","memory_str":"81.14KB","caller":"\/home\/jmag2023icmab\/public_html\/administrator\/components\/com_templates\/src\/Model\/StyleModel.php:773","callstack":[],"explain":[],"explain_col":[],"profile":[]},{"sql":"SELECT id FROM yf1nx_categories WHERE alias = 'uncategorised' AND extension = 'com_content'","params":[],"duration_str":"129\u03bcs","memory_str":"856B","caller":"\/home\/jmag2023icmab\/public_html\/templates\/yootheme\/packages\/theme-joomla\/src\/Listener\/AddPageCategory.php:31","callstack":[],"explain":[],"explain_col":[],"profile":[]},{"sql":"SELECT *\nFROM `yf1nx_languages`\nWHERE `published` = 1\nORDER BY `ordering` ASC","params":[],"duration_str":"157\u03bcs","memory_str":"2.22KB","caller":"\/home\/jmag2023icmab\/public_html\/libraries\/src\/Language\/LanguageHelper.php:142","callstack":[],"explain":[],"explain_col":[],"profile":[]},{"sql":"SELECT `id`,`name`,`rules`,`parent_id`\nFROM `yf1nx_assets`\nWHERE `name` IN (:preparedArray1,:preparedArray2,:preparedArray3,:preparedArray4,:preparedArray5,:preparedArray6,:preparedArray7,:preparedArray8,:preparedArray9,:preparedArray10,:preparedArray11,:preparedArray12,:preparedArray13,:preparedArray14,:preparedArray15,:preparedArray16,:preparedArray17,:preparedArray18,:preparedArray19,:preparedArray20,:preparedArray21,:preparedArray22,:preparedArray23,:preparedArray24,:preparedArray25,:preparedArray26,:preparedArray27,:preparedArray28,:preparedArray29,:preparedArray30,:preparedArray31,:preparedArray32,:preparedArray33,:preparedArray34,:preparedArray35,:preparedArray36,:preparedArray37,:preparedArray38,:preparedArray39,:preparedArray40,:preparedArray41,:preparedArray42)","params":{":preparedArray1":{"value":"root.1","dataType":"string","length":0,"driverOptions":[]},":preparedArray2":{"value":"com_actionlogs","dataType":"string","length":0,"driverOptions":[]},":preparedArray3":{"value":"com_admin","dataType":"string","length":0,"driverOptions":[]},":preparedArray4":{"value":"com_ajax","dataType":"string","length":0,"driverOptions":[]},":preparedArray5":{"value":"com_akeebabackup","dataType":"string","length":0,"driverOptions":[]},":preparedArray6":{"value":"com_associations","dataType":"string","length":0,"driverOptions":[]},":preparedArray7":{"value":"com_banners","dataType":"string","length":0,"driverOptions":[]},":preparedArray8":{"value":"com_cache","dataType":"string","length":0,"driverOptions":[]},":preparedArray9":{"value":"com_categories","dataType":"string","length":0,"driverOptions":[]},":preparedArray10":{"value":"com_checkin","dataType":"string","length":0,"driverOptions":[]},":preparedArray11":{"value":"com_config","dataType":"string","length":0,"driverOptions":[]},":preparedArray12":{"value":"com_contact","dataType":"string","length":0,"driverOptions":[]},":preparedArray13":{"value":"com_content","dataType":"string","length":0,"driverOptions":[]},":preparedArray14":{"value":"com_contenthistory","dataType":"string","length":0,"driverOptions":[]},":preparedArray15":{"value":"com_cpanel","dataType":"string","length":0,"driverOptions":[]},":preparedArray16":{"value":"com_fields","dataType":"string","length":0,"driverOptions":[]},":preparedArray17":{"value":"com_finder","dataType":"string","length":0,"driverOptions":[]},":preparedArray18":{"value":"com_guidedtours","dataType":"string","length":0,"driverOptions":[]},":preparedArray19":{"value":"com_installer","dataType":"string","length":0,"driverOptions":[]},":preparedArray20":{"value":"com_jce","dataType":"string","length":0,"driverOptions":[]},":preparedArray21":{"value":"com_joomlaupdate","dataType":"string","length":0,"driverOptions":[]},":preparedArray22":{"value":"com_jp_joom2static","dataType":"string","length":0,"driverOptions":[]},":preparedArray23":{"value":"com_languages","dataType":"string","length":0,"driverOptions":[]},":preparedArray24":{"value":"com_login","dataType":"string","length":0,"driverOptions":[]},":preparedArray25":{"value":"com_mails","dataType":"string","length":0,"driverOptions":[]},":preparedArray26":{"value":"com_media","dataType":"string","length":0,"driverOptions":[]},":preparedArray27":{"value":"com_menus","dataType":"string","length":0,"driverOptions":[]},":preparedArray28":{"value":"com_messages","dataType":"string","length":0,"driverOptions":[]},":preparedArray29":{"value":"com_modules","dataType":"string","length":0,"driverOptions":[]},":preparedArray30":{"value":"com_newsfeeds","dataType":"string","length":0,"driverOptions":[]},":preparedArray31":{"value":"com_plugins","dataType":"string","length":0,"driverOptions":[]},":preparedArray32":{"value":"com_postinstall","dataType":"string","length":0,"driverOptions":[]},":preparedArray33":{"value":"com_privacy","dataType":"string","length":0,"driverOptions":[]},":preparedArray34":{"value":"com_redirect","dataType":"string","length":0,"driverOptions":[]},":preparedArray35":{"value":"com_rsform","dataType":"string","length":0,"driverOptions":[]},":preparedArray36":{"value":"com_scheduler","dataType":"string","length":0,"driverOptions":[]},":preparedArray37":{"value":"com_search","dataType":"string","length":0,"driverOptions":[]},":preparedArray38":{"value":"com_tags","dataType":"string","length":0,"driverOptions":[]},":preparedArray39":{"value":"com_templates","dataType":"string","length":0,"driverOptions":[]},":preparedArray40":{"value":"com_users","dataType":"string","length":0,"driverOptions":[]},":preparedArray41":{"value":"com_workflow","dataType":"string","length":0,"driverOptions":[]},":preparedArray42":{"value":"com_wrapper","dataType":"string","length":0,"driverOptions":[]}},"duration_str":"362\u03bcs","memory_str":"7.88KB","caller":"\/home\/jmag2023icmab\/public_html\/libraries\/src\/Access\/Access.php:357","callstack":[],"explain":[],"explain_col":[],"profile":[]},{"sql":"SELECT `id`,`name`,`rules`,`parent_id`\nFROM `yf1nx_assets`\nWHERE `name` LIKE :asset OR `name` = :extension OR `parent_id` = 0","params":{":extension":{"value":"com_content","dataType":"string","length":0,"driverOptions":[]},":asset":{"value":"com_content.%","dataType":"string","length":0,"driverOptions":[]}},"duration_str":"196\u03bcs","memory_str":"2.3KB","caller":"\/home\/jmag2023icmab\/public_html\/libraries\/src\/Access\/Access.php:301","callstack":[],"explain":[],"explain_col":[],"profile":[]},{"sql":"SHOW FULL COLUMNS FROM `yf1nx_content`","params":[],"duration_str":"362\u03bcs","memory_str":"2.39KB","caller":"\/home\/jmag2023icmab\/public_html\/libraries\/vendor\/joomla\/database\/src\/Mysqli\/MysqliDriver.php:625","callstack":[],"explain":[],"explain_col":[],"profile":[]},{"sql":"UPDATE `yf1nx_content`\nSET `hits` = (`hits` + 1)\nWHERE `id` = '5'","params":[],"duration_str":"422\u03bcs","memory_str":"2.55KB","caller":"\/home\/jmag2023icmab\/public_html\/libraries\/src\/Table\/Table.php:1325","callstack":[],"explain":[],"explain_col":[],"profile":[]},{"sql":"SELECT `a`.`id`,`a`.`asset_id`,`a`.`title`,`a`.`alias`,`a`.`introtext`,`a`.`fulltext`,`a`.`state`,`a`.`catid`,`a`.`created`,`a`.`created_by`,`a`.`created_by_alias`,`a`.`modified`,`a`.`modified_by`,`a`.`checked_out`,`a`.`checked_out_time`,`a`.`publish_up`,`a`.`publish_down`,`a`.`images`,`a`.`urls`,`a`.`attribs`,`a`.`version`,`a`.`ordering`,`a`.`metakey`,`a`.`metadesc`,`a`.`access`,`a`.`hits`,`a`.`metadata`,`a`.`featured`,`a`.`language`,`fp`.`featured_up`,`fp`.`featured_down`,`c`.`title` AS `category_title`,`c`.`alias` AS `category_alias`,`c`.`access` AS `category_access`,`c`.`language` AS `category_language`,`fp`.`ordering`,`u`.`name` AS `author`,`parent`.`title` AS `parent_title`,`parent`.`id` AS `parent_id`,`parent`.`path` AS `parent_route`,`parent`.`alias` AS `parent_alias`,`parent`.`language` AS `parent_language`,ROUND(`v`.`rating_sum` \/ `v`.`rating_count`, 1) AS `rating`,`v`.`rating_count` AS `rating_count`\nFROM `yf1nx_content` AS `a`\nINNER JOIN `yf1nx_categories` AS `c` ON `c`.`id` = `a`.`catid`\nLEFT JOIN `yf1nx_content_frontpage` AS `fp` ON `fp`.`content_id` = `a`.`id`\nLEFT JOIN `yf1nx_users` AS `u` ON `u`.`id` = `a`.`created_by`\nLEFT JOIN `yf1nx_categories` AS `parent` ON `parent`.`id` = `c`.`parent_id`\nLEFT JOIN `yf1nx_content_rating` AS `v` ON `a`.`id` = `v`.`content_id`\nWHERE \n(\n(`a`.`id` = :pk AND `c`.`published` > 0) AND \n(`a`.`publish_up` IS NULL OR `a`.`publish_up` <= :publishUp)) AND \n(`a`.`publish_down` IS NULL OR `a`.`publish_down` >= :publishDown) AND `a`.`state` IN (:preparedArray1,:preparedArray2)","params":{":pk":{"value":5,"dataType":"int","length":0,"driverOptions":[]},":publishUp":{"value":"2024-12-05 11:08:17","dataType":"string","length":0,"driverOptions":[]},":publishDown":{"value":"2024-12-05 11:08:17","dataType":"string","length":0,"driverOptions":[]},":preparedArray1":{"value":1,"dataType":"int","length":0,"driverOptions":[]},":preparedArray2":{"value":2,"dataType":"int","length":0,"driverOptions":[]}},"duration_str":"334\u03bcs","memory_str":"48.62KB","caller":"\/home\/jmag2023icmab\/public_html\/components\/com_content\/src\/Model\/ArticleModel.php:215","callstack":[],"explain":[],"explain_col":[],"profile":[]},{"sql":"SELECT `c`.`id`,`c`.`asset_id`,`c`.`access`,`c`.`alias`,`c`.`checked_out`,`c`.`checked_out_time`,`c`.`created_time`,`c`.`created_user_id`,`c`.`description`,`c`.`extension`,`c`.`hits`,`c`.`language`,`c`.`level`,`c`.`lft`,`c`.`metadata`,`c`.`metadesc`,`c`.`metakey`,`c`.`modified_time`,`c`.`note`,`c`.`params`,`c`.`parent_id`,`c`.`path`,`c`.`published`,`c`.`rgt`,`c`.`title`,`c`.`modified_user_id`,`c`.`version`, CASE WHEN CHAR_LENGTH(`c`.`alias`) != 0 THEN CONCAT_WS(':', `c`.`id`, `c`.`alias`) ELSE `c`.`id` END as `slug`\nFROM `yf1nx_categories` AS `s`\nINNER JOIN `yf1nx_categories` AS `c` ON (`s`.`lft` <= `c`.`lft` AND `c`.`lft` < `s`.`rgt`) OR (`c`.`lft` < `s`.`lft` AND `s`.`rgt` < `c`.`rgt`)\nWHERE (`c`.`extension` = :extension OR `c`.`extension` = 'system') AND `c`.`access` IN (:preparedArray1,:preparedArray2) AND `c`.`published` = 1 AND `s`.`id` = :id\nORDER BY `c`.`lft`","params":{":extension":{"value":"com_content","dataType":"string","length":0,"driverOptions":[]},":preparedArray1":{"value":1,"dataType":"int","length":0,"driverOptions":[]},":preparedArray2":{"value":5,"dataType":"int","length":0,"driverOptions":[]},":id":{"value":2,"dataType":"int","length":0,"driverOptions":[]}},"duration_str":"328\u03bcs","memory_str":"5.16KB","caller":"\/home\/jmag2023icmab\/public_html\/libraries\/src\/Categories\/Categories.php:375","callstack":[],"explain":[],"explain_col":[],"profile":[]},{"sql":"SELECT `m`.`tag_id`,`t`.*\nFROM `yf1nx_contentitem_tag_map` AS `m`\nINNER JOIN `yf1nx_tags` AS `t` ON `m`.`tag_id` = `t`.`id`\nWHERE `m`.`type_alias` = :contentType AND `m`.`content_item_id` = :id AND `t`.`published` = 1 AND `t`.`access` IN (:preparedArray1,:preparedArray2)","params":{":contentType":{"value":"com_content.article","dataType":"string","length":0,"driverOptions":[]},":id":{"value":5,"dataType":"int","length":0,"driverOptions":[]},":preparedArray1":{"value":1,"dataType":"int","length":0,"driverOptions":[]},":preparedArray2":{"value":5,"dataType":"int","length":0,"driverOptions":[]}},"duration_str":"199\u03bcs","memory_str":"5.22KB","caller":"\/home\/jmag2023icmab\/public_html\/libraries\/src\/Helper\/TagsHelper.php:388","callstack":[],"explain":[],"explain_col":[],"profile":[]},{"sql":"SELECT `c`.`id`,`c`.`asset_id`,`c`.`access`,`c`.`alias`,`c`.`checked_out`,`c`.`checked_out_time`,`c`.`created_time`,`c`.`created_user_id`,`c`.`description`,`c`.`extension`,`c`.`hits`,`c`.`language`,`c`.`level`,`c`.`lft`,`c`.`metadata`,`c`.`metadesc`,`c`.`metakey`,`c`.`modified_time`,`c`.`note`,`c`.`params`,`c`.`parent_id`,`c`.`path`,`c`.`published`,`c`.`rgt`,`c`.`title`,`c`.`modified_user_id`,`c`.`version`, CASE WHEN CHAR_LENGTH(`c`.`alias`) != 0 THEN CONCAT_WS(':', `c`.`id`, `c`.`alias`) ELSE `c`.`id` END as `slug`\nFROM `yf1nx_categories` AS `s`\nINNER JOIN `yf1nx_categories` AS `c` ON (`s`.`lft` <= `c`.`lft` AND `c`.`lft` < `s`.`rgt`) OR (`c`.`lft` < `s`.`lft` AND `s`.`rgt` < `c`.`rgt`)\nWHERE (`c`.`extension` = :extension OR `c`.`extension` = 'system') AND `c`.`access` IN (:preparedArray1,:preparedArray2) AND `c`.`published` = 1 AND `s`.`id` = :id\nORDER BY `c`.`lft`","params":{":extension":{"value":"com_content","dataType":"string","length":0,"driverOptions":[]},":preparedArray1":{"value":1,"dataType":"int","length":0,"driverOptions":[]},":preparedArray2":{"value":5,"dataType":"int","length":0,"driverOptions":[]},":id":{"value":2,"dataType":"int","length":0,"driverOptions":[]}},"duration_str":"383\u03bcs","memory_str":"5.16KB","caller":"\/home\/jmag2023icmab\/public_html\/libraries\/src\/Categories\/Categories.php:375","callstack":[],"explain":[],"explain_col":[],"profile":[]},{"sql":"SELECT DISTINCT a.id, a.title, a.name, a.checked_out, a.checked_out_time, a.note, a.state, a.access, a.created_time, a.created_user_id, a.ordering, a.language, a.fieldparams, a.params, a.type, a.default_value, a.context, a.group_id, a.label, a.description, a.required, a.only_use_in_subform,l.title AS language_title, l.image AS language_image,uc.name AS editor,ag.title AS access_level,ua.name AS author_name,g.title AS group_title, g.access as group_access, g.state AS group_state, g.note as group_note\nFROM yf1nx_fields AS a\nLEFT JOIN `yf1nx_languages` AS l ON l.lang_code = a.language\nLEFT JOIN yf1nx_users AS uc ON uc.id=a.checked_out\nLEFT JOIN yf1nx_viewlevels AS ag ON ag.id = a.access\nLEFT JOIN yf1nx_users AS ua ON ua.id = a.created_user_id\nLEFT JOIN yf1nx_fields_groups AS g ON g.id = a.group_id\nLEFT JOIN `yf1nx_fields_categories` AS fc ON fc.field_id = a.id\nWHERE \n(\n(`a`.`context` = :context AND (`fc`.`category_id` IS NULL OR `fc`.`category_id` IN (:preparedArray1,:preparedArray2)) AND `a`.`access` IN (:preparedArray3,:preparedArray4)) AND \n(`a`.`group_id` = 0 OR `g`.`access` IN (:preparedArray5,:preparedArray6)) AND `a`.`state` = :state) AND \n(`a`.`group_id` = 0 OR `g`.`state` = :gstate) AND `a`.`only_use_in_subform` = :only_use_in_subform\nORDER BY a.ordering ASC","params":{":context":{"value":"com_content.article","dataType":"string","length":0,"driverOptions":[]},":preparedArray1":{"value":2,"dataType":"int","length":0,"driverOptions":[]},":preparedArray2":{"value":0,"dataType":"int","length":0,"driverOptions":[]},":preparedArray3":{"value":1,"dataType":"int","length":0,"driverOptions":[]},":preparedArray4":{"value":5,"dataType":"int","length":0,"driverOptions":[]},":preparedArray5":{"value":1,"dataType":"int","length":0,"driverOptions":[]},":preparedArray6":{"value":5,"dataType":"int","length":0,"driverOptions":[]},":state":{"value":1,"dataType":"int","length":0,"driverOptions":[]},":gstate":{"value":1,"dataType":"int","length":0,"driverOptions":[]},":only_use_in_subform":{"value":0,"dataType":"int","length":0,"driverOptions":[]}},"duration_str":"584\u03bcs","memory_str":"6KB","caller":"\/home\/jmag2023icmab\/public_html\/libraries\/src\/MVC\/Model\/BaseDatabaseModel.php:166","callstack":[],"explain":[],"explain_col":[],"profile":[]},{"sql":"SELECT custom_data FROM yf1nx_extensions WHERE element = 'yootheme' AND folder = 'system' LIMIT 1","params":[],"duration_str":"178\u03bcs","memory_str":"856B","caller":"\/home\/jmag2023icmab\/public_html\/templates\/yootheme\/packages\/platform-joomla\/src\/Storage.php:30","callstack":[],"explain":[],"explain_col":[],"profile":[]},{"sql":"SELECT `m`.`id`,`m`.`title`,`m`.`module`,`m`.`position`,`m`.`content`,`m`.`showtitle`,`m`.`params`,`mm`.`menuid`\nFROM `yf1nx_modules` AS `m`\nLEFT JOIN `yf1nx_modules_menu` AS `mm` ON `mm`.`moduleid` = `m`.`id`\nLEFT JOIN `yf1nx_extensions` AS `e` ON `e`.`element` = `m`.`module` AND `e`.`client_id` = `m`.`client_id`\nWHERE \n(\n(\n(`m`.`published` = 1 AND `e`.`enabled` = 1 AND `m`.`client_id` = :clientId AND `m`.`access` IN (:preparedArray1,:preparedArray2)) AND \n(`m`.`publish_up` IS NULL OR `m`.`publish_up` <= :publishUp)) AND \n(`m`.`publish_down` IS NULL OR `m`.`publish_down` >= :publishDown)) AND \n(`mm`.`menuid` = :itemId OR `mm`.`menuid` <= 0)\nORDER BY `m`.`position`,`m`.`ordering`","params":{":clientId":{"value":0,"dataType":"int","length":0,"driverOptions":[]},":preparedArray1":{"value":1,"dataType":"int","length":0,"driverOptions":[]},":preparedArray2":{"value":5,"dataType":"int","length":0,"driverOptions":[]},":publishUp":{"value":"2024-12-05 11:08:17","dataType":"string","length":0,"driverOptions":[]},":publishDown":{"value":"2024-12-05 11:08:17","dataType":"string","length":0,"driverOptions":[]},":itemId":{"value":101,"dataType":"int","length":0,"driverOptions":[]}},"duration_str":"373\u03bcs","memory_str":"2.2KB","caller":"\/home\/jmag2023icmab\/public_html\/libraries\/src\/Cache\/Controller\/CallbackController.php:51","callstack":[],"explain":[],"explain_col":[],"profile":[]},{"sql":"SELECT DISTINCT a.id, a.title, a.name, a.checked_out, a.checked_out_time, a.note, a.state, a.access, a.created_time, a.created_user_id, a.ordering, a.language, a.fieldparams, a.params, a.type, a.default_value, a.context, a.group_id, a.label, a.description, a.required, a.only_use_in_subform,l.title AS language_title, l.image AS language_image,uc.name AS editor,ag.title AS access_level,ua.name AS author_name,g.title AS group_title, g.access as group_access, g.state AS group_state, g.note as group_note\nFROM yf1nx_fields AS a\nLEFT JOIN `yf1nx_languages` AS l ON l.lang_code = a.language\nLEFT JOIN yf1nx_users AS uc ON uc.id=a.checked_out\nLEFT JOIN yf1nx_viewlevels AS ag ON ag.id = a.access\nLEFT JOIN yf1nx_users AS ua ON ua.id = a.created_user_id\nLEFT JOIN yf1nx_fields_groups AS g ON g.id = a.group_id\nWHERE \n(\n(`a`.`context` = :context AND `a`.`access` IN (:preparedArray1,:preparedArray2)) AND \n(`a`.`group_id` = 0 OR `g`.`access` IN (:preparedArray3,:preparedArray4)) AND `a`.`state` = :state) AND \n(`a`.`group_id` = 0 OR `g`.`state` = :gstate) AND `a`.`only_use_in_subform` = :only_use_in_subform\nORDER BY a.ordering ASC","params":{":context":{"value":"mod_custom.content","dataType":"string","length":0,"driverOptions":[]},":preparedArray1":{"value":1,"dataType":"int","length":0,"driverOptions":[]},":preparedArray2":{"value":5,"dataType":"int","length":0,"driverOptions":[]},":preparedArray3":{"value":1,"dataType":"int","length":0,"driverOptions":[]},":preparedArray4":{"value":5,"dataType":"int","length":0,"driverOptions":[]},":state":{"value":1,"dataType":"int","length":0,"driverOptions":[]},":gstate":{"value":1,"dataType":"int","length":0,"driverOptions":[]},":only_use_in_subform":{"value":0,"dataType":"int","length":0,"driverOptions":[]}},"duration_str":"747\u03bcs","memory_str":"5.31KB","caller":"\/home\/jmag2023icmab\/public_html\/libraries\/src\/MVC\/Model\/BaseDatabaseModel.php:166","callstack":[],"explain":[],"explain_col":[],"profile":[]},{"sql":"SELECT `name`,`element`\nFROM `yf1nx_extensions`\nWHERE `type` = 'plugin' AND `folder` = 'finder' AND `enabled` = 1","params":[],"duration_str":"347\u03bcs","memory_str":"976B","caller":"\/home\/jmag2023icmab\/public_html\/administrator\/components\/com_finder\/src\/Helper\/LanguageHelper.php:135","callstack":[],"explain":[],"explain_col":[],"profile":[]},{"sql":"SELECT `title`\nFROM `yf1nx_finder_taxonomy`\nWHERE `parent_id` = 1 AND `state` = 1 AND `access` IN (1,5)","params":[],"duration_str":"143\u03bcs","memory_str":"840B","caller":"\/home\/jmag2023icmab\/public_html\/administrator\/components\/com_finder\/src\/Indexer\/Taxonomy.php:314","callstack":[],"explain":[],"explain_col":[],"profile":[]},{"sql":"SELECT SUM(CASE WHEN `a`.`next_execution` <= :now THEN 1 ELSE 0 END) AS due_count,SUM(CASE WHEN `a`.`locked` IS NULL THEN 0 ELSE 1 END) AS locked_count\nFROM `yf1nx_scheduler_tasks` AS `a`\nWHERE `a`.`state` = 1","params":{":now":{"value":"2024-12-05 11:08:17","dataType":"string","length":0,"driverOptions":[]}},"duration_str":"168\u03bcs","memory_str":"1.68KB","caller":"\/home\/jmag2023icmab\/public_html\/administrator\/components\/com_scheduler\/src\/Model\/TasksModel.php:466","callstack":[],"explain":[],"explain_col":[],"profile":[]},{"sql":"SELECT `session_id`\nFROM `yf1nx_session`\nWHERE `session_id` = ?","params":{"1":{"value":"6add0ac72ab11b022125f46a5974b089","dataType":"string","length":0,"driverOptions":[]}},"duration_str":"173\u03bcs","memory_str":"1.63KB","caller":"\/home\/jmag2023icmab\/public_html\/libraries\/vendor\/joomla\/session\/src\/Handler\/DatabaseHandler.php:291","callstack":[],"explain":[],"explain_col":[],"profile":[]},{"sql":"UPDATE `yf1nx_session`\nSET `data` = ?\n\t, `time` = ?\nWHERE `session_id` = ?","params":{"1":{"value":"joomla|s:700:\"TzoyNDoiSm9vbWxhXFJlZ2lzdHJ5XFJlZ2lzdHJ5IjozOntzOjc6IgAqAGRhdGEiO086ODoic3RkQ2xhc3MiOjM6e3M6Nzoic2Vzc2lvbiI7Tzo4OiJzdGRDbGFzcyI6Mzp7czo3OiJjb3VudGVyIjtpOjE7czo1OiJ0aW1lciI7Tzo4OiJzdGRDbGFzcyI6Mzp7czo1OiJzdGFydCI7aToxNzMzMzk2ODk3O3M6NDoibGFzdCI7aToxNzMzMzk2ODk3O3M6Mzoibm93IjtpOjE3MzMzOTY4OTc7fXM6NToidG9rZW4iO3M6MzI6ImQxZTU3MTk4ZjNjNjI0ZjU5OTc2NGI2MmQ3YjYzNDIwIjt9czo4OiJyZWdpc3RyeSI7TzoyNDoiSm9vbWxhXFJlZ2lzdHJ5XFJlZ2lzdHJ5IjozOntzOjc6IgAqAGRhdGEiO086ODoic3RkQ2xhc3MiOjA6e31zOjE0OiIAKgBpbml0aWFsaXplZCI7YjowO3M6MTI6IgAqAHNlcGFyYXRvciI7czoxOiIuIjt9czo0OiJ1c2VyIjtPOjIwOiJKb29tbGFcQ01TXFVzZXJcVXNlciI6MTp7czoyOiJpZCI7aTowO319czoxNDoiACoAaW5pdGlhbGl6ZWQiO2I6MDtzOjEyOiIAKgBzZXBhcmF0b3IiO3M6MToiLiI7fQ==\";","dataType":"string","length":0,"driverOptions":[]},"2":{"value":1733396897,"dataType":"int","length":0,"driverOptions":[]},"3":{"value":"6add0ac72ab11b022125f46a5974b089","dataType":"string","length":0,"driverOptions":[]}},"duration_str":"455\u03bcs","memory_str":"912B","caller":"\/home\/jmag2023icmab\/public_html\/libraries\/vendor\/joomla\/session\/src\/Handler\/DatabaseHandler.php:318","callstack":[],"explain":[],"explain_col":[],"profile":[]}],"nb_statements":30,"accumulated_duration_str":"9.11ms","memory_usage_str":"222.12KB","xdebug_link":"","root_path":"\/home\/jmag2023icmab\/public_html"},"count":30}}, "X045af230be169f677f2d99771c48139a");
+
+</script>
+</body>
+</html>

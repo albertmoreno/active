@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>General information on the FP7 and Marie Curie Actions</title>
+		<description><![CDATA[Nanocapsules for Targeted Delivery of Radioactivity]]></description>
+		<link>https://projects.icmab.es/raddel/links/general-information-on-the-fp7-and-marie-curie-actions</link>
+		<lastBuildDate>Fri, 23 Oct 2020 12:25:31 +0000</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="https://projects.icmab.es/raddel/links/general-information-on-the-fp7-and-marie-curie-actions?format=feed&amp;type=rss"/>
+		<language>en-gb</language>
+		<managingEditor>webmaster@icmab.es (Raddel)</managingEditor>
+		<item>
+			<title>7th Framework Programme: </title>
+			<link>https://projects.icmab.es/raddel/links/general-information-on-the-fp7-and-marie-curie-actions/1</link>
+			<guid isPermaLink="true">https://projects.icmab.es/raddel/links/general-information-on-the-fp7-and-marie-curie-actions/1</guid>
+			<description><![CDATA[<p><a href="http://cordis.europa.eu/fp7/home_en.html"><img alt="fp7-gen-rgb" src="https://projects.icmab.es/raddel/images/fp7-gen-rgb.jpg" width="144" height="117" /></a></p>]]></description>
+			<category>GENERAL INFORMATION ON FP7 AND MARIE CURIE ACTIONS</category>
+			<pubDate>Sun, 02 Dec 2001 23:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Marie Curie actions website:</title>
+			<link>https://projects.icmab.es/raddel/links/general-information-on-the-fp7-and-marie-curie-actions/2</link>
+			<guid isPermaLink="true">https://projects.icmab.es/raddel/links/general-information-on-the-fp7-and-marie-curie-actions/2</guid>
+			<description><![CDATA[<p><a href="http://ec.europa.eu/research/mariecurieactions/index.htm"><img style="float: left;" alt="logo marie-curie" src="https://projects.icmab.es/raddel/images/logo_marie-curie.jpg" width="144" height="140" /></a></p>]]></description>
+			<category>GENERAL INFORMATION ON FP7 AND MARIE CURIE ACTIONS</category>
+			<pubDate>Sun, 02 Dec 2001 23:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Euraxess job vacancies:</title>
+			<link>https://projects.icmab.es/raddel/links/general-information-on-the-fp7-and-marie-curie-actions/3</link>
+			<guid isPermaLink="true">https://projects.icmab.es/raddel/links/general-information-on-the-fp7-and-marie-curie-actions/3</guid>
+			<description><![CDATA[<p><a href="http://ec.europa.eu/euraxess/index.cfm/jobs/jvSearch"><img style="float: left;" alt="logoeuraxess" src="https://projects.icmab.es/raddel/images/logoeuraxess.jpg" width="144" height="98" /></a></p>]]></description>
+			<category>GENERAL INFORMATION ON FP7 AND MARIE CURIE ACTIONS</category>
+			<pubDate>Sun, 02 Dec 2001 23:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Cordis webpage:</title>
+			<link>https://projects.icmab.es/raddel/links/general-information-on-the-fp7-and-marie-curie-actions/4</link>
+			<guid isPermaLink="true">https://projects.icmab.es/raddel/links/general-information-on-the-fp7-and-marie-curie-actions/4</guid>
+			<description><![CDATA[<p><a href="http://cordis.europa.eu/home_en.html"><img style="float: left;" alt="cordis-logo" src="https://projects.icmab.es/raddel/images/cordis-logo.gif" width="144" height="130" /></a></p>]]></description>
+			<category>GENERAL INFORMATION ON FP7 AND MARIE CURIE ACTIONS</category>
+			<pubDate>Sun, 02 Dec 2001 23:00:00 +0000</pubDate>
+		</item>
+	</channel>
+</rss>
