@@ -1,0 +1,553 @@
+<!DOCTYPE html>
+<html lang="en-gb" dir="ltr">
+
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="icon" href="images/favicon.svg" sizes="any">
+    <link rel="apple-touch-icon" href="images/favicon.svg">
+    <meta charset="utf-8">
+
+    <title>ESTORE - ESTORE</title>
+    <link href="css/joomla-fontawesome.min.css" rel="preload" as="style"
+        onload="this.onload=null;this.rel='stylesheet'">
+
+    <link href="css/joomla-alert.min.css" rel="stylesheet">
+    <link href="css/theme.9.css" rel="stylesheet">
+
+    <script src="js/core.min.js"></script>
+    <script src="js/messages.min.js" type="module"></script>
+    <script src="js/analytics.min.js" defer></script>
+    <script src="js/uikit.min.js"></script>
+    <script src="js/uikit-icons-devstack.min.js"></script>
+    <script src="js/theme.js"></script>
+    <script
+        type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://estore.icmab.es/#/schema/Organization/base","name":"ESTORE","url":"https://estore.icmab.es/"},{"@type":"WebSite","@id":"https://estore.icmab.es/#/schema/WebSite/base","url":"https://estore.icmab.es/","name":"ESTORE","publisher":{"@id":"https://estore.icmab.es/#/schema/Organization/base"}},{"@type":"WebPage","@id":"https://estore.icmab.es/#/schema/WebPage/base","url":"https://estore.icmab.es/","name":"ESTORE - ESTORE","isPartOf":{"@id":"https://estore.icmab.es/#/schema/WebSite/base"},"about":{"@id":"https://estore.icmab.es/#/schema/Organization/base"},"inLanguage":"en-GB","breadcrumb":{"@id":"https://estore.icmab.es/#/schema/BreadcrumbList/17"}},{"@type":"Article","@id":"https://estore.icmab.es/#/schema/com_content/article/7","name":"home","headline":"home","inLanguage":"en-GB","articleSection":"Uncategorised","dateCreated":"2021-05-04T15:06:20+00:00","interactionStatistic":{"@type":"InteractionCounter","userInteractionCount":192069},"isPartOf":{"@id":"https://estore.icmab.es/#/schema/WebPage/base"}}]}</script>
+    <script>window.yootheme ||= {}; var $theme = yootheme.theme = { "i18n": { "close": { "label": "Close" }, "totop": { "label": "Back to top" }, "marker": { "label": "Open" }, "navbarToggleIcon": { "label": "Open menu" }, "paginationPrevious": { "label": "Previous page" }, "paginationNext": { "label": "Next page" }, "searchIcon": { "toggle": "Open Search", "submit": "Submit Search" }, "slider": { "next": "Next slide", "previous": "Previous slide", "slideX": "Slide %s", "slideLabel": "%s of %s" }, "slideshow": { "next": "Next slide", "previous": "Previous slide", "slideX": "Slide %s", "slideLabel": "%s of %s" }, "lightboxPanel": { "next": "Next slide", "previous": "Previous slide", "slideLabel": "%s of %s", "close": "Close" } }, "google_analytics": "271287038", "google_analytics_anonymize": "" };</script>
+
+</head>
+
+<body class="">
+
+    <div class="uk-hidden-visually uk-notification uk-notification-top-left uk-width-auto">
+        <div class="uk-notification-message">
+            <a href="#tm-main">Skip to main content</a>
+        </div>
+    </div>
+
+
+
+    <div class="tm-page">
+
+
+
+
+        <header class="tm-header-mobile uk-hidden@m">
+
+
+
+            <div class="uk-navbar-container">
+
+                <div class="uk-container uk-container-expand">
+                    <nav class="uk-navbar"
+                        uk-navbar='{"align":"left","container":".tm-header-mobile","boundary":".tm-header-mobile .uk-navbar-container"}'>
+
+                        <div class="uk-navbar-left">
+
+
+                            <a uk-toggle href="#tm-dialog-mobile" class="uk-navbar-toggle">
+
+
+                                <div uk-navbar-toggle-icon></div>
+
+
+                            </a>
+
+                        </div>
+
+                        <div class="uk-navbar-center">
+
+                            <a href="." aria-label="Back to home" class="uk-logo uk-navbar-item">
+                                <img alt="ESTORE" loading="eager" width="150" height="80" src="images/logo.svg"></a>
+
+
+                        </div>
+
+
+                    </nav>
+                </div>
+
+            </div>
+
+
+
+
+
+            <div id="tm-dialog-mobile" uk-offcanvas="container: true; overlay: true" mode="slide">
+                <div class="uk-offcanvas-bar uk-flex uk-flex-column">
+
+                    <button class="uk-offcanvas-close uk-close-large" type="button" uk-close
+                        uk-toggle="cls: uk-close-large; mode: media; media: @s"></button>
+
+                    <div class="uk-margin-auto-bottom">
+
+                        <div class="uk-grid uk-child-width-1-1" uk-grid>
+                            <div>
+                                <div class="uk-panel" id="module-menu-dialog-mobile">
+
+
+
+                                    <ul class="uk-nav uk-nav-default">
+
+                                        <li class="item-101 uk-active"><a href="index.html">Home</a></li>
+                                        <li class="item-123"><a href="consortium.html">Consortium</a></li>
+                                        <li class="item-102"><a href="members.html">Members</a></li>
+                                        <li class="item-124"><a href="publications.html">Publications</a></li>
+                                        <li class="item-125"><a href="news.html">News</a></li>
+                                    </ul>
+
+                                </div>
+                            </div>
+                            <div>
+                                <div class="uk-panel" id="module-tm-4">
+
+
+
+
+
+
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+
+                </div>
+            </div>
+
+
+
+
+        </header>
+
+
+        <div class="tm-toolbar tm-toolbar-default uk-visible@m">
+            <div class="uk-container uk-flex uk-flex-middle uk-container-expand">
+
+
+                <div class="uk-margin-auto-left">
+                    <div class="uk-grid-medium uk-child-width-auto uk-flex-middle"
+                        uk-grid="margin: uk-margin-small-top">
+
+                    </div>
+                </div>
+
+            </div>
+        </div>
+
+        <header class="tm-header uk-visible@m">
+
+
+
+
+            <div class="uk-navbar-container">
+
+                <div class="uk-container uk-container-large">
+                    <nav class="uk-navbar"
+                        uk-navbar='{"align":"left","container":".tm-header","boundary":".tm-header .uk-navbar-container"}'>
+
+                        <div class="uk-navbar-left">
+
+                            <a href="." aria-label="Back to home" class="uk-logo uk-navbar-item">
+                                <img alt="ESTORE" loading="eager" width="200" height="100" src="images/logo.svg"><img
+                                    class="uk-logo-inverse" alt="ESTORE" loading="eager" width="200" height="100"
+                                    src="images/logo-w.svg"></a>
+
+
+                            <ul class="uk-navbar-nav">
+
+                                <li class="item-101 uk-active"><a href="index.html">Home</a></li>
+                                <li class="item-123"><a href="consortium.html">Consortium</a></li>
+                                <li class="item-102"><a href="members.html">Members</a></li>
+                                <li class="item-124"><a href="publications.html">Publications</a></li>
+                                <li class="item-125"><a href="news.html">News</a></li>
+                            </ul>
+
+
+
+                        </div>
+
+
+                        <div class="uk-navbar-right">
+
+
+
+                            <div class="uk-navbar-item" id="module-tm-3">
+
+
+
+
+
+
+
+                            </div>
+
+
+                        </div>
+
+                    </nav>
+                </div>
+
+            </div>
+
+
+
+
+
+
+
+
+
+        </header>
+
+
+
+
+        <main id="tm-main">
+
+
+            <div id="system-message-container" aria-live="polite"></div>
+
+            <!-- Builder #page -->
+            <div class="uk-section-default uk-section uk-padding-remove-vertical">
+
+
+
+
+
+
+                <div class="uk-grid tm-grid-expand uk-child-width-1-1 uk-grid-margin">
+                    <div class="uk-width-1-1@m">
+
+
+
+
+
+
+
+                        <div uk-slideshow="ratio: 16:9; minHeight: 500; maxHeight: 500; velocity: 0.6;"
+                            class="uk-margin uk-text-center">
+                            <div class="uk-position-relative uk-visible-toggle" tabindex="-1">
+
+                                <div class="uk-slideshow-items">
+                                    <div class="el-item uk-inverse-light">
+
+
+
+                                        <picture>
+                                            <img src="images/photo-1541256942802-7b29531f0df8-05bf6526.jpeg"
+                                                width="2560" height="1707" class="el-image" alt loading="lazy" uk-cover>
+                                            </source>
+                                        </picture>
+
+
+
+                                        <div
+                                            class="uk-position-cover uk-flex uk-flex-center uk-flex-middle uk-container uk-section">
+                                            <div class="el-overlay uk-panel uk-light uk-margin-remove-first-child">
+
+                                                <div class="el-meta uk-h6 uk-margin-top uk-margin-remove-bottom"
+                                                    uk-slideshow-parallax="y: -50,0,0; opacity: 0,1,1; easing: 0">
+                                                    INSTITUT DE CI&Egrave;NCIA DE MATERIALS DE BARCELONA-UNIVERSITAT DE
+                                                    BARCELONA</div>
+                                                <h2 class="el-title uk-heading-small uk-margin-top uk-margin-remove-bottom"
+                                                    uk-slideshow-parallax="opacity: 0,1,1; easing: 0"> Advanced energy
+                                                    storage hybrid electrodes: towards a sustainable future </h2>
+
+                                                <div class="el-content uk-panel uk-margin-top">
+                                                    <p>The ESTORE project aims to provide innovations in this field
+                                                        through the development of advanced nanocarbon hybrid electrodes
+                                                        by the combination of techniques based on plasma, laser
+                                                        processing and microfluidics.</p>
+                                                </div>
+
+                                                <div class="uk-margin-medium-top"><a
+                                                        class="el-link uk-button uk-button-primary"
+                                                        href="consortium.html"
+                                                        uk-slideshow-parallax="y: 50,0,0; opacity: 0,1,1; easing: 0">CONSORTIUM</a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="uk-hidden-hover uk-hidden-touch uk-visible@s uk-light"><a
+                                        class="el-slidenav uk-position-medium uk-position-center-left" href="#"
+                                        uk-slidenav-previous uk-slideshow-item="previous"></a><a
+                                        class="el-slidenav uk-position-medium uk-position-center-right" href="#"
+                                        uk-slidenav-next uk-slideshow-item="next"></a></div>
+
+                                <div class="uk-position-bottom-center uk-position-medium uk-light">
+                                    <ul class="el-nav uk-slideshow-nav uk-dotnav uk-flex-center" uk-margin>
+                                        <li uk-slideshow-item="0">
+                                            <a href="#">Advanced energy storage hybrid electrodes: towards a sustainable
+                                                future</a>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+
+                        </div>
+
+
+
+
+                    </div>
+                </div>
+
+
+
+
+            </div>
+            <div class="uk-section-default uk-section">
+
+
+
+
+
+                <div class="uk-container uk-container-large">
+                    <div class="uk-grid tm-grid-expand uk-child-width-1-1 uk-margin">
+                        <div class="uk-width-1-1">
+
+
+
+
+
+
+
+                            <h2 class="uk-h6 uk-text-primary uk-margin"> PROJECT DESCRIPTION </h2>
+
+
+
+
+                        </div>
+                    </div>
+                    <div class="uk-grid tm-grid-expand uk-grid-margin" uk-grid>
+                        <div class="uk-width-1-2@m">
+
+
+
+
+
+
+
+                            <div class="uk-margin">
+                                <picture>
+                                    <img src="images/image002-0c9f1a1e.jpeg" width="900" height="700"
+                                        class="el-image uk-border-rounded" alt loading="lazy">
+                                    </source>
+                                </picture>
+
+                            </div>
+                            <h1 class="uk-h6"> <strong>CODE OF PROJECT:</strong>&nbsp;PID2020-116612RB </h1>
+
+
+
+
+                        </div>
+                        <div class="uk-width-1-2@m">
+
+
+
+
+
+
+                            <div class="uk-panel uk-margin">
+                                <p>Electrochemical energy storage constitutes one of the cornerstones for the
+                                    large-scale implementation of renewable energy, smart energy distribution grids,
+                                    efficient electric transport, as well as mobile and autonomous devices. In addition
+                                    to batteries, electrochemical capacitors, also known as supercapacitors (SCs), are
+                                    at the centre of a great scientific and technological effort worldwide pursuing the
+                                    storage of large amounts of energy at an affordable cost. In particular, SCs are
+                                    characterized by having a charge-discharge power, in addition to chemical stability
+                                    and durability against cycling, significantly greater than batteries. However, they
+                                    have much less energy storage capacity than batteries. Therefore, much of the
+                                    research is focused on increasing the specific energy density of SCs while
+                                    maintaining their power density and lifetime.</p>
+                                <p>ESTORE is a Spanish National R+D project that aims to provide innovations in this
+                                    field through the development of advanced nanocarbon hybrid electrodes by the
+                                    combination of techniques based on plasma, laser processing and microfluidics. These
+                                    techniques, which are easily scalable to the industrial sector, will allow to
+                                    manufacture electrodes with a large specific area composed of nanocarbon (graphene
+                                    nanowalls &ndash;GNW-, laser-induced graphene &ndash;LIG-, reduced graphene oxide
+                                    &ndash;rGO-, vertically aligned carbon nanotubes &ndash;VACNT-) coated with
+                                    pseudocapacitive nanostructures that, through surface electrochemical processes,
+                                    give rise to a large increase in specific energy without compromising power and
+                                    electrochemical stability.</p>
+                            </div>
+
+
+
+
+                        </div>
+                    </div>
+                </div>
+
+
+
+            </div>
+            <div class="uk-section-default uk-section">
+
+
+
+
+
+                <div class="uk-container">
+                    <div class="uk-grid tm-grid-expand uk-child-width-1-1 uk-grid-margin">
+                        <div class="uk-width-1-1">
+
+
+
+
+
+
+
+
+
+
+
+                        </div>
+                    </div>
+                </div>
+
+
+
+            </div>
+
+
+        </main>
+
+
+
+        <footer>
+            <!-- Builder #footer -->
+            <div class="uk-section-secondary uk-section uk-section-large">
+
+
+
+
+
+                <div class="uk-container uk-container-large">
+                    <div class="uk-grid tm-grid-expand uk-grid-margin" uk-grid>
+                        <div class="uk-grid-item-match uk-flex-middle uk-width-1-2@s uk-width-1-5@m">
+
+
+
+
+                            <div class="uk-panel uk-width-1-1">
+
+
+                                <div class="uk-margin-remove-vertical uk-text-center"
+                                    uk-scrollspy="target: [uk-scrollspy-class];">
+                                    <img src="images/mci-white.svg" width="300" height="80"
+                                        class="el-image uk-text-emphasis" alt loading="lazy" uk-svg>
+
+                                </div>
+
+                            </div>
+
+
+                        </div>
+                        <div class="uk-grid-item-match uk-flex-middle uk-width-1-2@s uk-width-1-5@m">
+
+
+
+
+                            <div class="uk-panel uk-width-1-1">
+
+
+                                <div class="uk-margin" uk-scrollspy="target: [uk-scrollspy-class];">
+                                    <img src="images/ochoa-blanco.svg" width="270" height="120"
+                                        class="el-image uk-text-emphasis" alt loading="lazy" uk-svg>
+
+                                </div>
+
+                            </div>
+
+
+                        </div>
+                        <div class="uk-grid-item-match uk-flex-middle uk-width-1-3@s uk-width-1-5@m">
+
+
+
+
+                            <div class="uk-panel uk-width-1-1">
+
+
+                                <div class="uk-margin-remove-vertical uk-text-center"
+                                    uk-scrollspy="target: [uk-scrollspy-class];">
+                                    <img src="images/logocsic_blanco.svg" width="300" height="55"
+                                        class="el-image uk-text-emphasis" alt loading="lazy" uk-svg>
+
+                                </div>
+
+                            </div>
+
+
+                        </div>
+                        <div class="uk-grid-item-match uk-flex-middle uk-width-1-3@s uk-width-1-5@m">
+
+
+
+
+                            <div class="uk-panel uk-width-1-1">
+
+
+                                <div class="uk-margin">
+                                    <picture>
+                                        <img src="images\logo_ub_blanc-debec9f6.png" width="300" height="80"
+                                            class="el-image" alt loading="lazy">
+                                        </source>
+                                    </picture>
+
+                                </div>
+
+                            </div>
+
+
+                        </div>
+                        <div class="uk-grid-item-match uk-flex-middle uk-width-1-3@s uk-width-1-5@m">
+
+
+
+
+                            <div class="uk-panel uk-width-1-1">
+
+
+                                <div class="uk-margin-remove-vertical uk-text-center"
+                                    uk-scrollspy="target: [uk-scrollspy-class];">
+                                    <img src="images/logo-w.svg" width="163" height="50"
+                                        class="el-image uk-text-emphasis" alt loading="lazy" uk-svg>
+
+                                </div>
+
+                            </div>
+
+
+                        </div>
+                    </div>
+                </div>
+
+
+
+            </div>
+        </footer>
+
+    </div>
+
+
+
+
+</body>
+
+</html>
