@@ -4,7 +4,7 @@
 <head>
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
-  <title>Congressos arxivats - ICMAB</title>
+  <title>Annual Reports arxivats - ICMAB</title>
   <meta content="" name="description">
   <meta content="" name="keywords">
 
@@ -39,13 +39,14 @@
       <a href="index.html" class="logo d-flex align-items-center">
         <!-- Uncomment the line below if you also wish to use an image logo -->
         <img src="https://media.icmab.es/logos/icmab/ochoa-color.jpg" alt="ICMAB">
-        <h1 class="sitename">Archive Events</h1>
+        <h1 class="sitename">Annual Reports</h1>
       </a>
 
       <nav id="navmenu" class="navmenu">
         <ul>
-          <li><a href="events.html" class="active">Events</a></li>
+          <li><a href="events.html">Events</a></li>
           <li><a href="projects.html">Projects</a></li>
+          <li><a href="annualreports.html" class="active">Annual Reports</a></li>
         </ul>
         <i class="mobile-nav-toggle d-xl-none bi bi-list"></i>
       </nav>
@@ -60,121 +61,52 @@
       <div class="container">
         <div class="row align-items-center justify-content-between">
           <div class="col-lg-12">
-            <h1 class="page-title-heading">Archived Webs</h1>
+            <h1 class="page-title-heading">Archived Annual Reports</h1>
+            <nav aria-label="breadcrumb">
+              <ol class="custom-breadcrumb breadcrumb">
+                <li class="breadcrumb-item"><a href="annualreports.html">Annual Reports</a></li>
+              </ol>
+            </nav>
           </div>
         </div>
       </div>
     </div><!-- End Page Title -->
 
-    <!-- Team Section -->
-    <section id="team" class="team section">
+    <!-- Portfolio Section -->
+    <section id="portfolio" class="portfolio section">
 
-      <div class="site-section slider-team-wrap">
-        <div class="container">
+      <div class="container">
 
-          <!--div class="slider-nav d-flex justify-content-end mb-3">
-            <a href="#" class="js-prev js-custom-prev"><i class="bi bi-arrow-left-short"></i></a>
-            <a href="#" class="js-next js-custom-next"><i class="bi bi-arrow-right-short"></i></a>
-          </div-->
+        <div class="isotope-layout" data-default-filter="*" data-layout="masonry" data-sort="original-order">
 
-          <div class="swiper init-swiper" data-aos="fade-up" data-aos-delay="100">
-            <script type="application/json" class="swiper-config">
-              {
-                "loop": true,
-                "speed": 600,
-                "autoplay": {
-                  "delay": 5000
-                },
-                "slidesPerView": "1",
-                "pagination": {
-                  "el": ".swiper-pagination",
-                  "type": "bullets",
-                  "clickable": true
-                },
-                "navigation": {
-                  "nextEl": ".js-custom-next",
-                  "prevEl": ".js-custom-prev"
-                },
-                "breakpoints": {
-                  "640": {
-                    "slidesPerView": 3,
-                    "spaceBetween": 30
-                  },
-                  "768": {
-                    "slidesPerView": 3,
-                    "spaceBetween": 30
-                  },
-                  "1200": {
-                    "slidesPerView": 3,
-                    "spaceBetween": 30
-                  }
-                }
-              }
-            </script>
-            <div class="swiper-wrapper">
-              <div class="swiper-slide">
-                <div class="team">
-                  <div class="pic">
-                    <a href="events.html"><img src="assets/img/archived-events.png" alt="Image" class="img-fluid"></a>
-                  </div>
-                  <h3 clas="">
-                    <a href="events.html"><span class="">Archived</span> Events</a>
-                  </h3>
-                  <p>
-                    Separated they live in. Separated they live in Bookmarksgrove
-                    right at the coast of the Semantics, a large language ocean.
-                  </p>
-                  <p class="mb-0">
-                    <a href="events.html" class="more dark">Access to Archived Events <span
-                        class="bi bi-arrow-right-short"></span></a>
-                  </p>
-                </div>
+          <!--ul class="portfolio-filters isotope-filters" data-aos="fade-up" data-aos-delay="100">
+            <li data-filter="*" class="filter-active">All</li>
+            <li data-filter=".filter-congres">Congresses</li>
+            <li data-filter=".filter-workshop">Workshops</li>
+            <li data-filter=".filter-summerschool">Summer Schools</li>
+            <li data-filter=".filter-course">Courses</li>
+          </ul--><!-- End Portfolio Filters -->
+
+          <div class="row gy-4 isotope-container" data-aos="fade-up" data-aos-delay="200">
+
+            <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-summerschool">
+              <img src="assets/img/annual/annualreport2023.jpg" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>2023</h4>
+                <a href="assets/img/annual/annualreport2023.jpg" title="2023" data-gallery="portfolio-gallery-branding"
+                  class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                <a href="annual_arxivats/2023/index.html" title="Web" class="details-link" target="_blank"><i
+                    class="bi bi-link-45deg"></i></a>
               </div>
-              <div class="swiper-slide">
-                <div class="team">
-                  <div class="pic">
-                    <a href="projects.html"><img src="assets/img/archived-projects.png" alt="Image"
-                        class="img-fluid"></a>
-                  </div>
-                  <h3 clas="">
-                    <a href="events.html"><span class="">Archived</span> Projects</a>
-                  </h3>
-                  <p>
-                    Separated they live in. Separated they live in Bookmarksgrove
-                    right at the coast of the Semantics, a large language ocean.
-                  </p>
-                  <p class="mb-0">
-                    <a href="projects.html" class="more dark">Access to Archived Projects <span
-                        class="bi bi-arrow-right-short"></span></a>
-                  </p>
-                </div>
-              </div>
-              <div class="swiper-slide">
-                <div class="team">
-                  <div class="pic">
-                    <a href="annualreports.html"><img src="assets/img/annual-reports.png" alt="Image"
-                        class="img-fluid"></a>
-                  </div>
-                  <h3 clas="">
-                    <a href="annualreports.html"><span class="">Annual</span> Reports</a>
-                  </h3>
-                  <p>
-                    Separated they live in. Separated they live in Bookmarksgrove
-                    right at the coast of the Semantics, a large language ocean.
-                  </p>
-                  <p class="mb-0">
-                    <a href="annualreports.html" class="more dark">Access to Annual Reports <span
-                        class="bi bi-arrow-right-short"></span></a>
-                  </p>
-                </div>
-              </div>
-              <!-- <div class="swiper-slide"></div> -->
             </div>
-          </div>
+
+          </div><!-- End Portfolio Container -->
+
         </div>
-        <!-- /.container -->
+
       </div>
-    </section><!-- /Team Section -->
+
+    </section><!-- /Portfolio Section -->
 
   </main>
 
