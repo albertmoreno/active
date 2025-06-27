@@ -1,0 +1,190 @@
+<script>
+jQuery(document).on("scroll", function() {
+  if(jQuery(document).scrollTop()>100) {
+    jQuery(".celda").removeClass("invisible").addClass("visible");
+  } else {
+    jQuery(".celda").removeClass("visible").addClass("invisible");
+  }
+});
+</script>
+<script>
+jQuery('.link-verificar').click(function(){
+		jQuery('html, body').animate({
+				scrollTop: jQuery( jQuery(this).attr('href') ).offset().top
+		}, 1000);
+		return false;
+});
+</script>
+<script>
+$(document).ready(function(){
+  $(".pista-boton").click(function(){
+    $(".pista-content").toggle("fast");
+  });
+});
+</script>
+<!--Start Celda-->
+<div class="celda invisible">
+    <div class="matheroe-silueta"><img src="img/matheroe-fotoenergia.svg" height="500" width="350" alt="Matheroes Fotoenergía"></div>
+    <div class="matheroe-celda"><img src="img/celda.png" height="500" width="350" alt="Matheroes Fotoenergía"></div>
+    <div class="matheroe-base-celda"><img src="img/base-celda.svg" height="500" width="350" alt="Matheroes Fotoenergía"></div>
+    <div class="matheroe-logo"><img src="img/logo-fotoenergia.svg" height="80" width="300" alt="Matheroes Fotoenergía"></div>
+    <a href="#verificar" class="link-verificar"></a>
+</div>
+<!--End Celda-->
+<!--Start Logo-->
+<section class="logo-matheroe">
+  <div class="container">
+    <img src="img/logo-fotoenergia.svg" height="80" width="300" alt="Matheroes Fotoenergía" class="matheroes wow fadeIn" data-wow-duration="0.6s" data-wow-delay="0s">
+  </div>
+</section>
+<!--End Logo-->
+<!--Start Chat Reto1-->
+<section class="chat-matheroe matheroe-fotoenergia">
+  <div class="chat-level wow fadeIn" data-wow-duration="0.6s" data-wow-delay="0.1s">
+    <p><span>Reto 1</span>ORIGEN</p>
+  </div>
+  <div class="container">
+    <div class="chat wow fadeInRight" data-wow-duration="0.6s" data-wow-delay="0.1s">
+      <p class="titulo-espacial">¡Socorro! ¿Hay alguien ahí? No responden.</p>
+      <p>Espero que los demás estén bien. Mi batería recargable interna se agota y aunque me ilumine, todo es negro.</p>
+      <p><strong>Parece que en la puerta hay un código de 3 cifras...</strong> Tengo que descifrarlo, pero necesito almacenar mi energía limpia del sol para enviar en un mensaje nuestra ubicación cuando consigamos reunirnos.</p>
+    </div>
+    <img src="img/chat-fotoenergia.svg" height="300" width="340" alt="Fotoenergía" class="matheroe-speak wow fadeInLeft" data-wow-duration="0.6s" data-wow-delay="0.1s">
+  </div>
+</section>
+<!--End Chat Reto1-->
+<!--Start Reto1-->
+<section class="reto reto-origen">
+  <div class="container content-column">
+      <div class="content-left wow fadeIn" data-wow-duration="0.6s" data-wow-delay="0.1s">
+        <div class="postit">
+          <p class="titulo-pista">Pregunta 1</p>
+          <p>Es un dispositivo electrónico que permite transformar la energía lumínica en energía eléctrica mediante el efecto fotoeléctrico, generando energía solar fotovoltaica:</p>
+          <p class="ahorcado"><span class="amarillo">_</span> _ _ _ _&nbsp;&nbsp;&nbsp;_ _ _ _ _</p>
+        </div>
+    </div>
+    <div class="content-right wow fadeIn" data-wow-duration="0.6s" data-wow-delay="0.1s">
+      <div class="postit">
+        <p class="titulo-pista">Pregunta 2</p>
+        <p>Compuesto que está formado por distintos elementos, pero en el que su componente principal no siempre es el carbono, siendo el agua el más abundante:</p>
+        <p class="ahorcado">_ <span class="verde">_</span> _ _ _ _ _ _ _ _</p>
+
+      </div>
+    </div>
+    <div class="content-left wow fadeIn" data-wow-duration="0.6s" data-wow-delay="0.1s">
+      <div class="postit">
+        <p class="titulo-pista">Pregunta 3</p>
+        <p>Sustancia química compuesta por grandes moléculas formadas por la unión de unidades más simples llamadas monómeros:</p>
+        <p class="ahorcado">_ _ _ <span class="morado">_</span> _ _ _ _</p>
+      </div>
+    </div>
+    <div class="content-right wow fadeIn" data-wow-duration="0.6s" data-wow-delay="0.1s">
+      <div class="postit">
+        <p class="titulo-pista">Pregunta 4</p>
+        <p>Es un material que ofrece poca resistencia al movimiento de la carga eléctrica. Sus átomos se caracterizan por tener pocos electrones en su capa de valencia, por lo que no se necesita mucha energía para que estos salten de un átomo a otro:</p>
+        <p class="ahorcado">_ <span class="rojo">_</span> _ _ _ _ _ _ _</p>
+
+      </div>
+    </div>
+    <div class="content-left wow fadeIn" data-wow-duration="0.6s" data-wow-delay="0.1s">
+      <div class="postit">
+        <p class="titulo-pista">Pregunta 5</p>
+        <p>Contrario a una de las palabras anteriores, sustancia química basada en carbono e hidrógeno generalmente relacionada con los seres vivos:</p>
+        <p class="ahorcado">_ _ _ _ _ _ <span class="azul">_</span> _ </p>
+      </div>
+    </div>
+    <div class="content-right wow fadeIn" data-wow-duration="0.6s" data-wow-delay="0.1s">
+      <div class="pista">
+        <p class="titulo-pista">¡Pista!</p>
+        <p>El primer dígito se forma con una de las letras de colores de cada una de las respuestas anteriores. Para saber, qué letra es, deberéis encontrar la silueta correcta de Fotoenergía que os descubrirá el patrón de colores de las letras que forman vuestro número.</p>
+        <img src="img/reto1-fotoenergia.svg" height="230" width="340" alt="Matheroes" class="siluetas">
+      </div>
+  </div>
+  </div>
+</section>
+<!--End Reto1-->
+<!--Start Chat Reto2-->
+<section class="chat-matheroe matheroe-fotoenergia">
+  <div class="chat-level wow fadeIn" data-wow-duration="0.6s" data-wow-delay="0.1s">
+    <p><span>Reto 2</span>SUPERPODER</p>
+  </div>
+  <div class="container">
+    <div class="chat wow fadeInRight" data-wow-duration="0.6s" data-wow-delay="0.1s">
+      <p class="titulo-espacial">Pero... ¿Qué es esto que veo en la pared?<br>
+      ¿Qué son esos símbolos? ¿Un mensaje encriptado?</p>
+      <p>Quizá dentro de El Escuadrón Oscuro haya alguien que quiere ayudarnos.</p>
+    </div>
+    <img src="img/chat-fotoenergia.svg" height="300" width="340" alt="Fotoenergia" class="matheroe-speak wow fadeInLeft" data-wow-duration="0.6s" data-wow-delay="0.1s">
+  </div>
+</section>
+<!--End Chat Reto2-->
+<!--Start Reto2-->
+<section class="reto reto-superpoder">
+  <div class="container content-column">
+      <div class="content-left wow fadeIn" data-wow-duration="0.6s" data-wow-delay="0.1s">
+        <div class="postit">
+          <p class="titulo-pista">Mensaje</p>
+          <img src="img/reto2-fotoenergia.svg" height="290" width="380" alt="Matheroes" class="reto-img">
+        </div>
+    </div>
+    <div class="content-right wow fadeIn" data-wow-duration="0.6s" data-wow-delay="0.1s">
+      <div class="pista">
+        <p class="titulo-pista">¡Un momento!</p>
+        <p>Parece que mis celdas solares orgánicas hechas con polímeros orgánicos semiconductores de bajo coste y no tóxicos, que producen energía limpia detectan un ligero rayo de sol. Parece que esa energía se conduce por un circuito eléctrico hasta un pequeño escondite. Pero, ¿qué hay dentro?</p>
+        <p><strong>¡Una tabla de descodificación!</strong></p>
+        <img src="img/reto2-codigos-fotoenergia.svg" height="400" width="340" alt="Matheroes" class="reto-img">
+      </div>
+    </div>
+  </div>
+</section>
+<!--End Reto2-->
+<!--Start Chat Reto3-->
+<section class="chat-matheroe matheroe-fotoenergia">
+  <div class="chat-level wow fadeIn" data-wow-duration="0.6s" data-wow-delay="0.1s">
+    <p><span>Reto 3</span>Liberación</p>
+  </div>
+  <div class="container">
+    <div class="chat wow fadeInRight" data-wow-duration="0.6s" data-wow-delay="0.1s">
+      <p class="titulo-espacial">¡Ya solo falta un número, pero el tiempo corre!</p>
+      <p>¿Puede que haya más pistas en la celda? <br>
+        ¿Y si siempre han estado, pero no las podemos ver para que El Escuadrón Oscuro no descubriese a nuestr@ ayudante?</p>
+        <p>Voy a activar el fotosensor... <br>
+        ¡Sí! Aquí están, <strong>hay unas imágenes luminiscentes.</strong></p>
+    </div>
+    <img src="img/chat-fotoenergia.svg" height="300" width="340" alt="Fotoenergia" class="matheroe-speak wow fadeInLeft" data-wow-duration="0.6s" data-wow-delay="0.1s">
+  </div>
+</section>
+<!--End Chat Reto3-->
+<!--Start Reto3-->
+<section class="reto reto-liberacion">
+  <div class="container content-column">
+      <div class="content-left wow fadeIn" data-wow-duration="0.6s" data-wow-delay="0.1s">
+        <div class="postit">
+          <p class="titulo-pista">¿Quién es quién?</p>
+          <p>Asocia cada científico a su trabajo y <strong>encuentra el intruso, él te dará el último dígito</strong>.</p>
+          <img src="img/reto3-fotoenergia.jpg" height="600" width="600" alt="Matheroes" class="reto-img">
+        </div>
+    </div>
+    <div class="content-right wow fadeIn" data-wow-duration="0.6s" data-wow-delay="0.1s">
+      <div class="pista">
+        <p class="titulo-pista">¿Quién es quién?</p>
+        <p><strong>Nicolás Copérnico:</strong> astrónomo que formuló la teoría heliocéntrica del Sistema Solar.</p>
+        <p><strong>William Hershel:</strong> astrónomo y músico descubridor del planeta Urano junto a su hermana Caroline.</p>
+        <p><strong>Charles Darwin:</strong> naturalista que planteó la idea de la evolución biológica a través de la selección natural.</p>
+        <p><strong>Johannes Kepler:</strong> astrónomo conocido fundamentalmente por sus leyes sobre el movimiento de los planetas en su órbita alrededor del Sol.</p>
+      </div>
+    </div>
+  </div>
+</section>
+<!--End Reto3-->
+<!--Start Verificar-->
+<section id="verificar" class="verificar">
+  <div class="container">
+    <p class="titulo-verificar">Código de liberación</p>
+    <form autocomplete="off">
+        <input type="text" value="" name="code1" id="inputVerify" placeholder="Introduce el código">
+        <button id="btnVerify" class="boton">Verificar</button>
+    </form>
+  </div>
+</section>
+<!--End Verificar-->

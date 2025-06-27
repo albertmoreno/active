@@ -1,0 +1,193 @@
+<script>
+jQuery(document).on("scroll", function() {
+  if(jQuery(document).scrollTop()>100) {
+    jQuery(".celda").removeClass("invisible").addClass("visible");
+  } else {
+    jQuery(".celda").removeClass("visible").addClass("invisible");
+  }
+});
+</script>
+<script>
+jQuery('.link-verificar').click(function(){
+		jQuery('html, body').animate({
+				scrollTop: jQuery( jQuery(this).attr('href') ).offset().top
+		}, 1000);
+		return false;
+});
+</script>
+<script>
+$(document).ready(function(){
+  $(".pista-boton").click(function(){
+    $(".pista-content").toggle("fast");
+  });
+});
+</script>
+<!--Start Celda-->
+<div class="celda invisible">
+    <div class="matheroe-silueta"><img src="img/matheroe-electrowoman.svg" height="500" width="350" alt="Matheroes Electrowoman"></div>
+    <div class="matheroe-celda"><img src="img/celda.png" height="500" width="350" alt="Matheroes Electrowoman"></div>
+    <div class="matheroe-base-celda"><img src="img/base-celda.svg" height="500" width="350" alt="Matheroes Electrowoman"></div>
+    <div class="matheroe-logo"><img src="img/logo-electrowoman.svg" height="100" width="300" alt="Matheroes Electrowoman"></div>
+    <a href="#verificar" class="link-verificar"></a>
+</div>
+<!--End Celda-->
+<!--Start Logo-->
+<section class="logo-matheroe">
+  <div class="container">
+    <img src="img/logo-electrowoman.svg" height="100" width="300" alt="Matheroes Electrowoman" class="matheroes wow fadeIn" data-wow-duration="0.6s" data-wow-delay="0s">
+  </div>
+</section>
+<!--End Logo-->
+<!--Start Chat Reto1-->
+<section class="chat-matheroe matheroe-electrowoman">
+  <div class="chat-level wow fadeIn" data-wow-duration="0.6s" data-wow-delay="0.1s">
+    <p><span>Repte 1</span>ORIGEN</p>
+  </div>
+  <div class="container">
+    <div class="chat wow fadeInRight" data-wow-duration="0.6s" data-wow-delay="0.1s">
+      <p class="titulo-espacial">Hola? Em sentiu?</p>
+      <p>Estic tancada en una cel·la feta amb un material aïllant, i encara que sóc molt flexible, no aconsegueixo detectar cap substància conductora que aconsegueixi obrir la porta.</p>
+      <p><strong>Pel que veig només funcionarà amb un codi de 3 xifres.</strong><br> Lluitem a contrarellotge!</p>
+    </div>
+    <img src="img/chat-electrowoman.svg" height="300" width="340" alt="Electrowoman" class="matheroe-speak wow fadeInLeft" data-wow-duration="0.6s" data-wow-delay="0.1s">
+  </div>
+</section>
+<!--End Chat Reto1-->
+<!--Start Reto1-->
+<section class="reto reto-origen">
+  <div class="container content-column">
+      <div class="content-left wow fadeIn" data-wow-duration="0.6s" data-wow-delay="0.1s">
+        <div class="postit">
+          <p class="titulo-pista">Pregunta 1</p>
+          <p>Són elements químics caracteritzats per ser bons conductors de la calor i l'electricitat. Posseeixen alta densitat i són sòlids a temperatura ambient; les seves sals formen ions electropositius en dissolució:</p>
+          <p class="ahorcado">_ _ <span class="azul">_</span> _ _ _ _</p>
+        </div>
+    </div>
+    <div class="content-right wow fadeIn" data-wow-duration="0.6s" data-wow-delay="0.1s">
+      <div class="postit">
+        <p class="titulo-pista">Pregunta 2</p>
+        <p>Quin és el símbol que designa la càrrega elèctrica?</p>
+        <p class="ahorcado"><span class="amarillo">_</span></p>
+      </div>
+    </div>
+    <div class="content-left wow fadeIn" data-wow-duration="0.6s" data-wow-delay="0.1s">
+      <div class="postit">
+        <p class="titulo-pista">Pregunta 3</p>
+        <p>Aquesta propietat es refereix a la capacitat d'un material o substància per a deixar passar el corrent elèctric a través d'ell:</p>
+        <p class="ahorcado">_ _ _ _ <span class="rojo">_</span> _ _ _ _ _ _ _ _</p>
+      </div>
+    </div>
+    <div class="content-right wow fadeIn" data-wow-duration="0.6s" data-wow-delay="0.1s">
+      <div class="postit">
+        <p class="titulo-pista">Pregunta 4</p>
+        <p>Quina lletra representa la unitat de mesura del corrent elèctric?</p>
+        <p class="ahorcado"><span class="verde">_</span></p>
+      </div>
+    </div>
+    <div class="content-left wow fadeIn" data-wow-duration="0.6s" data-wow-delay="0.1s">
+      <div class="postit">
+        <p class="titulo-pista">Pregunta 5</p>
+        <p>És la mesura de l'oposició al pas del corrent elèctric a través d'un conductor:</p>
+        <p class="ahorcado"><span class="marron">_</span> _ _ _ _ _ _ _ _ _ _</p>
+      </div>
+    </div>
+    <div class="content-right wow fadeIn" data-wow-duration="0.6s" data-wow-delay="0.1s">
+      <div class="postit">
+        <p class="titulo-pista">Pregunta 6</p>
+        <p>Substància que està formada per àtoms del mateix tipus, els nuclis del qual presenten la mateixa quantitat de protons més enllà del nombre de neutrons:</p>
+        <p class="ahorcado">_ _ <span class="morado">_</span> _ _ _ _</p>
+      </div>
+    </div>
+    <div class="content-left wow fadeIn" data-wow-duration="0.6s" data-wow-delay="0.1s">
+      <div class="pista">
+        <p class="titulo-pista">Pista!</p>
+        <p>El primer dígit es forma amb una de les lletres de colors de cadascuna de les respostes anteriors. Per saber quina lletra és, haureu de trobar la silueta correcta de ElectroWoman que us descobrirà el patró de colors de les lletres que formen el vostre número.</p>
+        <img src="img/reto1-electrowoman.svg" height="180" width="340" alt="Matheroes" class="siluetas">
+      </div>
+  </div>
+  </div>
+</section>
+<!--End Reto1-->
+<!--Start Chat Reto2-->
+<section class="chat-matheroe matheroe-electrowoman">
+  <div class="chat-level wow fadeIn" data-wow-duration="0.6s" data-wow-delay="0.1s">
+    <p><span>Repte 2</span>SUPERPODER</p>
+  </div>
+  <div class="container">
+    <div class="chat wow fadeInRight" data-wow-duration="0.6s" data-wow-delay="0.1s">
+      <p class="titulo-espacial">Però... Què és això que veig a la paret?<br>
+       Què són aquests símbols? Un missatge encriptat?</p>
+      <p>Potser dins l'Esquadró Fosc hi hagi algú que vol ajudar-nos.</p>
+    </div>
+    <img src="img/chat-electrowoman.svg" height="300" width="340" alt="Electrowoman" class="matheroe-speak wow fadeInLeft" data-wow-duration="0.6s" data-wow-delay="0.1s">
+  </div>
+</section>
+<!--End Chat Reto2-->
+<!--Start Reto2-->
+<section class="reto reto-superpoder">
+  <div class="container content-column">
+      <div class="content-left wow fadeIn" data-wow-duration="0.6s" data-wow-delay="0.1s">
+        <div class="postit">
+          <p class="titulo-pista">Missatge</p>
+          <img src="img/reto2-electrowoman.svg" height="220" width="340" alt="Matheroes" class="reto-img">
+        </div>
+    </div>
+    <div class="content-right wow fadeIn" data-wow-duration="0.6s" data-wow-delay="0.1s">
+      <div class="pista">
+        <p class="titulo-pista">Un moment!</p>
+        <p>Estava intentant desenvolupar un circuit a través de les molècules de la cel·la quan m'he trobat amb un interruptor molecular que ha canviat la seva geometria al aplicar-li llum. Això ha fet que trobés...</p>
+        <p><strong>Una taula de descodificació!</strong></p>
+        <img src="img/reto2-codigos-electrowoman.svg" height="400" width="340" alt="Matheroes" class="reto-img">
+      </div>
+    </div>
+  </div>
+</section>
+<!--End Reto2-->
+<!--Start Chat Reto3-->
+<section class="chat-matheroe matheroe-electrowoman">
+  <div class="chat-level wow fadeIn" data-wow-duration="0.6s" data-wow-delay="0.1s">
+    <p><span>Repte 3</span>Alliberament</p>
+  </div>
+  <div class="container">
+    <div class="chat wow fadeInRight" data-wow-duration="0.6s" data-wow-delay="0.1s">
+      <p class="titulo-espacial">Ja només cal un número, però el temps corre!</p>
+      <p>Potser hi ha més pistes a la cel·la? <br>
+        I si sempre n’hi ha hagut, però no les podem veure perquè l'Esquadró Fosc no descobrís al nostre ajudant?</p>
+        <p>Vaig a activar el microscopi... <br>
+        Sí! Aquí, <strong>hi ha unes imatges diminutes i una equació?</strong></p>
+    </div>
+    <img src="img/chat-electrowoman.svg" height="300" width="340" alt="Electrowoman" class="matheroe-speak wow fadeInLeft" data-wow-duration="0.6s" data-wow-delay="0.1s">
+  </div>
+</section>
+<!--End Chat Reto3-->
+<!--Start Reto3-->
+<section class="reto reto-liberacion">
+  <div class="container content-column">
+      <div class="content-left wow fadeIn" data-wow-duration="0.6s" data-wow-delay="0.1s">
+        <div class="postit">
+          <p class="titulo-pista">Associació d'imatges</p>
+          <p>Associa les imatges de mida real amb la seva corresponent visió a través d'un microscopi.</p>
+          <img src="img/reto3-electrowoman.jpg" height="600" width="600" alt="Matheroes" class="reto-img">
+        </div>
+    </div>
+    <div class="content-right wow fadeIn" data-wow-duration="0.6s" data-wow-delay="0.1s">
+      <div class="pista">
+        <p class="titulo-pista">Resol l'equació</p>
+        <p>Per obtenir l'últim dígit (X).</p>
+        <img src="img/reto3-codigos-electrowoman.svg" height="100" width="600" alt="Matheroes" class="reto-img">
+      </div>
+    </div>
+  </div>
+</section>
+<!--End Reto3-->
+<!--Start Verificar-->
+<section id="verificar" class="verificar">
+  <div class="container">
+    <p class="titulo-verificar">CODI D'ALLIBERAMENT</p>
+    <form autocomplete="off">
+        <input type="text" value="" name="code1" id="inputVerify" placeholder="Introdueix el codi">
+        <button id="btnVerify" class="boton">Verificar</button>
+    </form>
+  </div>
+</section>
+<!--End Verificar-->

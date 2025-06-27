@@ -1,0 +1,193 @@
+<script>
+jQuery(document).on("scroll", function() {
+  if(jQuery(document).scrollTop()>100) {
+    jQuery(".celda").removeClass("invisible").addClass("visible");
+  } else {
+    jQuery(".celda").removeClass("visible").addClass("invisible");
+  }
+});
+</script>
+<script>
+jQuery('.link-verificar').click(function(){
+		jQuery('html, body').animate({
+				scrollTop: jQuery( jQuery(this).attr('href') ).offset().top
+		}, 1000);
+		return false;
+});
+</script>
+<script>
+$(document).ready(function(){
+  $(".pista-boton").click(function(){
+    $(".pista-content").toggle("fast");
+  });
+});
+</script>
+<!--Start Celda-->
+<div class="celda invisible">
+    <div class="matheroe-silueta"><img src="img/matheroe-electrowoman.svg" height="500" width="350" alt="Matheroes Electrowoman"></div>
+    <div class="matheroe-celda"><img src="img/celda.png" height="500" width="350" alt="Matheroes Electrowoman"></div>
+    <div class="matheroe-base-celda"><img src="img/base-celda.svg" height="500" width="350" alt="Matheroes Electrowoman"></div>
+    <div class="matheroe-logo"><img src="img/logo-electrowoman.svg" height="100" width="300" alt="Matheroes Electrowoman"></div>
+    <a href="#verificar" class="link-verificar"></a>
+</div>
+<!--End Celda-->
+<!--Start Logo-->
+<section class="logo-matheroe">
+  <div class="container">
+    <img src="img/logo-electrowoman.svg" height="100" width="300" alt="Matheroes Electrowoman" class="matheroes wow fadeIn" data-wow-duration="0.6s" data-wow-delay="0s">
+  </div>
+</section>
+<!--End Logo-->
+<!--Start Chat Reto1-->
+<section class="chat-matheroe matheroe-electrowoman">
+  <div class="chat-level wow fadeIn" data-wow-duration="0.6s" data-wow-delay="0.1s">
+    <p><span>Reto 1</span>ORIGEN</p>
+  </div>
+  <div class="container">
+    <div class="chat wow fadeInRight" data-wow-duration="0.6s" data-wow-delay="0.1s">
+      <p class="titulo-espacial">¿Hola? ¿Me escucháis?</p>
+      <p>Estoy encerrada en una celda hecha con un material aislante, aunque soy muy flexible no consigo detectar alguna sustancia conductora que consiga abrir la puerta.</p>
+      <p><strong>Por lo que veo solo funcionará con un código de 3 cifras.</strong><br>¡Luchamos a contrarreloj!</p>
+    </div>
+    <img src="img/chat-electrowoman.svg" height="300" width="340" alt="Electrowoman" class="matheroe-speak wow fadeInLeft" data-wow-duration="0.6s" data-wow-delay="0.1s">
+  </div>
+</section>
+<!--End Chat Reto1-->
+<!--Start Reto1-->
+<section class="reto reto-origen">
+  <div class="container content-column">
+      <div class="content-left wow fadeIn" data-wow-duration="0.6s" data-wow-delay="0.1s">
+        <div class="postit">
+          <p class="titulo-pista">Pregunta 1</p>
+          <p>Son elementos químicos caracterizados por ser buenos conductores del calor y la electricidad. Poseen alta densidad y son sólidos a temperatura ambiente; sus sales forman iones electropositivos en disolución:</p>
+          <p class="ahorcado">_ _ <span class="azul">_</span> _ _ _ _</p>
+        </div>
+    </div>
+    <div class="content-right wow fadeIn" data-wow-duration="0.6s" data-wow-delay="0.1s">
+      <div class="postit">
+        <p class="titulo-pista">Pregunta 2</p>
+        <p>¿Cuál es el símbolo de la unidad que mide la carga eléctrica?</p>
+        <p class="ahorcado"><span class="amarillo">_</span></p>
+      </div>
+    </div>
+    <div class="content-left wow fadeIn" data-wow-duration="0.6s" data-wow-delay="0.1s">
+      <div class="postit">
+        <p class="titulo-pista">Pregunta 3</p>
+        <p>Esta propiedad se refiere a la capacidad de un material o sustancia para dejar pasar la corriente eléctrica a través de él:</p>
+        <p class="ahorcado">_ _ _ _ <span class="rojo">_</span> _ _ _ _ _ _ _ _</p>
+      </div>
+    </div>
+    <div class="content-right wow fadeIn" data-wow-duration="0.6s" data-wow-delay="0.1s">
+      <div class="postit">
+        <p class="titulo-pista">Pregunta 4</p>
+        <p>¿Qué letra representa a la unidad de medida de la corriente eléctrica?</p>
+        <p class="ahorcado"><span class="verde">_</span></p>
+      </div>
+    </div>
+    <div class="content-left wow fadeIn" data-wow-duration="0.6s" data-wow-delay="0.1s">
+      <div class="postit">
+        <p class="titulo-pista">Pregunta 5</p>
+        <p>Es la medida de la oposición al paso de la corriente eléctrica a través de un conductor:</p>
+        <p class="ahorcado"><span class="marron">_</span> _ _ _ _ _ _ _ _ _ _</p>
+      </div>
+    </div>
+    <div class="content-right wow fadeIn" data-wow-duration="0.6s" data-wow-delay="0.1s">
+      <div class="postit">
+        <p class="titulo-pista">Pregunta 6</p>
+        <p>Sustancia que está formada por átomos del mismo tipo cuyos núcleos presentan la misma cantidad de protones más allá del número de neutrones:</p>
+        <p class="ahorcado">_ _ _ _ _ _ _ <span class="morado">_</span></p>
+      </div>
+    </div>
+    <div class="content-left wow fadeIn" data-wow-duration="0.6s" data-wow-delay="0.1s">
+      <div class="pista">
+        <p class="titulo-pista">¡Pista!</p>
+        <p>El primer dígito se forma con una de las letras de colores de cada una de las respuestas anteriores. Para saber, qué letra es, deberéis encontrar la silueta correcta de ElectroWoman que os descubrirá el patrón de colores de las letras que forman vuestro número.</p>
+        <img src="img/reto1-electrowoman.svg" height="180" width="340" alt="Matheroes" class="siluetas">
+      </div>
+  </div>
+  </div>
+</section>
+<!--End Reto1-->
+<!--Start Chat Reto2-->
+<section class="chat-matheroe matheroe-electrowoman">
+  <div class="chat-level wow fadeIn" data-wow-duration="0.6s" data-wow-delay="0.1s">
+    <p><span>Reto 2</span>SUPERPODER</p>
+  </div>
+  <div class="container">
+    <div class="chat wow fadeInRight" data-wow-duration="0.6s" data-wow-delay="0.1s">
+      <p class="titulo-espacial">Pero... ¿Qué es esto que veo en la pared?<br>
+      ¿Qué son esos símbolos? ¿Un mensaje encriptado?</p>
+      <p>Quizá dentro de El Escuadrón Oscuro haya alguien que quiere ayudarnos.</p>
+    </div>
+    <img src="img/chat-electrowoman.svg" height="300" width="340" alt="Electrowoman" class="matheroe-speak wow fadeInLeft" data-wow-duration="0.6s" data-wow-delay="0.1s">
+  </div>
+</section>
+<!--End Chat Reto2-->
+<!--Start Reto2-->
+<section class="reto reto-superpoder">
+  <div class="container content-column">
+      <div class="content-left wow fadeIn" data-wow-duration="0.6s" data-wow-delay="0.1s">
+        <div class="postit">
+          <p class="titulo-pista">Mensaje</p>
+          <img src="img/reto2-electrowoman.svg" height="220" width="340" alt="Matheroes" class="reto-img">
+        </div>
+    </div>
+    <div class="content-right wow fadeIn" data-wow-duration="0.6s" data-wow-delay="0.1s">
+      <div class="pista">
+        <p class="titulo-pista">¡Un momento!</p>
+        <p>Estaba intentando desarrollar un circuito a través de las moléculas de la celda cuando me he encontrado con un interruptor molecular que ha cambiado su geometría al aplicarle luz. Eso ha hecho que encontrase...</p>
+        <p><strong>¡Una tabla de descodificación!</strong></p>
+        <img src="img/reto2-codigos-electrowoman.svg" height="400" width="340" alt="Matheroes" class="reto-img">
+      </div>
+    </div>
+  </div>
+</section>
+<!--End Reto2-->
+<!--Start Chat Reto3-->
+<section class="chat-matheroe matheroe-electrowoman">
+  <div class="chat-level wow fadeIn" data-wow-duration="0.6s" data-wow-delay="0.1s">
+    <p><span>Reto 3</span>Liberación</p>
+  </div>
+  <div class="container">
+    <div class="chat wow fadeInRight" data-wow-duration="0.6s" data-wow-delay="0.1s">
+      <p class="titulo-espacial">¡Ya solo falta un número, pero el tiempo corre!</p>
+      <p>¿Puede que haya más pistas en la celda? <br>
+        ¿Y si siempre han estado, pero no las podemos ver para que El Escuadrón Oscuro no descubriese a nuestr@ ayudante?</p>
+        <p>Voy a activar el microscopio... <br>
+        ¡Sí! Aquí están, <strong>hay unas imágenes diminutas y una ¿ecuación?</strong></p>
+    </div>
+    <img src="img/chat-electrowoman.svg" height="300" width="340" alt="Electrowoman" class="matheroe-speak wow fadeInLeft" data-wow-duration="0.6s" data-wow-delay="0.1s">
+  </div>
+</section>
+<!--End Chat Reto3-->
+<!--Start Reto3-->
+<section class="reto reto-liberacion">
+  <div class="container content-column">
+      <div class="content-left wow fadeIn" data-wow-duration="0.6s" data-wow-delay="0.1s">
+        <div class="postit">
+          <p class="titulo-pista">Asocia las imágenes</p>
+          <p>Asocia las imágenes de tamaño real con su correspondiente visión a través de un microscopio.</p>
+          <img src="img/reto3-electrowoman.jpg" height="600" width="600" alt="Matheroes" class="reto-img">
+        </div>
+    </div>
+    <div class="content-right wow fadeIn" data-wow-duration="0.6s" data-wow-delay="0.1s">
+      <div class="pista">
+        <p class="titulo-pista">Resuelve la ecuación</p>
+        <p>Para obtener el último dígito (X).</p>
+        <img src="img/reto3-codigos-electrowoman.svg" height="100" width="600" alt="Matheroes" class="reto-img">
+      </div>
+    </div>
+  </div>
+</section>
+<!--End Reto3-->
+<!--Start Verificar-->
+<section id="verificar" class="verificar">
+  <div class="container">
+    <p class="titulo-verificar">Código de liberación</p>
+    <form autocomplete="off">
+        <input type="text" value="" name="code1" id="inputVerify" placeholder="Introduce el código">
+        <button id="btnVerify" class="boton">Verificar</button>
+    </form>
+  </div>
+</section>
+<!--End Verificar-->

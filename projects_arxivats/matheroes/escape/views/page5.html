@@ -1,0 +1,176 @@
+<script>
+jQuery(document).on("scroll", function() {
+  if(jQuery(document).scrollTop()>100) {
+    jQuery(".celda").removeClass("invisible").addClass("visible");
+  } else {
+    jQuery(".celda").removeClass("visible").addClass("invisible");
+  }
+});
+</script>
+<script>
+jQuery('.link-verificar').click(function(){
+		jQuery('html, body').animate({
+				scrollTop: jQuery( jQuery(this).attr('href') ).offset().top
+		}, 1000);
+		return false;
+});
+</script>
+<script>
+$(document).ready(function(){
+  $(".pista-boton").click(function(){
+    $(".pista-content").toggle("fast");
+  });
+});
+</script>
+<!--Start Celda-->
+<div class="celda invisible">
+    <div class="matheroe-silueta"><img src="img/matheroe-superconductor.svg" height="500" width="350" alt="Matheroes Superconductor"></div>
+    <div class="matheroe-celda"><img src="img/celda.png" height="500" width="350" alt="Matheroes Superconductor"></div>
+    <div class="matheroe-base-celda"><img src="img/base-celda.svg" height="500" width="350" alt="Matheroes Superconductor"></div>
+    <div class="matheroe-logo"><img src="img/logo-superconductor.svg" height="120" width="300" alt="Matheroes Superconductor"></div>
+    <a href="#verificar" class="link-verificar"></a>
+</div>
+<!--End Celda-->
+<!--Start Logo-->
+<section class="logo-matheroe">
+  <div class="container">
+    <img src="img/logo-superconductor.svg" height="120" width="300" alt="Matheroes Superconductor" class="matheroes wow fadeIn" data-wow-duration="0.6s" data-wow-delay="0s">
+  </div>
+</section>
+<!--End Logo-->
+<!--Start Chat Reto1-->
+<section class="chat-matheroe matheroe-superconductor">
+  <div class="chat-level wow fadeIn" data-wow-duration="0.6s" data-wow-delay="0.1s">
+    <p><span>Reto 1</span>ORIGEN</p>
+  </div>
+  <div class="container">
+    <div class="chat wow fadeInRight" data-wow-duration="0.6s" data-wow-delay="0.1s">
+      <p class="titulo-espacial">¿Estáis ahí?</p>
+      <p>Mi superconductividad no funciona. Debo estar en una celda que genera un campo magnético. Si tuviera mis nanopartículas podría resistirme a los efectos del campo magnético.</p>
+      <p><strong>Quizá puedo conseguir averiguar el código de 3 dígitos</strong> de la celda y que juntos derrotemos a El Escuadrón Oscuro.</p>
+    </div>
+    <img src="img/chat-superconductor.svg" height="300" width="340" alt="Superconductor" class="matheroe-speak wow fadeInLeft" data-wow-duration="0.6s" data-wow-delay="0.1s">
+  </div>
+</section>
+<!--End Chat Reto1-->
+<!--Start Reto1-->
+<section class="reto reto-origen">
+  <div class="container content-column">
+      <div class="content-left wow fadeIn" data-wow-duration="0.6s" data-wow-delay="0.1s">
+        <div class="postit">
+          <p class="titulo-pista">Pregunta 1</p>
+          <p>Es la capacidad intrínseca que poseen ciertos materiales para conducir la corriente eléctrica sin resistencia ni pérdida de energía en determinadas condiciones:</p>
+          <p class="ahorcado"><span class="morado">_</span> _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _</p>
+        </div>
+    </div>
+    <div class="content-right wow fadeIn" data-wow-duration="0.6s" data-wow-delay="0.1s">
+      <div class="postit">
+        <p class="titulo-pista">Pregunta 2</p>
+        <p>Qué fenómeno es una aplicación muy estimulante de la superconductividad que se basa en la expulsión del campo magnético por parte de los materiales superconductores y ofrece un gran potencial en sus aplicaciones tecnológicas como en el transporte:</p>
+        <p class="ahorcado">_ _ _ _ _ _ _ _ <span class="amarillo">_</span> _</p>
+      </div>
+    </div>
+    <div class="content-left wow fadeIn" data-wow-duration="0.6s" data-wow-delay="0.1s">
+      <div class="postit">
+        <p class="titulo-pista">Pregunta 3</p>
+        <p>Instalaciones científicas que crean grandes campos magnéticos y aceleran las partículas para generar colisiones de gran energía:</p>
+        <p class="ahorcado">_ _ _ _ _ _ _ <span class="rojo">_</span> _ _</p>
+      </div>
+    </div>
+    <div class="content-right wow fadeIn" data-wow-duration="0.6s" data-wow-delay="0.1s">
+      <div class="pista">
+        <p class="titulo-pista">¡Pista!</p>
+        <p>El primer dígito se forma con una de las letras de colores de cada una de las respuestas anteriores. Para saber, qué letra es, deberéis encontrar la silueta correcta de Superconductor que os descubrirá el patrón de colores de las letras que forman vuestro número.</p>
+        <img src="img/reto1-superconductor.svg" height="220" width="340" alt="Matheroes" class="siluetas">
+      </div>
+  </div>
+  </div>
+</section>
+<!--End Reto1-->
+<!--Start Chat Reto2-->
+<section class="chat-matheroe matheroe-superconductor">
+  <div class="chat-level wow fadeIn" data-wow-duration="0.6s" data-wow-delay="0.1s">
+    <p><span>Reto 2</span>SUPERPODER</p>
+  </div>
+  <div class="container">
+    <div class="chat wow fadeInRight" data-wow-duration="0.6s" data-wow-delay="0.1s">
+      <p class="titulo-espacial">Pero... ¿Qué es esto que veo en la pared?<br>
+      ¿Qué son esos símbolos? ¿Un mensaje encriptado?</p>
+      <p>Quizá dentro de El Escuadrón Oscuro haya alguien que quiere ayudarnos.</p>
+    </div>
+    <img src="img/chat-superconductor.svg" height="300" width="340" alt="Superconductor" class="matheroe-speak wow fadeInLeft" data-wow-duration="0.6s" data-wow-delay="0.1s">
+  </div>
+</section>
+<!--End Chat Reto2-->
+<!--Start Reto2-->
+<section class="reto reto-superpoder">
+  <div class="container content-column">
+      <div class="content-left wow fadeIn" data-wow-duration="0.6s" data-wow-delay="0.1s">
+        <div class="postit">
+          <p class="titulo-pista">Mensaje</p>
+          <img src="img/reto2-superconductor.svg" height="314" width="340" alt="Matheroes" class="reto-img">
+        </div>
+    </div>
+    <div class="content-right wow fadeIn" data-wow-duration="0.6s" data-wow-delay="0.1s">
+      <div class="pista">
+        <p class="titulo-pista">¡Un momento!</p>
+        <p>Estaba intentando desarrollar un circuito a través de las moléculas de la celda cuando me he encontrado con un interruptor molecular que ha cambiado su geometría al aplicarle luz. Eso ha hecho que encontrase...</p>
+        <p><strong>¡Una tabla de descodificación!</strong></p>
+        <img src="img/reto2-codigos-superconductor.svg" height="400" width="340" alt="Matheroes" class="reto-img">
+      </div>
+    </div>
+  </div>
+</section>
+<!--End Reto2-->
+<!--Start Chat Reto3-->
+<section class="chat-matheroe matheroe-superconductor">
+  <div class="chat-level wow fadeIn" data-wow-duration="0.6s" data-wow-delay="0.1s">
+    <p><span>Reto 3</span>Liberación</p>
+  </div>
+  <div class="container">
+    <div class="chat wow fadeInRight" data-wow-duration="0.6s" data-wow-delay="0.1s">
+      <p class="titulo-espacial">¡Ya solo falta un número, pero el tiempo corre!</p>
+      <p>¿Puede que haya más pistas en la celda? <br>
+        ¿Y si siempre han estado, pero no las podemos ver para que El Escuadrón Oscuro no descubriese a nuestr@ ayudante?</p>
+        <p>¡Sí! Aquí están, <strong>hay unas imágenes y una ¿ecuación?</strong></p>
+    </div>
+    <img src="img/chat-superconductor.svg" height="300" width="340" alt="Superconductor" class="matheroe-speak wow fadeInLeft" data-wow-duration="0.6s" data-wow-delay="0.1s">
+  </div>
+</section>
+<!--End Chat Reto3-->
+<!--Start Reto3-->
+<section class="reto reto-liberacion">
+  <div class="container content-column">
+      <div class="content-left wow fadeIn" data-wow-duration="0.6s" data-wow-delay="0.1s">
+        <div class="postit">
+          <p class="titulo-pista">¿Sabes cuánto miden?</p>
+          <p>Asocia cada imagen con su tamaño.</p>
+          <img src="img/reto3-superconductor.jpg" height="600" width="600" alt="Matheroes" class="reto-img">
+          <br>
+          <p class="postit-pistas"><span>-2</span>2,5 nanómetros</p>
+          <p class="postit-pistas"><span>0</span>7 micrómetros</p>
+          <p class="postit-pistas"><span>1</span>80 nanómetros</p>
+          <p class="postit-pistas"><span>3</span>2 micrómetros</p>
+        </div>
+    </div>
+    <div class="content-right wow fadeIn" data-wow-duration="0.6s" data-wow-delay="0.1s">
+      <div class="pista">
+        <p class="titulo-pista">Resuelve la ecuación</p>
+        <p>Para obtener el tercer dígito.</p>
+        <img src="img/reto3-codigos-superconductor.svg" height="100" width="600" alt="Matheroes" class="reto-img">
+      </div>
+    </div>
+  </div>
+</section>
+<!--End Reto3-->
+<!--Start Verificar-->
+<section id="verificar" class="verificar">
+  <div class="container">
+    <p class="titulo-verificar">Código de liberación</p>
+    <form autocomplete="off">
+        <input type="text" value="" name="code1" id="inputVerify" placeholder="Introduce el código">
+        <button id="btnVerify" class="boton">Verificar</button>
+    </form>
+  </div>
+</section>
+<!--End Verificar-->
