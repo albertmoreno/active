@@ -1,0 +1,52 @@
+
+:root{
+  --icmab-blue:#0345bf;
+  --ink:#1C2227;
+  --muted:rgba(28,34,39,.65);
+  --bg:#f6f8fc;
+  --border:rgba(28,34,39,.10);
+}
+body{
+  font-family:'Montserrat',sans-serif;
+  color:var(--ink);
+  background:radial-gradient(900px 420px at 15% 0%, rgba(3,69,191,.10), transparent 60%),var(--bg);
+}
+.topbar{position:sticky;top:0;background:#fff;border-bottom:1px solid var(--border);}
+.topbar-inner{display:flex;align-items:center;justify-content:space-between;}
+.topbar-logo{display:flex;align-items:center;}
+.topbar-logo-img{height:48px;width:auto;object-fit:contain;}
+.topbar-nav{display:flex;align-items:center;gap:.25rem;flex-wrap:wrap;}
+.topbar .nav-link{font-size:1.05rem;font-weight:600;padding:.5rem 1rem!important;border-radius:999px;}
+.topbar .nav-link.active{background:var(--icmab-blue);color:#fff!important;}
+.topbar .nav-link:not(.active):hover{background:var(--border);}
+.card-soft{background:#fff;border:1px solid var(--border);border-radius:18px;padding:1.5rem;}
+.section{padding:2rem 0;}
+.logo-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:1rem;}
+.logo-grid img{width:100%;border:1px solid var(--border);border-radius:12px;}
+/* Funding logos */
+.funding-logos .funding-logo-wrap{min-height:80px;display:flex;align-items:center;justify-content:center;}
+.funding-logos .funding-logo-wrap img{max-height:80px;width:auto;object-fit:contain;}
+.funding-logos .funding-logo-wrap img.funding-logo-aei{max-height:110px;}
+/* Project description */
+.project-heading{border-bottom:2px solid var(--icmab-blue);padding-bottom:.5rem;font-weight:700;}
+.project-heading span{letter-spacing:.05em;}
+.project-text p:last-child{margin-bottom:0;}
+/* Members */
+.members-heading{border-bottom:2px solid var(--icmab-blue);padding-bottom:.5rem;font-weight:700;}
+.members-heading span{letter-spacing:.05em;}
+.member-card .member-photo{aspect-ratio:1;object-fit:cover;}
+.member-card .member-placeholder{aspect-ratio:1;min-height:200px;}
+/* Entities */
+.entities-heading{border-bottom:2px solid var(--icmab-blue);padding-bottom:.5rem;font-weight:700;}
+.entities-heading span{letter-spacing:.05em;}
+.entity-panel .entity-logo{max-height:120px;width:auto;object-fit:contain;}
+.entity-desc{font-size:1.1rem;color:var(--muted);}
+.entity-link:hover .entity-logo{opacity:.85;}
+/* Footer (Entities / Funding) – fondo #0A47A0 */
+.site-footer{background:#0A47A0;color:#fff;margin-top:3rem;}
+.site-footer .footer-title{color:#fff;margin-bottom:1.5rem;}
+.site-footer .footer-inner{background:transparent;border:none;padding:0;}
+.site-footer .footer-caption{color:rgba(255,255,255,.85)!important;}
+.site-footer .footer-heading.entities-heading{border-bottom-color:rgba(255,255,255,.5);color:#fff;}
+.site-footer .footer-entity-desc{color:rgba(255,255,255,.9)!important;}
+.site-footer .entity-link:hover .entity-logo{opacity:.9;}
