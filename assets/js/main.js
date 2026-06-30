@@ -218,4 +218,17 @@
 
   });
 
+  /**
+   * Archive catalogue item count (events / projects / annual reports pages)
+   */
+  const archiveCountEl = document.querySelector('[data-archive-count]');
+  if (archiveCountEl) {
+    const container = document.querySelector('.isotope-container');
+    const label = archiveCountEl.getAttribute('data-archive-count-label') || 'archived websites';
+    if (container) {
+      const n = container.querySelectorAll('.portfolio-item').length;
+      archiveCountEl.textContent = n + ' ' + label;
+    }
+  }
+
 })();

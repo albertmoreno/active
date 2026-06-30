@@ -692,6 +692,12 @@ h6 {
   color: var(--heading-color);
 }
 
+.page-title .archive-count {
+  color: color-mix(in srgb, var(--default-color), transparent 35%);
+  font-size: 1rem;
+  margin: 0.35rem 0 0.75rem;
+}
+
 .page-title .custom-breadcrumb {
   background: none;
   padding: 0;
